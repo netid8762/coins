@@ -1,0 +1,30 @@
+{
+    "delisted_coins": [
+        "AURE",
+        "JKC",
+        "BOLI",
+        "BTGS",
+        "BTGS-segwit",
+        "CLAM",
+        "CRNC",
+        "MWC",
+        "DEV",
+        "DP",
+        "FLOP",
+        "GBX",
+        "IL8P",
+        "IRIS",
+        "LC2",
+        "LC2-segwit",
+        "LCN",
+        "LCN-segwit",
+        "PRCY",
+        "THC",
+        "VIA",
+        "VIA-segwit",
+        "VRM",
+        "XVC",
+        "UFO"
+    ],
+    "days_since_connection": {}
+}
