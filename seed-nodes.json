@@ -1,17 +1,5 @@
 [
     {
-        "name": "seed-kmdefi-1",
-        "host": "seed01.kmdefi.net",
-        "type": "domain",
-        "wss": true,
-        "netid": 6133,
-        "contact": [
-            {
-                "email": ""
-            }
-        ]
-    },
-    {
         "name": "seed-kmdefi-2",
         "host": "seed02.kmdefi.net",
         "type": "domain",
@@ -24,71 +12,11 @@
         ]
     },
     {
-        "name": "seed-kmdefi-3",
-        "host": "seed03.kmdefi.net",
-        "type": "domain",
-        "wss": true,
-        "netid": 6133,
-        "contact": [
-            {
-                "email": ""
-            }
-        ]
-    },
-    {
         "name": "seed-kmdefi-4",
         "host": "seed04.kmdefi.net",
         "type": "domain",
         "wss": true,
         "netid": 8762,
-        "contact": [
-            {
-                "email": ""
-            }
-        ]
-    },
-    {
-        "name": "seed-decker-1",
-        "host": "kdfseed1.decker.im",
-        "type": "domain",
-        "wss": true,
-        "netid": 6133,
-        "contact": [
-            {
-                "email": ""
-            }
-        ]
-    },
-    {
-        "name": "seed-gleec-1",
-        "host": "staking1.gleec.com",
-        "type": "domain",
-        "wss": true,
-        "netid": 6133,
-        "contact": [
-            {
-                "email": ""
-            }
-        ]
-    },
-    {
-        "name": "seed-gleec-2",
-        "host": "staking2.gleec.com",
-        "type": "domain",
-        "wss": true,
-        "netid": 6133,
-        "contact": [
-            {
-                "email": ""
-            }
-        ]
-    },
-    {
-        "name": "seed-swapscope-1",
-        "host": "seed01.swapscope.net",
-        "type": "domain",
-        "wss": true,
-        "netid": 6133,
         "contact": [
             {
                 "email": ""
