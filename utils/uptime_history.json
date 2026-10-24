@@ -742,7 +742,8 @@
         }
       },
       "bit-e.minethepla.net:50002": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792803260": "online"
       },
       "bit-e.minethepla.net:50004": {
         "1792802530": "online"
@@ -751,7 +752,8 @@
         "1792802530": "online"
       },
       "bit-e.outsidethebox.top:50004": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792803260": "online"
       },
       "bitn-electrumx.wattxchange.app:50011": {
         "1792802530": "online"
@@ -763,10 +765,12 @@
         "1792802530": "online"
       },
       "bitnet.outsidethebox.top:50002": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792803260": "online"
       },
       "bitnet.outsidethebox.top:50004": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792803260": "online"
       }
     }
   },
@@ -3727,7 +3731,8 @@
         "1792802530": "online"
       },
       "https://public.1rpc.io/glmr": {
-        "1792802530": "online"
+        "1792802530": "online",
+        "1792803260": "offline"
       },
       "wss://moonbeam.api.onfinality.io/public-ws": {
         "1792802530": "online"
@@ -6835,7 +6840,8 @@
     "all": {},
     "by_server": {
       "https://lb.routeme.sh/rpc/evm/964": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792803260": "online"
       },
       "https://lite.chain.opentensor.ai": {
         "1792802530": "online"
@@ -7216,7 +7222,8 @@
     "all": {},
     "by_server": {
       "https://lb.routeme.sh/rpc/evm/964": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792803260": "online"
       },
       "https://lite.chain.opentensor.ai": {
         "1792802530": "online"
