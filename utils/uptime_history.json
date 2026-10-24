@@ -1098,16 +1098,20 @@
         }
       },
       "electrum1.btcz.rocks:50002": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792881136": "online"
       },
       "electrum1.btcz.rocks:50004": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792881136": "online"
       },
       "electrum2.btcz.rocks:50002": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792881136": "online"
       },
       "electrum2.btcz.rocks:50004": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792881136": "online"
       },
       "electrum3.btcz.rocks:50002": {
         "1792802530": "offline"
@@ -3726,14 +3730,16 @@
     "by_server": {
       "https://lb.routeme.sh/rpc/evm/1284": {
         "1792802530": "offline",
-        "1792810386": "online"
+        "1792810386": "online",
+        "1792881136": "offline"
       },
       "https://moonbeam.api.onfinality.io/public": {
         "1792802530": "online"
       },
       "https://public.1rpc.io/glmr": {
         "1792802530": "online",
-        "1792803260": "offline"
+        "1792803260": "offline",
+        "1792881136": "online"
       },
       "wss://moonbeam.api.onfinality.io/public-ws": {
         "1792802530": "online"
@@ -4571,7 +4577,8 @@
   },
   "LCN": {
     "all": {
-      "1792802530": "offline"
+      "1792802530": "offline",
+      "1792881136": "online"
     },
     "by_server": {
       "_metadata": {
@@ -4677,40 +4684,51 @@
         }
       },
       "electrum1.lcnxp.com:52002": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792881136": "online"
       },
       "electrum1.lcnxp.com:52004": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792881136": "online"
       },
       "electrum2.lcnxp.com:52002": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792881136": "online"
       },
       "electrum2.lcnxp.com:52004": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792881136": "online"
       },
       "electrum3.lcnxp.com:52002": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792881136": "online"
       },
       "electrum3.lcnxp.com:52004": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792881136": "online"
       },
       "electrum4.lcnxp.com:52002": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792881136": "online"
       },
       "electrum4.lcnxp.com:52004": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792881136": "online"
       },
       "electrum5.lcnxp.com:52002": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792881136": "online"
       },
       "electrum5.lcnxp.com:52004": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792881136": "online"
       }
     }
   },
   "LCN-segwit": {
     "all": {
-      "1792802530": "offline"
+      "1792802530": "offline",
+      "1792881136": "online"
     },
     "by_server": {
       "_metadata": {
@@ -4816,34 +4834,44 @@
         }
       },
       "electrum1.lcnxp.com:52002": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792881136": "online"
       },
       "electrum1.lcnxp.com:52004": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792881136": "online"
       },
       "electrum2.lcnxp.com:52002": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792881136": "online"
       },
       "electrum2.lcnxp.com:52004": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792881136": "online"
       },
       "electrum3.lcnxp.com:52002": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792881136": "online"
       },
       "electrum3.lcnxp.com:52004": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792881136": "online"
       },
       "electrum4.lcnxp.com:52002": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792881136": "online"
       },
       "electrum4.lcnxp.com:52004": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792881136": "online"
       },
       "electrum5.lcnxp.com:52002": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792881136": "online"
       },
       "electrum5.lcnxp.com:52004": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792881136": "online"
       }
     }
   },
