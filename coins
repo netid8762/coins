@@ -12109,33 +12109,36 @@
     "rpcport": 80,
     "mm2": 1,
     "chain_id": 1,
-    "decimals": 2,
+    "decimals": 18,
     "avg_blocktime": 15,
     "required_confirmations": 3,
     "protocol": {
       "type": "ERC20",
       "protocol_data": {
         "platform": "ETH",
-        "contract_address": "0x467Bccd9d29f223BcE8043b84E8C8B282827790F"
+        "contract_address": "0x7E13B43065380aCdeC1c2d138c579cbBbafA0731"
       }
     },
-    "derivation_path": "m/44'/60'"
+    "derivation_path": "m/44'/60'",
+    "links": {
+      "homepage": "https://www.telco.in"
+    }
   },
   {
-    "coin": "TEL-KRC20",
-    "name": "tel_krc20",
+    "coin": "TEL-BASE",
+    "name": "tel_base",
     "fname": "Telcoin",
     "rpcport": 80,
     "mm2": 1,
-    "chain_id": 321,
+    "chain_id": 8453,
     "decimals": 18,
-    "avg_blocktime": 3,
-    "required_confirmations": 3,
+    "avg_blocktime": 0.2,
+    "required_confirmations": 10,
     "protocol": {
       "type": "ERC20",
       "protocol_data": {
-        "platform": "KCS",
-        "contract_address": "0x621C1E8610e4B9b7fc9F043203C008EDe52E92F5"
+        "platform": "ETH-BASE",
+        "contract_address": "0x7E13B43065380aCdeC1c2d138c579cbBbafA0731"
       }
     },
     "derivation_path": "m/44'/60'"
@@ -12147,14 +12150,14 @@
     "rpcport": 80,
     "mm2": 1,
     "chain_id": 137,
-    "decimals": 2,
+    "decimals": 18,
     "avg_blocktime": 1.8,
     "required_confirmations": 20,
     "protocol": {
       "type": "ERC20",
       "protocol_data": {
         "platform": "POL",
-        "contract_address": "0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32"
+        "contract_address": "0x7E13B43065380aCdeC1c2d138c579cbBbafA0731"
       }
     },
     "derivation_path": "m/44'/60'"

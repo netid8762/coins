@@ -520,7 +520,7 @@
     "TBTC-ERC20": "tbtc-tbtc",
     "TBTC-PLG20": "tbtc-tbtc",
     "TEL-ERC20": "tel-telcoin",
-    "TEL-KRC20": "tel-telcoin",
+    "TEL-BASE": "tel-telcoin",
     "TEL-PLG20": "tel-telcoin",
     "TFT-BEP20": "tft-threefold-token",
     "THC": "thc-hempcoin",
