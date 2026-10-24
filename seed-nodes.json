@@ -94,5 +94,41 @@
                 "email": ""
             }
         ]
+    },
+    {
+        "name": "seed-swapscope-2",
+        "host": "seed02.swapscope.net",
+        "type": "domain",
+        "wss": true,
+        "netid": 8762,
+        "contact": [
+            {
+                "email": ""
+            }
+        ]
+    },
+    {
+        "name": "seed-shoreline",
+        "host": "mm2seed.shorelinecrypto.com",
+        "type": "domain",
+        "wss": true,
+        "netid": 8762,
+        "contact": [
+            {
+                "email": ""
+            }
+        ]
+    },
+    {
+        "name": "seed-bluefren",
+        "host": "defi.bluefren.net",
+        "type": "domain",
+        "wss": true,
+        "netid": 8762,
+        "contact": [
+            {
+                "email": ""
+            }
+        ]
     }
 ]
