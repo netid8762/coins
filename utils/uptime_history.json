@@ -3725,7 +3725,8 @@
     "all": {},
     "by_server": {
       "https://lb.routeme.sh/rpc/evm/1284": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792810386": "online"
       },
       "https://moonbeam.api.onfinality.io/public": {
         "1792802530": "online"
@@ -5452,7 +5453,8 @@
     "all": {},
     "by_server": {
       "https://lb.routeme.sh/rpc/evm/1285": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792810386": "online"
       },
       "https://moonriver.api.onfinality.io/public": {
         "1792802530": "online"
@@ -6841,7 +6843,8 @@
     "by_server": {
       "https://lb.routeme.sh/rpc/evm/964": {
         "1792802530": "offline",
-        "1792803260": "online"
+        "1792803260": "online",
+        "1792810386": "offline"
       },
       "https://lite.chain.opentensor.ai": {
         "1792802530": "online"
@@ -7223,7 +7226,8 @@
     "by_server": {
       "https://lb.routeme.sh/rpc/evm/964": {
         "1792802530": "offline",
-        "1792803260": "online"
+        "1792803260": "online",
+        "1792810386": "offline"
       },
       "https://lite.chain.opentensor.ai": {
         "1792802530": "online"
@@ -7989,7 +7993,8 @@
   },
   "XVC": {
     "all": {
-      "1792802530": "offline"
+      "1792802530": "offline",
+      "1792810386": "online"
     },
     "by_server": {
       "_metadata": {
@@ -8025,13 +8030,16 @@
         "1792802530": "offline"
       },
       "electrumx2.vanillacash.info:50011": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792810386": "online"
       },
       "electrumx2.vanillacash.info:50012": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792810386": "online"
       },
       "electrumx2.vanillacash.info:50013": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792810386": "online"
       },
       "xvc-ex-seven.ewmci.online:50001": {
         "1792802530": "offline"
