@@ -1269,10 +1269,12 @@
         }
       },
       "btx-electrumx.coinsmunity.com:50002": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792896259": "online"
       },
       "btx-electrumx.coinsmunity.com:50003": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792896259": "online"
       },
       "btx.electrum1.cipig.net:20069": {
         "1792802530": "online"
@@ -1336,10 +1338,12 @@
         }
       },
       "btx-electrumx.coinsmunity.com:50002": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792896259": "online"
       },
       "btx-electrumx.coinsmunity.com:50003": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792896259": "online"
       },
       "btx.electrum1.cipig.net:20069": {
         "1792802530": "online"
@@ -2371,10 +2375,12 @@
         }
       },
       "electrumx1.diminutivecoin.com:50012": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792896259": "online"
       },
       "electrumx1.diminutivecoin.com:50013": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792896259": "online"
       },
       "electrumx2.diminutivecoin.com:50012": {
         "1792802530": "online"
@@ -3739,7 +3745,8 @@
       "https://public.1rpc.io/glmr": {
         "1792802530": "online",
         "1792803260": "offline",
-        "1792881136": "online"
+        "1792881136": "online",
+        "1792896259": "offline"
       },
       "wss://moonbeam.api.onfinality.io/public-ws": {
         "1792802530": "online"
@@ -3870,7 +3877,8 @@
   },
   "IL8P": {
     "all": {
-      "1792802530": "offline"
+      "1792802530": "offline",
+      "1792896259": "online"
     },
     "by_server": {
       "_metadata": {
@@ -3982,16 +3990,20 @@
         "1792802530": "offline"
       },
       "il8p.electrumx.transcenders.name:50002": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792896259": "online"
       },
       "il8p.electrumx.transcenders.name:50003": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792896259": "online"
       },
       "il9p.electrumx.transcenders.name:50002": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792896259": "online"
       },
       "il9p.electrumx.transcenders.name:50003": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792896259": "online"
       }
     }
   },
@@ -5482,7 +5494,8 @@
     "by_server": {
       "https://lb.routeme.sh/rpc/evm/1285": {
         "1792802530": "offline",
-        "1792810386": "online"
+        "1792810386": "online",
+        "1792896259": "offline"
       },
       "https://moonriver.api.onfinality.io/public": {
         "1792802530": "online"
@@ -7216,10 +7229,12 @@
     },
     "by_server": {
       "uno-bkp.coinmunity.gold:50002": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792896259": "online"
       },
       "uno-bkp.coinmunity.gold:50003": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792896259": "online"
       },
       "uno-ex-one.ewmci.online:50001": {
         "1792802530": "online"
@@ -8049,13 +8064,16 @@
         }
       },
       "electrumx1.vanillacash.info:50011": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792896259": "online"
       },
       "electrumx1.vanillacash.info:50012": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792896259": "online"
       },
       "electrumx1.vanillacash.info:50013": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792896259": "online"
       },
       "electrumx2.vanillacash.info:50011": {
         "1792802530": "offline",
