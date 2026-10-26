@@ -12,6 +12,10 @@
       "url": "https://9745.rpc.thirdweb.com"
     },
     {
+      "url": "https://plasma.drpc.org",
+      "ws_url": "wss://plasma.drpc.org"
+    },
+    {
       "url": "https://plasma.api.onfinality.io/public"
     }
   ]
