@@ -766,11 +766,13 @@
       },
       "bitnet.outsidethebox.top:50002": {
         "1792802530": "offline",
-        "1792803260": "online"
+        "1792803260": "online",
+        "1792982568": "offline"
       },
       "bitnet.outsidethebox.top:50004": {
         "1792802530": "offline",
-        "1792803260": "online"
+        "1792803260": "online",
+        "1792982568": "offline"
       }
     }
   },
@@ -3296,13 +3298,16 @@
         }
       },
       "electrumx1.fujicoin.org:50001": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792982568": "online"
       },
       "electrumx1.fujicoin.org:50003": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792982568": "online"
       },
       "electrumx1.fujicoin.org:50005": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792982568": "online"
       },
       "electrumx2.fujicoin.org:50001": {
         "1792802530": "online"
@@ -3344,13 +3349,16 @@
         }
       },
       "electrumx1.fujicoin.org:50001": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792982568": "online"
       },
       "electrumx1.fujicoin.org:50003": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792982568": "online"
       },
       "electrumx1.fujicoin.org:50005": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792982568": "online"
       },
       "electrumx2.fujicoin.org:50001": {
         "1792802530": "online"
@@ -3746,7 +3754,8 @@
         "1792802530": "online",
         "1792803260": "offline",
         "1792881136": "online",
-        "1792896259": "offline"
+        "1792896259": "offline",
+        "1792982568": "online"
       },
       "wss://moonbeam.api.onfinality.io/public-ws": {
         "1792802530": "online"
@@ -6555,13 +6564,16 @@
         "1792802530": "online"
       },
       "electrum3.runebase.io:50001": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792982568": "online"
       },
       "electrum3.runebase.io:50002": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792982568": "online"
       },
       "electrum3.runebase.io:50004": {
-        "1792802530": "offline"
+        "1792802530": "offline",
+        "1792982568": "online"
       },
       "electrum4.runebase.io:50001": {
         "1792802530": "offline"
