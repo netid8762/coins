@@ -4061,6 +4061,9 @@
   "MON": {
     "all": {},
     "by_server": {
+      "https://gm.monad.at.htw.tech": {
+        "1793008431": "online"
+      },
       "https://monad-mainnet-rpc.spidernode.net": {
         "1793007470": "online"
       },
@@ -4075,6 +4078,9 @@
       },
       "https://rpc3.monad.xyz": {
         "1793007470": "online"
+      },
+      "wss://gm.monad.at.htw.tech": {
+        "1793008431": "offline"
       },
       "wss://wss.monad-rpc.huginn.tech": {
         "1793007470": "online"
