@@ -22585,6 +22585,10 @@
             {
                 "url": "https://moonriver.api.onfinality.io/public",
                 "ws_url": "wss://moonriver.api.onfinality.io/public-ws"
+            },
+            {
+                "url": "https://moonriver.drpc.org",
+                "ws_url": "wss://moonriver.drpc.org"
             }
         ],
         "explorer_block_url": "block/",
@@ -30294,6 +30298,9 @@
         "fallback_swap_contract": "0xDB3d24F21745B9C1953BD643E1a6CA8A34C4F47c",
         "nodes": [
             {
+                "url": "https://lb.routeme.sh/rpc/evm/964"
+            },
+            {
                 "url": "https://lite.chain.opentensor.ai"
             },
             {
@@ -31099,6 +31106,10 @@
             },
             {
                 "url": "https://tron.api.pocket.network"
+            },
+            {
+                "url": "https://tron.drpc.org",
+                "ws_url": "wss://tron.drpc.org"
             }
         ],
         "explorer_block_url": "#/block/",
@@ -31145,7 +31156,12 @@
                 "url": "https://tron.api.pocket.network"
             },
             {
-                "url": "https://tron.rpc.sentio.xyz"
+                "url": "https://tron.drpc.org",
+                "ws_url": "wss://tron.drpc.org"
+            },
+            {
+                "url": "https://tron.rpc.sentio.xyz",
+                "ws_url": "wss://tron.rpc.sentio.xyz"
             }
         ],
         "explorer_block_url": "#/block/"
@@ -33185,6 +33201,9 @@
         "fallback_swap_contract": "0xDB3d24F21745B9C1953BD643E1a6CA8A34C4F47c",
         "nodes": [
             {
+                "url": "https://lb.routeme.sh/rpc/evm/964"
+            },
+            {
                 "url": "https://lite.chain.opentensor.ai"
             },
             {
@@ -33284,6 +33303,10 @@
             },
             {
                 "url": "https://plasma.api.onfinality.io/public"
+            },
+            {
+                "url": "https://plasma.drpc.org",
+                "ws_url": "wss://plasma.drpc.org"
             },
             {
                 "url": "https://rpc.plasma.to"
@@ -33766,6 +33789,10 @@
             },
             {
                 "url": "https://plasma.api.onfinality.io/public"
+            },
+            {
+                "url": "https://plasma.drpc.org",
+                "ws_url": "wss://plasma.drpc.org"
             },
             {
                 "url": "https://rpc.plasma.to"
@@ -34688,6 +34715,10 @@
             },
             {
                 "url": "https://plasma.api.onfinality.io/public"
+            },
+            {
+                "url": "https://plasma.drpc.org",
+                "ws_url": "wss://plasma.drpc.org"
             },
             {
                 "url": "https://rpc.plasma.to"
@@ -36455,6 +36486,10 @@
                 "url": "https://plasma.api.onfinality.io/public"
             },
             {
+                "url": "https://plasma.drpc.org",
+                "ws_url": "wss://plasma.drpc.org"
+            },
+            {
                 "url": "https://rpc.plasma.to"
             },
             {
@@ -37228,6 +37263,10 @@
             },
             {
                 "url": "https://plasma.api.onfinality.io/public"
+            },
+            {
+                "url": "https://plasma.drpc.org",
+                "ws_url": "wss://plasma.drpc.org"
             },
             {
                 "url": "https://rpc.plasma.to"
