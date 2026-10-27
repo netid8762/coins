@@ -3858,6 +3858,14 @@
                 "protocol": "WSS"
             },
             {
+                "url": "bch.soul-dev.com:50002",
+                "protocol": "SSL"
+            },
+            {
+                "url": "bch.soul-dev.com:50004",
+                "protocol": "WSS"
+            },
+            {
                 "url": "cashnode.bch.ninja:50002",
                 "protocol": "SSL"
             },
@@ -4465,6 +4473,25 @@
             "type": "UTXO"
         },
         "electrum": [
+            {
+                "url": "bit-e.minethepla.net:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "def#4726"
+                    }
+                ]
+            },
+            {
+                "url": "bit-e.outsidethebox.top:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "def#4726"
+                    }
+                ]
+            },
             {
                 "url": "bitn-electrumx.wattxchange.app:50011",
                 "contact": [
