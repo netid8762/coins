@@ -479,10 +479,12 @@
         "1793027677": "online"
       },
       "bch.soul-dev.com:50002": {
-        "1793027677": "offline"
+        "1793027677": "offline",
+        "1793072853": "online"
       },
       "bch.soul-dev.com:50004": {
-        "1793027677": "offline"
+        "1793027677": "offline",
+        "1793072853": "online"
       },
       "cashnode.bch.ninja:50002": {
         "1793027677": "online"
@@ -592,7 +594,8 @@
         }
       },
       "bit-e.minethepla.net:50002": {
-        "1793027677": "offline"
+        "1793027677": "offline",
+        "1793072853": "online"
       },
       "bit-e.minethepla.net:50004": {
         "1793027677": "offline"
@@ -601,7 +604,8 @@
         "1793027677": "offline"
       },
       "bit-e.outsidethebox.top:50004": {
-        "1793027677": "offline"
+        "1793027677": "offline",
+        "1793072853": "online"
       },
       "bitn-electrumx.wattxchange.app:50011": {
         "1793027677": "online"
