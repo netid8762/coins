@@ -3581,6 +3581,16 @@
         },
         "electrum": [
             {
+                "url": "bit-e.minethepla.net:50004",
+                "protocol": "WSS",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "def#4726"
+                    }
+                ]
+            },
+            {
                 "url": "bit-e.outsidethebox.top:50004",
                 "protocol": "WSS",
                 "contact": [
@@ -28063,44 +28073,6 @@
         "explorer_block_url": "block/",
         "binance_id": "TRX"
     },
-    "TRX": {
-        "coin": "TRX",
-        "type": "TRX",
-        "name": "TRON",
-        "coinpaprika_id": "",
-        "coingecko_id": "",
-        "livecoinwatch_id": "TRX",
-        "explorer_url": "https://tronscan.org/",
-        "explorer_tx_url": "#/transaction/",
-        "explorer_address_url": "#/address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "fname": "TRON",
-        "mm2": 1,
-        "decimals": 6,
-        "avg_blocktime": 0.45,
-        "required_confirmations": 1,
-        "derivation_path": "m/44'/195'",
-        "protocol": {
-            "type": "TRX",
-            "protocol_data": {
-                "network": "Mainnet"
-            }
-        },
-        "swap_contract_address": "TGXVt3xLM4771cZii7uGMyWkhogSiykTUw",
-        "fallback_swap_contract": "TGXVt3xLM4771cZii7uGMyWkhogSiykTUw",
-        "nodes": [
-            {
-                "url": "https://tron.drpc.org",
-                "ws_url": "wss://tron.drpc.org"
-            }
-        ],
-        "explorer_block_url": "#/block/",
-        "binance_id": "TRX"
-    },
     "USDT-TRC20": {
         "coin": "USDT-TRC20",
         "type": "TRC-20",
@@ -29861,90 +29833,6 @@
         ],
         "explorer_block_url": "block/"
     },
-    "USDC-XDC": {
-        "coin": "USDC-XDC",
-        "type": "XDC",
-        "name": "USD Coin",
-        "coinpaprika_id": "usdc-usd-coin",
-        "coingecko_id": "usd-coin",
-        "livecoinwatch_id": "USDC",
-        "explorer_url": "https://xdcscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "fname": "USD Coin",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 50,
-        "decimals": 6,
-        "avg_blocktime": 2,
-        "required_confirmations": 5,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "XDC",
-                "contract_address": "0xfA2958CB79b0491CC627c1557F441eF849Ca8eb1"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0xfA2958CB79b0491CC627c1557F441eF849Ca8eb1",
-        "parent_coin": "XDC",
-        "swap_contract_address": "0x61EEC271c38D713F47774bC3F87916f518995048",
-        "fallback_swap_contract": "0x61EEC271c38D713F47774bC3F87916f518995048",
-        "nodes": [
-            {
-                "url": "https://rpc.xdcrpc.com",
-                "ws_url": "wss://rpc.xdcrpc.com/ws"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "USDC-XPL": {
-        "coin": "USDC-XPL",
-        "type": "Plasma",
-        "name": "USD Coin",
-        "coinpaprika_id": "usdc-usd-coin",
-        "coingecko_id": "usd-coin",
-        "livecoinwatch_id": "USDC",
-        "explorer_url": "https://plasmascan.to/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "fname": "USD Coin",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 9745,
-        "decimals": 6,
-        "avg_blocktime": 1,
-        "required_confirmations": 5,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "XPL",
-                "contract_address": "0x2d661C89D812261039AF9764eceaAee884f5F67F"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x2d661C89D812261039AF9764eceaAee884f5F67F",
-        "parent_coin": "XPL",
-        "swap_contract_address": "0x61EEC271c38D713F47774bC3F87916f518995048",
-        "fallback_swap_contract": "0x61EEC271c38D713F47774bC3F87916f518995048",
-        "nodes": [
-            {
-                "url": "https://plasma.drpc.org",
-                "ws_url": "wss://plasma.drpc.org"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
     "USDD-BEP20": {
         "coin": "USDD-BEP20",
         "type": "BEP-20",
@@ -30322,48 +30210,6 @@
             {
                 "url": "https://avalanche.drpc.org",
                 "ws_url": "wss://avalanche.drpc.org"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "USDE-XPL": {
-        "coin": "USDE-XPL",
-        "type": "Plasma",
-        "name": "Ethena USDe",
-        "coinpaprika_id": "usde-ethena-usde",
-        "coingecko_id": "ethena-usde",
-        "livecoinwatch_id": "__USDE",
-        "explorer_url": "https://plasmascan.to/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "fname": "Ethena USDe",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 9745,
-        "decimals": 18,
-        "avg_blocktime": 1,
-        "required_confirmations": 5,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "XPL",
-                "contract_address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
-        "parent_coin": "XPL",
-        "swap_contract_address": "0x61EEC271c38D713F47774bC3F87916f518995048",
-        "fallback_swap_contract": "0x61EEC271c38D713F47774bC3F87916f518995048",
-        "nodes": [
-            {
-                "url": "https://plasma.drpc.org",
-                "ws_url": "wss://plasma.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -31102,48 +30948,6 @@
             {
                 "url": "https://hyperliquid.drpc.org",
                 "ws_url": "wss://hyperliquid.drpc.org"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "USDT-XPL": {
-        "coin": "USDT-XPL",
-        "type": "Plasma",
-        "name": "Tether",
-        "coinpaprika_id": "usdt-tether",
-        "coingecko_id": "tether",
-        "livecoinwatch_id": "USDT",
-        "explorer_url": "https://plasmascan.to/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "fname": "Tether",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 143,
-        "decimals": 6,
-        "avg_blocktime": 1,
-        "required_confirmations": 5,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "XPL",
-                "contract_address": "0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
-        "parent_coin": "XPL",
-        "swap_contract_address": "0x61EEC271c38D713F47774bC3F87916f518995048",
-        "fallback_swap_contract": "0x61EEC271c38D713F47774bC3F87916f518995048",
-        "nodes": [
-            {
-                "url": "https://plasma.drpc.org",
-                "ws_url": "wss://plasma.drpc.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -32735,48 +32539,6 @@
         ],
         "explorer_block_url": "block/"
     },
-    "XAUT-XPL": {
-        "coin": "XAUT-XPL",
-        "type": "Plasma",
-        "name": "Tether Gold",
-        "coinpaprika_id": "xaut-tether-gold",
-        "coingecko_id": "tether-gold",
-        "livecoinwatch_id": "XAUT",
-        "explorer_url": "https://plasmascan.to/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "fname": "Tether Gold",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 9745,
-        "decimals": 6,
-        "avg_blocktime": 1,
-        "required_confirmations": 5,
-        "protocol": {
-            "type": "ERC20",
-            "protocol_data": {
-                "platform": "XPL",
-                "contract_address": "0x1B64B9025EEbb9A6239575dF9Ea4b9Ac46D4d193"
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "contract_address": "0x1B64B9025EEbb9A6239575dF9Ea4b9Ac46D4d193",
-        "parent_coin": "XPL",
-        "swap_contract_address": "0x61EEC271c38D713F47774bC3F87916f518995048",
-        "fallback_swap_contract": "0x61EEC271c38D713F47774bC3F87916f518995048",
-        "nodes": [
-            {
-                "url": "https://plasma.drpc.org",
-                "ws_url": "wss://plasma.drpc.org"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
     "XCN-ERC20": {
         "coin": "XCN-ERC20",
         "type": "ERC-20",
@@ -32971,49 +32733,6 @@
             {
                 "url": "https://rpc.gnosischain.com",
                 "ws_url": "wss://rpc.gnosischain.com/wss"
-            }
-        ],
-        "explorer_block_url": "block/"
-    },
-    "XDC": {
-        "coin": "XDC",
-        "type": "XDC",
-        "name": "XDC Network",
-        "coinpaprika_id": "xdc-xdc-network",
-        "coingecko_id": "xdce-crowd-sale",
-        "livecoinwatch_id": "XDC",
-        "explorer_url": "https://xdcscan.com/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "fname": "XDC Network",
-        "rpcport": 80,
-        "mm2": 1,
-        "chain_id": 50,
-        "required_confirmations": 5,
-        "avg_blocktime": 2,
-        "protocol": {
-            "type": "ETH",
-            "protocol_data": {
-                "chain_id": 50
-            }
-        },
-        "derivation_path": "m/44'/60'",
-        "max_eth_tx_type": 2,
-        "swap_gas_fee_policy": "Medium",
-        "links": {
-            "homepage": "https://xinfin.org"
-        },
-        "swap_contract_address": "0x61EEC271c38D713F47774bC3F87916f518995048",
-        "fallback_swap_contract": "0x61EEC271c38D713F47774bC3F87916f518995048",
-        "nodes": [
-            {
-                "url": "https://rpc.xdcrpc.com",
-                "ws_url": "wss://rpc.xdcrpc.com/ws"
             }
         ],
         "explorer_block_url": "block/"
