@@ -13051,7 +13051,13 @@
         "contract_address": "0x754704Bc059F8C67012fEd69BC8A327a5aafb603"
       }
     },
-    "derivation_path": "m/44'/60'"
+    "derivation_path": "m/44'/60'",
+    "gas_limit": {
+        "eth_send_erc20": 150000,
+        "erc20_payment": 250000,
+        "erc20_receiver_spend": 200000,
+        "erc20_sender_refund": 200000
+    }
   },
   {
     "coin": "USDC-PLG20",
@@ -13364,7 +13370,13 @@
         "contract_address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34"
       } 
     },
-    "derivation_path": "m/44'/60'"
+    "derivation_path": "m/44'/60'",
+    "gas_limit": {
+        "eth_send_erc20": 150000,
+        "erc20_payment": 250000,
+        "erc20_receiver_spend": 200000,
+        "erc20_sender_refund": 200000
+    }
   },
   {
     "coin": "USDP-ERC20",
@@ -13503,7 +13515,13 @@
         "contract_address": "0xe7cd86e13AC4309349F30B3435a9d337750fC82D"
       }
     },
-    "derivation_path": "m/44'/60'"
+    "derivation_path": "m/44'/60'",
+    "gas_limit": {
+        "eth_send_erc20": 150000,
+        "erc20_payment": 250000,
+        "erc20_receiver_spend": 200000,
+        "erc20_sender_refund": 200000
+    }
   },
   {
     "coin": "USDT-PLG20",
@@ -14156,7 +14174,13 @@
         "contract_address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c"
       }
     },
-    "derivation_path": "m/44'/60'"
+    "derivation_path": "m/44'/60'",
+    "gas_limit": {
+        "eth_send_erc20": 150000,
+        "erc20_payment": 250000,
+        "erc20_receiver_spend": 200000,
+        "erc20_sender_refund": 200000
+    }
   },
   {
     "coin": "WBTC-PLG20",
