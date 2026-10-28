@@ -5883,6 +5883,16 @@
         },
         "electrum": [
             {
+                "url": "btx-electrumx.coinsmunity.com:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "[MadCatMining]#0677"
+                    }
+                ]
+            },
+            {
                 "url": "btx.electrum1.cipig.net:20069",
                 "protocol": "SSL",
                 "contact": [
@@ -5950,6 +5960,16 @@
             "homepage": "https://bitcore.cc"
         },
         "electrum": [
+            {
+                "url": "btx-electrumx.coinsmunity.com:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "[MadCatMining]#0677"
+                    }
+                ]
+            },
             {
                 "url": "btx.electrum1.cipig.net:20069",
                 "protocol": "SSL",
@@ -8916,6 +8936,24 @@
         },
         "derivation_path": "m/44'/18'",
         "electrum": [
+            {
+                "url": "electrum1.getlynx.io:8002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "668310974083629056"
+                    }
+                ]
+            },
+            {
+                "url": "electrum2.getlynx.io:8002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "668310974083629056"
+                    }
+                ]
+            },
             {
                 "url": "electrumx.dgc.ewmcx.org:50002",
                 "protocol": "SSL",
@@ -16810,6 +16848,24 @@
         },
         "electrum": [
             {
+                "url": "electrum1.getlynx.io:9452",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "668310974083629056"
+                    }
+                ]
+            },
+            {
+                "url": "electrum2.getlynx.io:9452",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "668310974083629056"
+                    }
+                ]
+            },
+            {
                 "url": "il8p.electrumx.transcenders.name:50002",
                 "protocol": "SSL",
                 "disable_cert_verification": true,
@@ -20402,25 +20458,22 @@
         "derivation_path": "m/44'/191'",
         "electrum": [
             {
-                "url": "electrum5.getlynx.io:50002",
-                "protocol": "SSL"
-            },
-            {
-                "url": "electrum6.getlynx.io:50002",
-                "protocol": "SSL"
-            },
-            {
-                "url": "electrum7.getlynx.io:50002",
+                "url": "electrum1.getlynx.io:22569",
                 "protocol": "SSL",
-                "disable_cert_verification": true
+                "contact": [
+                    {
+                        "discord": "668310974083629056"
+                    }
+                ]
             },
             {
-                "url": "electrum8.getlynx.io:50002",
-                "protocol": "SSL"
-            },
-            {
-                "url": "electrum9.getlynx.io:50002",
-                "protocol": "SSL"
+                "url": "electrum2.getlynx.io:22569",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "668310974083629056"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -22654,6 +22707,9 @@
         "fallback_swap_contract": "0x6d9ce4BD298DE38bAfEFD15f5C6f5c95313B1d94",
         "nodes": [
             {
+                "url": "https://lb.routeme.sh/rpc/evm/1284"
+            },
+            {
                 "url": "https://moonbeam.api.onfinality.io/public",
                 "ws_url": "wss://moonbeam.api.onfinality.io/public-ws"
             },
@@ -23961,12 +24017,6 @@
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
-            {
-                "url": "https://api.harmony.one"
-            },
-            {
-                "url": "https://api.s0.t.hmny.io"
-            },
             {
                 "url": "https://harmony-0.drpc.org",
                 "ws_url": "wss://harmony-0.drpc.org"
@@ -33049,6 +33099,12 @@
             }
         },
         "derivation_path": "m/44'/60'",
+        "gas_limit": {
+            "eth_send_erc20": 150000,
+            "erc20_payment": 250000,
+            "erc20_receiver_spend": 200000,
+            "erc20_sender_refund": 200000
+        },
         "contract_address": "0x754704Bc059F8C67012fEd69BC8A327a5aafb603",
         "parent_coin": "MON",
         "swap_contract_address": "0x61EEC271c38D713F47774bC3F87916f518995048",
@@ -33900,6 +33956,12 @@
             }
         },
         "derivation_path": "m/44'/60'",
+        "gas_limit": {
+            "eth_send_erc20": 150000,
+            "erc20_payment": 250000,
+            "erc20_receiver_spend": 200000,
+            "erc20_sender_refund": 200000
+        },
         "contract_address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
         "parent_coin": "MON",
         "swap_contract_address": "0x61EEC271c38D713F47774bC3F87916f518995048",
@@ -34272,6 +34334,12 @@
             }
         },
         "derivation_path": "m/44'/60'",
+        "gas_limit": {
+            "eth_send_erc20": 150000,
+            "erc20_payment": 250000,
+            "erc20_receiver_spend": 200000,
+            "erc20_sender_refund": 200000
+        },
         "contract_address": "0xe7cd86e13AC4309349F30B3435a9d337750fC82D",
         "parent_coin": "MON",
         "swap_contract_address": "0x61EEC271c38D713F47774bC3F87916f518995048",
@@ -35779,6 +35847,12 @@
             }
         },
         "derivation_path": "m/44'/60'",
+        "gas_limit": {
+            "eth_send_erc20": 150000,
+            "erc20_payment": 250000,
+            "erc20_receiver_spend": 200000,
+            "erc20_sender_refund": 200000
+        },
         "contract_address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
         "parent_coin": "MON",
         "swap_contract_address": "0x61EEC271c38D713F47774bC3F87916f518995048",
