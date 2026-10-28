@@ -2957,7 +2957,8 @@
     "by_server": {
       "https://lb.routeme.sh/rpc/evm/1284": {
         "1793027677": "offline",
-        "1793150299": "online"
+        "1793150299": "online",
+        "1793157561": "offline"
       },
       "https://moonbeam.api.onfinality.io/public": {
         "1793027677": "online"
@@ -4073,6 +4074,9 @@
     "by_server": {
       "https://gm.monad.at.htw.tech": {
         "1793027677": "online"
+      },
+      "https://infra.originstake.com/monad/evm": {
+        "1793157561": "online"
       },
       "https://monad-mainnet-rpc.spidernode.net": {
         "1793027677": "online"
@@ -5216,7 +5220,8 @@
     "all": {},
     "by_server": {
       "https://lb.routeme.sh/rpc/evm/964": {
-        "1793027677": "offline"
+        "1793027677": "offline",
+        "1793157561": "online"
       },
       "https://lite.chain.opentensor.ai": {
         "1793027677": "online"
@@ -5599,7 +5604,8 @@
     "all": {},
     "by_server": {
       "https://lb.routeme.sh/rpc/evm/964": {
-        "1793027677": "offline"
+        "1793027677": "offline",
+        "1793157561": "online"
       },
       "https://lite.chain.opentensor.ai": {
         "1793027677": "online"
