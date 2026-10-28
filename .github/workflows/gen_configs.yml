@@ -71,5 +71,4 @@ jobs:
             - Icon spritemap updated
           labels: |
             config-update
-          reviewers: netid8762
           draft: false
