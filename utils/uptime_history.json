@@ -987,10 +987,12 @@
         }
       },
       "btx-electrumx.coinsmunity.com:50002": {
-        "1793027677": "offline"
+        "1793027677": "offline",
+        "1793197523": "online"
       },
       "btx-electrumx.coinsmunity.com:50003": {
-        "1793027677": "offline"
+        "1793027677": "offline",
+        "1793197523": "online"
       },
       "btx.electrum1.cipig.net:20069": {
         "1793027677": "online"
@@ -1028,10 +1030,12 @@
         }
       },
       "btx-electrumx.coinsmunity.com:50002": {
-        "1793027677": "offline"
+        "1793027677": "offline",
+        "1793197523": "online"
       },
       "btx-electrumx.coinsmunity.com:50003": {
-        "1793027677": "offline"
+        "1793027677": "offline",
+        "1793197523": "online"
       },
       "btx.electrum1.cipig.net:20069": {
         "1793027677": "online"
@@ -1806,6 +1810,18 @@
       },
       "dgc-ex-three.ewmci.online:50003": {
         "1793027677": "offline"
+      },
+      "electrum1.getlynx.io:8002": {
+        "1793197523": "online"
+      },
+      "electrum1.getlynx.io:8003": {
+        "1793197523": "online"
+      },
+      "electrum2.getlynx.io:8002": {
+        "1793197523": "online"
+      },
+      "electrum2.getlynx.io:8003": {
+        "1793197523": "online"
       },
       "electrumx.dgc.ewmcx.org:50001": {
         "1793027677": "online"
@@ -2958,7 +2974,8 @@
       "https://lb.routeme.sh/rpc/evm/1284": {
         "1793027677": "offline",
         "1793150299": "online",
-        "1793157561": "offline"
+        "1793157561": "offline",
+        "1793197523": "online"
       },
       "https://moonbeam.api.onfinality.io/public": {
         "1793027677": "online"
@@ -3120,6 +3137,18 @@
             }
           ]
         }
+      },
+      "electrum1.getlynx.io:9452": {
+        "1793197523": "online"
+      },
+      "electrum1.getlynx.io:9453": {
+        "1793197523": "online"
+      },
+      "electrum2.getlynx.io:9452": {
+        "1793197523": "online"
+      },
+      "electrum2.getlynx.io:9453": {
+        "1793197523": "online"
       },
       "il8p-ex-five.ewmci.online:50001": {
         "1793027677": "offline"
@@ -3805,6 +3834,18 @@
       "1793027677": "online"
     },
     "by_server": {
+      "electrum1.getlynx.io:22569": {
+        "1793197523": "online"
+      },
+      "electrum1.getlynx.io:22570": {
+        "1793197523": "online"
+      },
+      "electrum2.getlynx.io:22569": {
+        "1793197523": "online"
+      },
+      "electrum2.getlynx.io:22570": {
+        "1793197523": "online"
+      },
       "electrum5.getlynx.io:50002": {
         "1793027677": "online"
       },
@@ -4508,10 +4549,12 @@
     "all": {},
     "by_server": {
       "https://api.harmony.one": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1793197523": "offline"
       },
       "https://api.s0.t.hmny.io": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1793197523": "offline"
       },
       "https://harmony-0.drpc.org": {
         "1793027677": "online"
