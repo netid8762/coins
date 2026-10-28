@@ -5411,14 +5411,16 @@
       },
       "https://tron.drpc.org": {
         "1793027677": "online",
-        "1793150299": "offline"
+        "1793150299": "offline",
+        "1793151116": "online"
       },
       "https://tron.rpc.sentio.xyz": {
         "1793027677": "offline"
       },
       "wss://tron.drpc.org": {
         "1793027677": "online",
-        "1793150299": "offline"
+        "1793150299": "offline",
+        "1793151116": "online"
       },
       "wss://tron.rpc.sentio.xyz": {
         "1793027677": "offline"
@@ -5616,12 +5618,18 @@
       "https://rpc.ankr.com/xdc": {
         "1793027677": "online"
       },
+      "https://rpc.plugin.global/xdcmainnet": {
+        "1793151116": "online"
+      },
       "https://rpc.xdc.network": {
         "1793027677": "online"
       },
       "https://rpc.xdcrpc.com": {
         "1793027677": "online",
         "1793150299": "offline"
+      },
+      "wss://rpc.plugin.global/ws/xdcmainnet": {
+        "1793151116": "online"
       },
       "wss://rpc.xdcrpc.com/ws": {
         "1793027677": "online",
@@ -5996,12 +6004,18 @@
       "https://rpc.ankr.com/xdc": {
         "1793027677": "online"
       },
+      "https://rpc.plugin.global/xdcmainnet": {
+        "1793151116": "online"
+      },
       "https://rpc.xdc.network": {
         "1793027677": "online"
       },
       "https://rpc.xdcrpc.com": {
         "1793027677": "online",
         "1793150299": "offline"
+      },
+      "wss://rpc.plugin.global/ws/xdcmainnet": {
+        "1793151116": "online"
       },
       "wss://rpc.xdcrpc.com/ws": {
         "1793027677": "online",

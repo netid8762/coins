@@ -36268,6 +36268,10 @@
             },
             {
                 "url": "https://tron.api.pocket.network"
+            },
+            {
+                "url": "https://tron.drpc.org",
+                "ws_url": "wss://tron.drpc.org"
             }
         ],
         "explorer_block_url": "#/block/",
@@ -38429,6 +38433,10 @@
             },
             {
                 "url": "https://rpc.ankr.com/xdc"
+            },
+            {
+                "url": "https://rpc.plugin.global/xdcmainnet",
+                "ws_url": "wss://rpc.plugin.global/ws/xdcmainnet"
             },
             {
                 "url": "https://rpc.xdc.network"
@@ -42317,6 +42325,10 @@
             },
             {
                 "url": "https://rpc.ankr.com/xdc"
+            },
+            {
+                "url": "https://rpc.plugin.global/xdcmainnet",
+                "ws_url": "wss://rpc.plugin.global/ws/xdcmainnet"
             },
             {
                 "url": "https://rpc.xdc.network"
