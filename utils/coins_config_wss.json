@@ -28073,6 +28073,44 @@
         "explorer_block_url": "block/",
         "binance_id": "TRX"
     },
+    "TRX": {
+        "coin": "TRX",
+        "type": "TRX",
+        "name": "TRON",
+        "coinpaprika_id": "",
+        "coingecko_id": "",
+        "livecoinwatch_id": "TRX",
+        "explorer_url": "https://tronscan.org/",
+        "explorer_tx_url": "#/transaction/",
+        "explorer_address_url": "#/address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "fname": "TRON",
+        "mm2": 1,
+        "decimals": 6,
+        "avg_blocktime": 0.45,
+        "required_confirmations": 1,
+        "derivation_path": "m/44'/195'",
+        "protocol": {
+            "type": "TRX",
+            "protocol_data": {
+                "network": "Mainnet"
+            }
+        },
+        "swap_contract_address": "TGXVt3xLM4771cZii7uGMyWkhogSiykTUw",
+        "fallback_swap_contract": "TGXVt3xLM4771cZii7uGMyWkhogSiykTUw",
+        "nodes": [
+            {
+                "url": "https://tron.drpc.org",
+                "ws_url": "wss://tron.drpc.org"
+            }
+        ],
+        "explorer_block_url": "#/block/",
+        "binance_id": "TRX"
+    },
     "USDT-TRC20": {
         "coin": "USDT-TRC20",
         "type": "TRC-20",
@@ -29829,6 +29867,48 @@
             {
                 "url": "https://polygon.gateway.tenderly.co",
                 "ws_url": "wss://polygon.gateway.tenderly.co"
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
+    "USDC-XDC": {
+        "coin": "USDC-XDC",
+        "type": "XDC",
+        "name": "USD Coin",
+        "coinpaprika_id": "usdc-usd-coin",
+        "coingecko_id": "usd-coin",
+        "livecoinwatch_id": "USDC",
+        "explorer_url": "https://xdcscan.com/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "fname": "USD Coin",
+        "rpcport": 80,
+        "mm2": 1,
+        "chain_id": 50,
+        "decimals": 6,
+        "avg_blocktime": 2,
+        "required_confirmations": 5,
+        "protocol": {
+            "type": "ERC20",
+            "protocol_data": {
+                "platform": "XDC",
+                "contract_address": "0xfA2958CB79b0491CC627c1557F441eF849Ca8eb1"
+            }
+        },
+        "derivation_path": "m/44'/60'",
+        "contract_address": "0xfA2958CB79b0491CC627c1557F441eF849Ca8eb1",
+        "parent_coin": "XDC",
+        "swap_contract_address": "0x61EEC271c38D713F47774bC3F87916f518995048",
+        "fallback_swap_contract": "0x61EEC271c38D713F47774bC3F87916f518995048",
+        "nodes": [
+            {
+                "url": "https://rpc.plugin.global/xdcmainnet",
+                "ws_url": "wss://rpc.plugin.global/ws/xdcmainnet"
             }
         ],
         "explorer_block_url": "block/"
@@ -32733,6 +32813,49 @@
             {
                 "url": "https://rpc.gnosischain.com",
                 "ws_url": "wss://rpc.gnosischain.com/wss"
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
+    "XDC": {
+        "coin": "XDC",
+        "type": "XDC",
+        "name": "XDC Network",
+        "coinpaprika_id": "xdc-xdc-network",
+        "coingecko_id": "xdce-crowd-sale",
+        "livecoinwatch_id": "XDC",
+        "explorer_url": "https://xdcscan.com/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "fname": "XDC Network",
+        "rpcport": 80,
+        "mm2": 1,
+        "chain_id": 50,
+        "required_confirmations": 5,
+        "avg_blocktime": 2,
+        "protocol": {
+            "type": "ETH",
+            "protocol_data": {
+                "chain_id": 50
+            }
+        },
+        "derivation_path": "m/44'/60'",
+        "max_eth_tx_type": 2,
+        "swap_gas_fee_policy": "Medium",
+        "links": {
+            "homepage": "https://xinfin.org"
+        },
+        "swap_contract_address": "0x61EEC271c38D713F47774bC3F87916f518995048",
+        "fallback_swap_contract": "0x61EEC271c38D713F47774bC3F87916f518995048",
+        "nodes": [
+            {
+                "url": "https://rpc.plugin.global/xdcmainnet",
+                "ws_url": "wss://rpc.plugin.global/ws/xdcmainnet"
             }
         ],
         "explorer_block_url": "block/"
