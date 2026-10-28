@@ -17,7 +17,7 @@
       "ws_url": "wss://wss.monad-rpc.huginn.tech"
     },
     {
-      "url": "https://rpc-mainnet.monadinfra.com"
+      "url": "https://infra.originstake.com/monad/evm"
     }
   ]
 }
