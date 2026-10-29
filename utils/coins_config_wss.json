@@ -28135,44 +28135,6 @@
         "explorer_block_url": "block/",
         "binance_id": "TRX"
     },
-    "TRX": {
-        "coin": "TRX",
-        "type": "TRX",
-        "name": "TRON",
-        "coinpaprika_id": "",
-        "coingecko_id": "",
-        "livecoinwatch_id": "TRX",
-        "explorer_url": "https://tronscan.org/",
-        "explorer_tx_url": "#/transaction/",
-        "explorer_address_url": "#/address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "fname": "TRON",
-        "mm2": 1,
-        "decimals": 6,
-        "avg_blocktime": 0.45,
-        "required_confirmations": 1,
-        "derivation_path": "m/44'/195'",
-        "protocol": {
-            "type": "TRX",
-            "protocol_data": {
-                "network": "Mainnet"
-            }
-        },
-        "swap_contract_address": "TGXVt3xLM4771cZii7uGMyWkhogSiykTUw",
-        "fallback_swap_contract": "TGXVt3xLM4771cZii7uGMyWkhogSiykTUw",
-        "nodes": [
-            {
-                "url": "https://tron.drpc.org",
-                "ws_url": "wss://tron.drpc.org"
-            }
-        ],
-        "explorer_block_url": "#/block/",
-        "binance_id": "TRX"
-    },
     "USDT-TRC20": {
         "coin": "USDT-TRC20",
         "type": "TRC-20",
