@@ -16223,5 +16223,59 @@
       "github": "https://github.com/kerrigan-network/kerrigan",
       "homepage": "https://kerrigan.network"
     }
+  },
+  {
+    "coin": "TAR",
+    "name": "tarcoin",
+    "fname": "Tarcoin",
+    "rpcport": 19332,
+    "pubtype": 65,
+    "p2shtype": 127,
+    "wiftype": 128,
+    "segwit": true,
+    "bech32_hrp": "tar",
+    "txfee": 1000,
+    "mm2": 1,
+    "sign_message_prefix": "Tarcoin Signed Message:\n",
+    "mature_confirmations": 100,
+    "required_confirmations": 1,
+    "avg_blocktime": 600,
+    "protocol": {
+      "type": "UTXO"
+    },
+    "derivation_path": "m/44'/5050'",
+    "links": {
+      "github": "https://github.com/Tarcoin/tarcoin",
+      "homepage": "https://tarcoin.org"
+    }
+  },
+  {
+    "coin": "TAR-segwit",
+    "name": "tarcoin",
+    "fname": "Tarcoin",
+    "sign_message_prefix": "Tarcoin Signed Message:\n",
+    "rpcport": 19332,
+    "pubtype": 65,
+    "p2shtype": 127,
+    "wiftype": 128,
+    "segwit": true,
+    "bech32_hrp": "tar",
+    "address_format": {
+      "format": "segwit"
+    },
+    "orderbook_ticker": "TAR",
+    "txfee": 1000,
+    "mm2": 1,
+    "mature_confirmations": 100,
+    "required_confirmations": 1,
+    "avg_blocktime": 600,
+    "protocol": {
+      "type": "UTXO"
+    },
+    "derivation_path": "m/84'/5050'",
+    "links": {
+      "github": "https://github.com/Tarcoin/tarcoin",
+      "homepage": "https://tarcoin.org"
+    }
   }
 ]
