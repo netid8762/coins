@@ -9,6 +9,8 @@ on:
       - 'api_ids/binance_ids.json'
       - 'icons/*.png'
 
+  workflow_dispatch:
+
   schedule:
     - cron:  '0 0 * * *'
 
