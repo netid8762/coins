@@ -1786,5 +1786,9 @@
   "cake.png": {
     "original": "62b70d7fc3fc8731c79fe7ff6a8ac49ce4a837cb041fd8ddefa5359b5c078467",
     "processed": "c50941cfaf94f1cbb875ceb58dc925ee08202abc17631692438843e8ce845ed7"
+  },
+  "tar.png": {
+    "original": "3d0b34bdfe46d63b0e3c7de96aa6599afcb33541587651378e7000123f8479c8",
+    "processed": "e136260c98dc598b19b669ede5d2936436bba5dc27f3b51b6d30dbbb0e0864ec"
   }
 }

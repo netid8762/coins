@@ -22647,9 +22647,6 @@
         "fallback_swap_contract": "0x6d9ce4BD298DE38bAfEFD15f5C6f5c95313B1d94",
         "nodes": [
             {
-                "url": "https://lb.routeme.sh/rpc/evm/1284"
-            },
-            {
                 "url": "https://moonbeam.api.onfinality.io/public",
                 "ws_url": "wss://moonbeam.api.onfinality.io/public-ws"
             },
@@ -24313,6 +24310,15 @@
                 "contact": [
                     {
                         "discord": "squidicuz"
+                    }
+                ]
+            },
+            {
+                "url": "electrum.pepeblocks.com:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "realmasterkush"
                     }
                 ]
             }
@@ -30290,9 +30296,6 @@
         "fallback_swap_contract": "0xDB3d24F21745B9C1953BD643E1a6CA8A34C4F47c",
         "nodes": [
             {
-                "url": "https://lb.routeme.sh/rpc/evm/964"
-            },
-            {
                 "url": "https://lite.chain.opentensor.ai"
             },
             {
@@ -33198,9 +33201,6 @@
         "swap_contract_address": "0xDB3d24F21745B9C1953BD643E1a6CA8A34C4F47c",
         "fallback_swap_contract": "0xDB3d24F21745B9C1953BD643E1a6CA8A34C4F47c",
         "nodes": [
-            {
-                "url": "https://lb.routeme.sh/rpc/evm/964"
-            },
             {
                 "url": "https://lite.chain.opentensor.ai"
             },
@@ -41009,6 +41009,106 @@
                         "discord": "notjskitty"
                     }
                 ]
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
+    "TAR": {
+        "coin": "TAR",
+        "type": "UTXO",
+        "name": "Tarcoin",
+        "coinpaprika_id": "",
+        "coingecko_id": "",
+        "livecoinwatch_id": "",
+        "explorer_url": "https://explorer.tarcoin.org/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Tarcoin Signed Message:\n",
+        "fname": "Tarcoin",
+        "rpcport": 19332,
+        "pubtype": 65,
+        "p2shtype": 127,
+        "wiftype": 128,
+        "segwit": true,
+        "bech32_hrp": "tar",
+        "txfee": 1000,
+        "mm2": 1,
+        "mature_confirmations": 100,
+        "required_confirmations": 1,
+        "avg_blocktime": 600,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/5050'",
+        "links": {
+            "github": "https://github.com/Tarcoin/tarcoin",
+            "homepage": "https://tarcoin.org"
+        },
+        "electrum": [
+            {
+                "url": "electrum.tarcoin.org:50002",
+                "protocol": "SSL"
+            },
+            {
+                "url": "node1.electrum.tarcoin.org:50002",
+                "protocol": "SSL"
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
+    "TAR-segwit": {
+        "coin": "TAR-segwit",
+        "type": "UTXO",
+        "name": "Tarcoin",
+        "coinpaprika_id": "",
+        "coingecko_id": "",
+        "livecoinwatch_id": "",
+        "explorer_url": "https://explorer.tarcoin.org/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Tarcoin Signed Message:\n",
+        "fname": "Tarcoin",
+        "rpcport": 19332,
+        "pubtype": 65,
+        "p2shtype": 127,
+        "wiftype": 128,
+        "segwit": true,
+        "bech32_hrp": "tar",
+        "address_format": {
+            "format": "segwit"
+        },
+        "orderbook_ticker": "TAR",
+        "txfee": 1000,
+        "mm2": 1,
+        "mature_confirmations": 100,
+        "required_confirmations": 1,
+        "avg_blocktime": 600,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/84'/5050'",
+        "links": {
+            "github": "https://github.com/Tarcoin/tarcoin",
+            "homepage": "https://tarcoin.org"
+        },
+        "electrum": [
+            {
+                "url": "electrum.tarcoin.org:50002",
+                "protocol": "SSL"
+            },
+            {
+                "url": "node1.electrum.tarcoin.org:50002",
+                "protocol": "SSL"
             }
         ],
         "explorer_block_url": "block/"

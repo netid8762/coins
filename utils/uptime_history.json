@@ -2975,7 +2975,8 @@
         "1793027677": "offline",
         "1793150299": "online",
         "1793157561": "offline",
-        "1793197523": "online"
+        "1793197523": "online",
+        "1793243133": "offline"
       },
       "https://moonbeam.api.onfinality.io/public": {
         "1793027677": "online"
@@ -4660,13 +4661,16 @@
         "1793027677": "online"
       },
       "electrum.pepeblocks.com:50001": {
-        "1793027677": "offline"
+        "1793027677": "offline",
+        "1793243133": "online"
       },
       "electrum.pepeblocks.com:50002": {
-        "1793027677": "offline"
+        "1793027677": "offline",
+        "1793243133": "online"
       },
       "electrum.pepeblocks.com:50004": {
-        "1793027677": "offline"
+        "1793027677": "offline",
+        "1793243133": "online"
       }
     }
   },
@@ -5264,13 +5268,46 @@
     "by_server": {
       "https://lb.routeme.sh/rpc/evm/964": {
         "1793027677": "offline",
-        "1793157561": "online"
+        "1793157561": "online",
+        "1793243133": "offline"
       },
       "https://lite.chain.opentensor.ai": {
         "1793027677": "online"
       },
       "https://rpc.blockmachine.io": {
         "1793027677": "online"
+      }
+    }
+  },
+  "TAR": {
+    "all": {
+      "1793243133": "online"
+    },
+    "by_server": {
+      "electrum.tarcoin.org:50002": {
+        "1793243133": "online"
+      },
+      "electrum.tarcoin.org:50004": {
+        "1793243133": "online"
+      },
+      "node1.electrum.tarcoin.org:50002": {
+        "1793243133": "online"
+      }
+    }
+  },
+  "TAR-segwit": {
+    "all": {
+      "1793243133": "online"
+    },
+    "by_server": {
+      "electrum.tarcoin.org:50002": {
+        "1793243133": "online"
+      },
+      "electrum.tarcoin.org:50004": {
+        "1793243133": "online"
+      },
+      "node1.electrum.tarcoin.org:50002": {
+        "1793243133": "online"
       }
     }
   },
@@ -5648,7 +5685,8 @@
     "by_server": {
       "https://lb.routeme.sh/rpc/evm/964": {
         "1793027677": "offline",
-        "1793157561": "online"
+        "1793157561": "online",
+        "1793243133": "offline"
       },
       "https://lite.chain.opentensor.ai": {
         "1793027677": "online"
@@ -6307,7 +6345,8 @@
         "1793027677": "online"
       },
       "electrumx.primecoin.org:50001": {
-        "1793027677": "offline"
+        "1793027677": "offline",
+        "1793243133": "online"
       },
       "electrumx.xpm.systems:50002": {
         "1793027677": "online"
