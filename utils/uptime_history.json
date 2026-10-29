@@ -2976,7 +2976,8 @@
         "1793150299": "online",
         "1793157561": "offline",
         "1793197523": "online",
-        "1793243133": "offline"
+        "1793243133": "offline",
+        "1793304251": "online"
       },
       "https://moonbeam.api.onfinality.io/public": {
         "1793027677": "online"
@@ -4551,11 +4552,13 @@
     "by_server": {
       "https://api.harmony.one": {
         "1793027677": "online",
-        "1793197523": "offline"
+        "1793197523": "offline",
+        "1793304251": "online"
       },
       "https://api.s0.t.hmny.io": {
         "1793027677": "online",
-        "1793197523": "offline"
+        "1793197523": "offline",
+        "1793304251": "online"
       },
       "https://harmony-0.drpc.org": {
         "1793027677": "online"
@@ -5497,7 +5500,8 @@
       "https://tron.drpc.org": {
         "1793027677": "online",
         "1793150299": "offline",
-        "1793151116": "online"
+        "1793151116": "online",
+        "1793304251": "offline"
       },
       "https://tron.rpc.sentio.xyz": {
         "1793027677": "offline"
@@ -5505,7 +5509,8 @@
       "wss://tron.drpc.org": {
         "1793027677": "online",
         "1793150299": "offline",
-        "1793151116": "online"
+        "1793151116": "online",
+        "1793304251": "offline"
       },
       "wss://tron.rpc.sentio.xyz": {
         "1793027677": "offline"
