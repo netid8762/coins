@@ -2977,7 +2977,8 @@
         "1793157561": "offline",
         "1793197523": "online",
         "1793243133": "offline",
-        "1793304251": "online"
+        "1793304251": "online",
+        "1793334836": "offline"
       },
       "https://moonbeam.api.onfinality.io/public": {
         "1793027677": "online"
@@ -5272,7 +5273,8 @@
       "https://lb.routeme.sh/rpc/evm/964": {
         "1793027677": "offline",
         "1793157561": "online",
-        "1793243133": "offline"
+        "1793243133": "offline",
+        "1793334836": "online"
       },
       "https://lite.chain.opentensor.ai": {
         "1793027677": "online"
@@ -5501,7 +5503,8 @@
         "1793027677": "online",
         "1793150299": "offline",
         "1793151116": "online",
-        "1793304251": "offline"
+        "1793304251": "offline",
+        "1793334836": "online"
       },
       "https://tron.rpc.sentio.xyz": {
         "1793027677": "offline"
@@ -5510,7 +5513,8 @@
         "1793027677": "online",
         "1793150299": "offline",
         "1793151116": "online",
-        "1793304251": "offline"
+        "1793304251": "offline",
+        "1793334836": "online"
       },
       "wss://tron.rpc.sentio.xyz": {
         "1793027677": "offline"
@@ -5691,7 +5695,8 @@
       "https://lb.routeme.sh/rpc/evm/964": {
         "1793027677": "offline",
         "1793157561": "online",
-        "1793243133": "offline"
+        "1793243133": "offline",
+        "1793334836": "online"
       },
       "https://lite.chain.opentensor.ai": {
         "1793027677": "online"
