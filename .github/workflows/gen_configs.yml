@@ -11,9 +11,6 @@ on:
 
   workflow_dispatch:
 
-  schedule:
-    - cron:  '0 0 * * *'
-
 jobs:
   update_configs:
     runs-on: ubuntu-22.04
