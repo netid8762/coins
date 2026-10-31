@@ -449,6 +449,38 @@
       }
     }
   },
+  "BCA": {
+    "all": {
+      "1793409703": "online"
+    },
+    "by_server": {
+      "bca-main-2.swaps.org:54002": {
+        "1793409703": "online"
+      },
+      "bca-main.swaps.org:54002": {
+        "1793409703": "online"
+      },
+      "electrumx.bitcoinatom.io:50002": {
+        "1793409703": "online"
+      }
+    }
+  },
+  "BCA-segwit": {
+    "all": {
+      "1793409703": "online"
+    },
+    "by_server": {
+      "bca-main-2.swaps.org:54002": {
+        "1793409703": "online"
+      },
+      "bca-main.swaps.org:54002": {
+        "1793409703": "online"
+      },
+      "electrumx.bitcoinatom.io:50002": {
+        "1793409703": "online"
+      }
+    }
+  },
   "BCH": {
     "all": {
       "1793027677": "online"
@@ -2978,7 +3010,8 @@
         "1793197523": "online",
         "1793243133": "offline",
         "1793304251": "online",
-        "1793334836": "offline"
+        "1793334836": "offline",
+        "1793409703": "online"
       },
       "https://moonbeam.api.onfinality.io/public": {
         "1793027677": "online"
@@ -5274,7 +5307,8 @@
         "1793027677": "offline",
         "1793157561": "online",
         "1793243133": "offline",
-        "1793334836": "online"
+        "1793334836": "online",
+        "1793409703": "offline"
       },
       "https://lite.chain.opentensor.ai": {
         "1793027677": "online"
@@ -5504,7 +5538,8 @@
         "1793150299": "offline",
         "1793151116": "online",
         "1793304251": "offline",
-        "1793334836": "online"
+        "1793334836": "online",
+        "1793409703": "offline"
       },
       "https://tron.rpc.sentio.xyz": {
         "1793027677": "offline"
@@ -5514,7 +5549,8 @@
         "1793150299": "offline",
         "1793151116": "online",
         "1793304251": "offline",
-        "1793334836": "online"
+        "1793334836": "online",
+        "1793409703": "offline"
       },
       "wss://tron.rpc.sentio.xyz": {
         "1793027677": "offline"
@@ -5696,7 +5732,8 @@
         "1793027677": "offline",
         "1793157561": "online",
         "1793243133": "offline",
-        "1793334836": "online"
+        "1793334836": "online",
+        "1793409703": "offline"
       },
       "https://lite.chain.opentensor.ai": {
         "1793027677": "online"
