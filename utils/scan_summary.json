@@ -1,7 +1,6 @@
 {
     "delisted_coins": [
         "AURE",
-        "JKC",
         "BBK",
         "BOLI",
         "BTGS",
@@ -17,6 +16,7 @@
         "FLOP",
         "GBX",
         "IRIS",
+        "JKC",
         "LC2",
         "LC2-segwit",
         "PRCY",

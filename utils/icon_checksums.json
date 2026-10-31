@@ -1790,5 +1790,9 @@
   "tar.png": {
     "original": "3d0b34bdfe46d63b0e3c7de96aa6599afcb33541587651378e7000123f8479c8",
     "processed": "e136260c98dc598b19b669ede5d2936436bba5dc27f3b51b6d30dbbb0e0864ec"
+  },
+  "bca.png": {
+    "original": "1641016dd75c1998b59d78403a57e34ba454e594d27a59a38f93ce6eb822a3d0",
+    "processed": "c19d892b90a9a7fef8ea02f8de49c2f7df2a1fa1b002916194d9563cee9d927e"
   }
 }
