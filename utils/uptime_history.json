@@ -2458,7 +2458,8 @@
         "1793027677": "online"
       },
       "https://etc.etcdesktop.com": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1793497849": "offline"
       },
       "https://rpc.etcmc.xyz": {
         "1793027677": "online"
@@ -3106,23 +3107,66 @@
   },
   "HTH": {
     "all": {
-      "1793027677": "online"
+      "1793027677": "online",
+      "1793497849": "offline"
     },
     "by_server": {
+      "_metadata": {
+        "electrum.hth.foundation:50001": {
+          "contact": [
+            {
+              "discord": "nucash"
+            }
+          ]
+        },
+        "electrum.hth.foundation:50002": {
+          "contact": [
+            {
+              "discord": "nucash"
+            }
+          ]
+        },
+        "electrum.hth.foundation:50004": {
+          "contact": [
+            {
+              "discord": "nucash"
+            }
+          ]
+        },
+        "electrumx.wattxchange.app:50002": {
+          "contact": [
+            {
+              "discord": "nucash"
+            }
+          ]
+        },
+        "electrumx.wattxchange.app:50004": {
+          "contact": [
+            {
+              "discord": "nucash"
+            }
+          ]
+        }
+      },
       "electrum.hth.foundation:50001": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1793497849": "offline"
       },
       "electrum.hth.foundation:50002": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1793497849": "offline"
       },
       "electrum.hth.foundation:50004": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1793497849": "offline"
       },
       "electrumx.wattxchange.app:50002": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1793497849": "offline"
       },
       "electrumx.wattxchange.app:50004": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1793497849": "offline"
       }
     }
   },
@@ -5539,7 +5583,8 @@
         "1793151116": "online",
         "1793304251": "offline",
         "1793334836": "online",
-        "1793409703": "offline"
+        "1793409703": "offline",
+        "1793497849": "online"
       },
       "https://tron.rpc.sentio.xyz": {
         "1793027677": "offline"
@@ -5550,7 +5595,8 @@
         "1793151116": "online",
         "1793304251": "offline",
         "1793334836": "online",
-        "1793409703": "offline"
+        "1793409703": "offline",
+        "1793497849": "online"
       },
       "wss://tron.rpc.sentio.xyz": {
         "1793027677": "offline"
@@ -5692,10 +5738,12 @@
     },
     "by_server": {
       "uno-bkp.coinmunity.gold:50002": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1793497849": "offline"
       },
       "uno-bkp.coinmunity.gold:50003": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1793497849": "offline"
       },
       "uno-ex-one.ewmci.online:50001": {
         "1793027677": "online"
@@ -5707,10 +5755,12 @@
         "1793027677": "offline"
       },
       "uno-main.coinmunity.gold:50002": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1793497849": "offline"
       },
       "uno-main.coinmunity.gold:50003": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1793497849": "offline"
       }
     }
   },
