@@ -3336,7 +3336,8 @@
   "KCN": {
     "all": {
       "1793027677": "online",
-      "1793517877": "offline"
+      "1793517877": "offline",
+      "1793570826": "online"
     },
     "by_server": {
       "_metadata": {
@@ -3443,50 +3444,61 @@
       },
       "electrum1.kcnxp.com:51002": {
         "1793027677": "online",
-        "1793517877": "offline"
+        "1793517877": "offline",
+        "1793570826": "online"
       },
       "electrum1.kcnxp.com:51004": {
         "1793027677": "online",
-        "1793517877": "offline"
+        "1793517877": "offline",
+        "1793570826": "online"
       },
       "electrum2.kcnxp.com:51002": {
         "1793027677": "online",
-        "1793517877": "offline"
+        "1793517877": "offline",
+        "1793570826": "online"
       },
       "electrum2.kcnxp.com:51004": {
         "1793027677": "online",
-        "1793517877": "offline"
+        "1793517877": "offline",
+        "1793570826": "online"
       },
       "electrum3.kcnxp.com:51002": {
         "1793027677": "online",
-        "1793517877": "offline"
+        "1793517877": "offline",
+        "1793570826": "online"
       },
       "electrum3.kcnxp.com:51004": {
         "1793027677": "online",
-        "1793517877": "offline"
+        "1793517877": "offline",
+        "1793570826": "online"
       },
       "electrum4.kcnxp.com:51002": {
         "1793027677": "online",
-        "1793517877": "offline"
+        "1793517877": "offline",
+        "1793570826": "online"
       },
       "electrum4.kcnxp.com:51004": {
         "1793027677": "online",
-        "1793517877": "offline"
+        "1793517877": "offline",
+        "1793570826": "online"
       },
       "electrum5.kcnxp.com:51002": {
         "1793027677": "online",
-        "1793517877": "offline"
+        "1793517877": "offline",
+        "1793570826": "online"
       },
       "electrum5.kcnxp.com:51004": {
         "1793027677": "online",
-        "1793517877": "offline"
+        "1793517877": "offline",
+        "1793570826": "online"
       }
     }
   },
   "KCN-segwit": {
     "all": {
       "1793027677": "online",
-      "1793517877": "offline"
+      "1793517877": "offline",
+      "1793570826": "online"
     },
     "by_server": {
       "_metadata": {
@@ -3593,43 +3605,53 @@
       },
       "electrum1.kcnxp.com:51002": {
         "1793027677": "online",
-        "1793517877": "offline"
+        "1793517877": "offline",
+        "1793570826": "online"
       },
       "electrum1.kcnxp.com:51004": {
         "1793027677": "online",
-        "1793517877": "offline"
+        "1793517877": "offline",
+        "1793570826": "online"
       },
       "electrum2.kcnxp.com:51002": {
         "1793027677": "online",
-        "1793517877": "offline"
+        "1793517877": "offline",
+        "1793570826": "online"
       },
       "electrum2.kcnxp.com:51004": {
         "1793027677": "online",
-        "1793517877": "offline"
+        "1793517877": "offline",
+        "1793570826": "online"
       },
       "electrum3.kcnxp.com:51002": {
         "1793027677": "online",
-        "1793517877": "offline"
+        "1793517877": "offline",
+        "1793570826": "online"
       },
       "electrum3.kcnxp.com:51004": {
         "1793027677": "online",
-        "1793517877": "offline"
+        "1793517877": "offline",
+        "1793570826": "online"
       },
       "electrum4.kcnxp.com:51002": {
         "1793027677": "online",
-        "1793517877": "offline"
+        "1793517877": "offline",
+        "1793570826": "online"
       },
       "electrum4.kcnxp.com:51004": {
         "1793027677": "online",
-        "1793517877": "offline"
+        "1793517877": "offline",
+        "1793570826": "online"
       },
       "electrum5.kcnxp.com:51002": {
         "1793027677": "online",
-        "1793517877": "offline"
+        "1793517877": "offline",
+        "1793570826": "online"
       },
       "electrum5.kcnxp.com:51004": {
         "1793027677": "online",
-        "1793517877": "offline"
+        "1793517877": "offline",
+        "1793570826": "online"
       }
     }
   },
@@ -5657,7 +5679,8 @@
         "1793243133": "offline",
         "1793334836": "online",
         "1793409703": "offline",
-        "1793517877": "online"
+        "1793517877": "online",
+        "1793570826": "offline"
       },
       "https://lite.chain.opentensor.ai": {
         "1793027677": "online"
@@ -6089,7 +6112,8 @@
         "1793243133": "offline",
         "1793334836": "online",
         "1793409703": "offline",
-        "1793517877": "online"
+        "1793517877": "online",
+        "1793570826": "offline"
       },
       "https://lite.chain.opentensor.ai": {
         "1793027677": "online"
