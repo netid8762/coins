@@ -2907,6 +2907,7 @@
         "p2shtype": 5,
         "wiftype": 128,
         "segwit": true,
+        "fork_id": "0x00",
         "bech32_hrp": "bc",
         "txfee": 1000,
         "mm2": 1,
@@ -2917,7 +2918,7 @@
         },
         "derivation_path": "m/44'/0'",
         "links": {
-            "github": "https://github.com/BitcoinII-Dev/BitcoinII",
+            "github": "https://github.com/Bitcoin-II/BitcoinII-Core",
             "homepage": "https://bitcoin-ii.org"
         },
         "electrum": [
@@ -2966,6 +2967,8 @@
         "p2shtype": 5,
         "wiftype": 128,
         "segwit": true,
+        "fork_id": "0x00",
+        "signature_version": "witness_v0",
         "bech32_hrp": "bc",
         "address_format": {
             "format": "segwit"
@@ -2980,7 +2983,7 @@
         },
         "derivation_path": "m/84'/0'",
         "links": {
-            "github": "https://github.com/BitcoinII-Dev/BitcoinII",
+            "github": "https://github.com/Bitcoin-II/BitcoinII-Core",
             "homepage": "https://bitcoin-ii.org"
         },
         "electrum": [
@@ -29205,6 +29208,54 @@
             }
         ],
         "explorer_block_url": "block/"
+    },
+    "UNO": {
+        "coin": "UNO",
+        "type": "UTXO",
+        "name": "Unobtanium",
+        "coinpaprika_id": "uno-unobtanium",
+        "coingecko_id": "unobtanium",
+        "livecoinwatch_id": "UNO",
+        "explorer_url": "https://chainz.cryptoid.info/uno/",
+        "explorer_tx_url": "tx.dws?",
+        "explorer_address_url": "address.dws?",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Unobtanium Signed Message:\n",
+        "fname": "Unobtanium",
+        "rpcport": 65535,
+        "pubtype": 130,
+        "p2shtype": 30,
+        "wiftype": 224,
+        "txfee": 0,
+        "mm2": 1,
+        "required_confirmations": 3,
+        "avg_blocktime": 150,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "derivation_path": "m/44'/92'",
+        "trezor_coin": "Unobtanium",
+        "links": {
+            "github": "https://github.com/unobtanium-official/unobtanium",
+            "homepage": "https://unobtanium.uno"
+        },
+        "electrum": [
+            {
+                "url": "uno-bkp.coinmunity.gold:50003",
+                "protocol": "WSS",
+                "disable_cert_verification": true
+            },
+            {
+                "url": "uno-main.coinmunity.gold:50003",
+                "protocol": "WSS",
+                "disable_cert_verification": true
+            }
+        ],
+        "explorer_block_url": "block.dws?"
     },
     "USD1-ERC20": {
         "coin": "USD1-ERC20",
