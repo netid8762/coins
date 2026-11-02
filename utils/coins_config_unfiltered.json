@@ -1814,13 +1814,10 @@
         "parent_coin": "IRIS",
         "rpc_urls": [
             {
-                "url": "https://iris-rpc.publicnode.com"
+                "url": "https://mainnet-iris-rpc.konsortech.xyz"
             },
             {
-                "url": "https://rpc.cosmos.directory/irisnet"
-            },
-            {
-                "url": "https://rpc.irishub-1.irisnet.org"
+                "url": "https://rpc-iris.keplr.app"
             }
         ],
         "explorer_block_url": "block/",
@@ -4020,8 +4017,35 @@
             "github": "https://github.com/BitBlocksProject/BitBlocks",
             "homepage": "https://bitblocksproject.com"
         },
-        "electrum": [],
-        "delisted": true,
+        "electrum": [
+            {
+                "url": "bbk-ex-three.ewmci.online:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "bbk-ex-three.ewmci.online:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "bbk-ex-three.ewmci.online:50003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block.dws?"
     },
     "BBK-BEP20": {
@@ -4606,6 +4630,26 @@
                 "contact": [
                     {
                         "discord": "nucash"
+                    }
+                ]
+            },
+            {
+                "url": "bitnet.outsidethebox.top:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "def#4726"
+                    }
+                ]
+            },
+            {
+                "url": "bitnet.outsidethebox.top:50004",
+                "protocol": "WSS",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "def#4726"
                     }
                 ]
             }
@@ -11896,7 +11940,7 @@
         "name": "Doriancoin",
         "coinpaprika_id": "",
         "coingecko_id": "",
-        "livecoinwatch_id": "",
+        "livecoinwatch_id": "DSV",
         "explorer_url": "https://blocks.doriancoin.com/",
         "explorer_tx_url": "tx/",
         "explorer_address_url": "address/",
@@ -12018,7 +12062,7 @@
         "name": "Doriancoin",
         "coinpaprika_id": "",
         "coingecko_id": "",
-        "livecoinwatch_id": "",
+        "livecoinwatch_id": "DSV",
         "explorer_url": "https://blocks.doriancoin.com/",
         "explorer_tx_url": "tx/",
         "explorer_address_url": "address/",
@@ -20561,8 +20605,14 @@
             }
         },
         "derivation_path": "m/44'/118'",
-        "rpc_urls": [],
-        "delisted": true,
+        "rpc_urls": [
+            {
+                "url": "https://mainnet-iris-rpc.konsortech.xyz"
+            },
+            {
+                "url": "https://rpc-iris.keplr.app"
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "IRIS-BEP20": {
@@ -26313,10 +26363,6 @@
         "fallback_swap_contract": "0x61EEC271c38D713F47774bC3F87916f518995048",
         "nodes": [
             {
-                "url": "https://gm.monad.at.htw.tech",
-                "ws_url": "wss://gm.monad.at.htw.tech"
-            },
-            {
                 "url": "https://infra.originstake.com/monad/evm"
             },
             {
@@ -26760,6 +26806,10 @@
             },
             {
                 "url": "https://moonbeam.api.pocket.network"
+            },
+            {
+                "url": "https://moonbeam.drpc.org",
+                "ws_url": "wss://moonbeam.drpc.org"
             }
         ],
         "explorer_block_url": "block/",
@@ -26799,10 +26849,6 @@
         },
         "derivation_path": "m/44'/130'",
         "electrum": [
-            {
-                "url": "159.69.73.223:5061",
-                "protocol": "TCP"
-            },
             {
                 "url": "electrum2.nav.community:40002",
                 "protocol": "SSL",
@@ -36604,6 +36650,10 @@
             {
                 "url": "https://tron.drpc.org",
                 "ws_url": "wss://tron.drpc.org"
+            },
+            {
+                "url": "https://tron.rpc.sentio.xyz",
+                "ws_url": "wss://tron.rpc.sentio.xyz"
             }
         ],
         "explorer_block_url": "#/block/",
@@ -37891,12 +37941,32 @@
         },
         "electrum": [
             {
+                "url": "uno-bkp.coinmunity.gold:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true
+            },
+            {
+                "url": "uno-bkp.coinmunity.gold:50003",
+                "protocol": "WSS",
+                "disable_cert_verification": true
+            },
+            {
                 "url": "uno-ex-one.ewmci.online:50001",
                 "protocol": "TCP"
             },
             {
                 "url": "uno-ex-one.ewmci.online:50002",
                 "protocol": "SSL",
+                "disable_cert_verification": true
+            },
+            {
+                "url": "uno-main.coinmunity.gold:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true
+            },
+            {
+                "url": "uno-main.coinmunity.gold:50003",
+                "protocol": "WSS",
                 "disable_cert_verification": true
             }
         ],
@@ -38534,10 +38604,6 @@
         "fallback_swap_contract": "0x61EEC271c38D713F47774bC3F87916f518995048",
         "nodes": [
             {
-                "url": "https://gm.monad.at.htw.tech",
-                "ws_url": "wss://gm.monad.at.htw.tech"
-            },
-            {
                 "url": "https://infra.originstake.com/monad/evm"
             },
             {
@@ -38751,10 +38817,6 @@
             },
             {
                 "url": "https://rpc.ankr.com/xdc"
-            },
-            {
-                "url": "https://rpc.plugin.global/xdcmainnet",
-                "ws_url": "wss://rpc.plugin.global/ws/xdcmainnet"
             },
             {
                 "url": "https://rpc.xdc.network"
@@ -39388,10 +39450,6 @@
         "fallback_swap_contract": "0x61EEC271c38D713F47774bC3F87916f518995048",
         "nodes": [
             {
-                "url": "https://gm.monad.at.htw.tech",
-                "ws_url": "wss://gm.monad.at.htw.tech"
-            },
-            {
                 "url": "https://infra.originstake.com/monad/evm"
             },
             {
@@ -39765,10 +39823,6 @@
         "swap_contract_address": "0x61EEC271c38D713F47774bC3F87916f518995048",
         "fallback_swap_contract": "0x61EEC271c38D713F47774bC3F87916f518995048",
         "nodes": [
-            {
-                "url": "https://gm.monad.at.htw.tech",
-                "ws_url": "wss://gm.monad.at.htw.tech"
-            },
             {
                 "url": "https://infra.originstake.com/monad/evm"
             },
@@ -41687,10 +41741,6 @@
         "fallback_swap_contract": "0x61EEC271c38D713F47774bC3F87916f518995048",
         "nodes": [
             {
-                "url": "https://gm.monad.at.htw.tech",
-                "ws_url": "wss://gm.monad.at.htw.tech"
-            },
-            {
                 "url": "https://infra.originstake.com/monad/evm"
             },
             {
@@ -42661,10 +42711,6 @@
             },
             {
                 "url": "https://rpc.ankr.com/xdc"
-            },
-            {
-                "url": "https://rpc.plugin.global/xdcmainnet",
-                "ws_url": "wss://rpc.plugin.global/ws/xdcmainnet"
             },
             {
                 "url": "https://rpc.xdc.network"
@@ -47455,7 +47501,7 @@
         "name": "Tarcoin",
         "coinpaprika_id": "",
         "coingecko_id": "",
-        "livecoinwatch_id": "",
+        "livecoinwatch_id": "_TAR",
         "explorer_url": "https://explorer.tarcoin.org/",
         "explorer_tx_url": "tx/",
         "explorer_address_url": "address/",
@@ -47507,7 +47553,7 @@
         "name": "Tarcoin",
         "coinpaprika_id": "",
         "coingecko_id": "",
-        "livecoinwatch_id": "",
+        "livecoinwatch_id": "_TAR",
         "explorer_url": "https://explorer.tarcoin.org/",
         "explorer_tx_url": "tx/",
         "explorer_address_url": "address/",
