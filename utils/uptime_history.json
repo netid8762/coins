@@ -3014,7 +3014,8 @@
         "1793304251": "online",
         "1793334836": "offline",
         "1793409703": "online",
-        "1793517877": "offline"
+        "1793517877": "offline",
+        "1793592309": "online"
       },
       "https://moonbeam.api.onfinality.io/public": {
         "1793027677": "online"
@@ -4634,7 +4635,8 @@
     },
     "by_server": {
       "159.69.73.223:5061": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1793592309": "offline"
       },
       "electrum2.nav.community:40002": {
         "1793027677": "online"
@@ -5680,7 +5682,8 @@
         "1793334836": "online",
         "1793409703": "offline",
         "1793517877": "online",
-        "1793570826": "offline"
+        "1793570826": "offline",
+        "1793592309": "online"
       },
       "https://lite.chain.opentensor.ai": {
         "1793027677": "online"
@@ -6067,11 +6070,13 @@
     "by_server": {
       "uno-bkp.coinmunity.gold:50002": {
         "1793027677": "online",
-        "1793497849": "offline"
+        "1793497849": "offline",
+        "1793592309": "online"
       },
       "uno-bkp.coinmunity.gold:50003": {
         "1793027677": "online",
-        "1793497849": "offline"
+        "1793497849": "offline",
+        "1793592309": "online"
       },
       "uno-ex-one.ewmci.online:50001": {
         "1793027677": "online"
@@ -6084,11 +6089,13 @@
       },
       "uno-main.coinmunity.gold:50002": {
         "1793027677": "online",
-        "1793497849": "offline"
+        "1793497849": "offline",
+        "1793592309": "online"
       },
       "uno-main.coinmunity.gold:50003": {
         "1793027677": "online",
-        "1793497849": "offline"
+        "1793497849": "offline",
+        "1793592309": "online"
       }
     }
   },
@@ -6113,7 +6120,8 @@
         "1793334836": "online",
         "1793409703": "offline",
         "1793517877": "online",
-        "1793570826": "offline"
+        "1793570826": "offline",
+        "1793592309": "online"
       },
       "https://lite.chain.opentensor.ai": {
         "1793027677": "online"

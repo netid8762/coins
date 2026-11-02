@@ -3305,6 +3305,7 @@
         "p2shtype": 5,
         "wiftype": 128,
         "segwit": true,
+        "fork_id": "0x00",
         "bech32_hrp": "bc",
         "txfee": 1000,
         "mm2": 1,
@@ -3315,7 +3316,7 @@
         },
         "derivation_path": "m/44'/0'",
         "links": {
-            "github": "https://github.com/BitcoinII-Dev/BitcoinII",
+            "github": "https://github.com/Bitcoin-II/BitcoinII-Core",
             "homepage": "https://bitcoin-ii.org"
         },
         "electrum": [
@@ -3364,6 +3365,8 @@
         "p2shtype": 5,
         "wiftype": 128,
         "segwit": true,
+        "fork_id": "0x00",
+        "signature_version": "witness_v0",
         "bech32_hrp": "bc",
         "address_format": {
             "format": "segwit"
@@ -3378,7 +3381,7 @@
         },
         "derivation_path": "m/84'/0'",
         "links": {
-            "github": "https://github.com/BitcoinII-Dev/BitcoinII",
+            "github": "https://github.com/Bitcoin-II/BitcoinII-Core",
             "homepage": "https://bitcoin-ii.org"
         },
         "electrum": [
@@ -22656,6 +22659,9 @@
         "fallback_swap_contract": "0x6d9ce4BD298DE38bAfEFD15f5C6f5c95313B1d94",
         "nodes": [
             {
+                "url": "https://lb.routeme.sh/rpc/evm/1284"
+            },
+            {
                 "url": "https://moonbeam.api.onfinality.io/public",
                 "ws_url": "wss://moonbeam.api.onfinality.io/public-ws"
             },
@@ -30383,6 +30389,9 @@
         "fallback_swap_contract": "0xDB3d24F21745B9C1953BD643E1a6CA8A34C4F47c",
         "nodes": [
             {
+                "url": "https://lb.routeme.sh/rpc/evm/964"
+            },
+            {
                 "url": "https://lite.chain.opentensor.ai"
             },
             {
@@ -32471,7 +32480,17 @@
         },
         "electrum": [
             {
+                "url": "uno-bkp.coinmunity.gold:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true
+            },
+            {
                 "url": "uno-ex-one.ewmci.online:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true
+            },
+            {
+                "url": "uno-main.coinmunity.gold:50002",
                 "protocol": "SSL",
                 "disable_cert_verification": true
             }
@@ -33278,6 +33297,9 @@
         "swap_contract_address": "0xDB3d24F21745B9C1953BD643E1a6CA8A34C4F47c",
         "fallback_swap_contract": "0xDB3d24F21745B9C1953BD643E1a6CA8A34C4F47c",
         "nodes": [
+            {
+                "url": "https://lb.routeme.sh/rpc/evm/964"
+            },
             {
                 "url": "https://lite.chain.opentensor.ai"
             },
