@@ -213,7 +213,8 @@
         "1793027677": "online"
       },
       "https://avax.api.pocket.network": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1793603701": "offline"
       },
       "wss://avalanche-c-chain-rpc.publicnode.com": {
         "1793027677": "online"
@@ -658,7 +659,8 @@
         "1793027677": "offline"
       },
       "bitnet.outsidethebox.top:50004": {
-        "1793027677": "offline"
+        "1793027677": "offline",
+        "1793603701": "online"
       }
     }
   },
@@ -3020,7 +3022,8 @@
         "1793409703": "online",
         "1793517877": "offline",
         "1793592309": "online",
-        "1793598440": "offline"
+        "1793598440": "offline",
+        "1793603701": "online"
       },
       "https://moonbeam.api.onfinality.io/public": {
         "1793027677": "online"

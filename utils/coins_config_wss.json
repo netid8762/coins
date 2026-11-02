@@ -2907,8 +2907,8 @@
         "p2shtype": 5,
         "wiftype": 128,
         "segwit": true,
-        "fork_id": "0x00",
-        "signature_version": "base",
+        "fork_id": "0x40",
+        "signature_version": "fork_id",
         "bech32_hrp": "bc",
         "txfee": 1000,
         "mm2": 1,
@@ -2968,8 +2968,8 @@
         "p2shtype": 5,
         "wiftype": 128,
         "segwit": true,
-        "fork_id": "0x00",
-        "signature_version": "base",
+        "fork_id": "0x40",
+        "signature_version": "witness_v0",
         "bech32_hrp": "bc",
         "address_format": {
             "format": "segwit"
@@ -3654,6 +3654,16 @@
                 "contact": [
                     {
                         "discord": "nucash"
+                    }
+                ]
+            },
+            {
+                "url": "bitnet.outsidethebox.top:50004",
+                "protocol": "WSS",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "def#4726"
                     }
                 ]
             }

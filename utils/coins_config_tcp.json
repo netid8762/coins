@@ -2043,9 +2043,6 @@
             },
             {
                 "url": "https://avalanche.rpc.sentio.xyz"
-            },
-            {
-                "url": "https://avax.api.pocket.network"
             }
         ],
         "explorer_block_url": "block/",
@@ -3305,8 +3302,8 @@
         "p2shtype": 5,
         "wiftype": 128,
         "segwit": true,
-        "fork_id": "0x00",
-        "signature_version": "base",
+        "fork_id": "0x40",
+        "signature_version": "fork_id",
         "bech32_hrp": "bc",
         "txfee": 1000,
         "mm2": 1,
@@ -3366,8 +3363,8 @@
         "p2shtype": 5,
         "wiftype": 128,
         "segwit": true,
-        "fork_id": "0x00",
-        "signature_version": "base",
+        "fork_id": "0x40",
+        "signature_version": "witness_v0",
         "bech32_hrp": "bc",
         "address_format": {
             "format": "segwit"
@@ -22764,6 +22761,9 @@
         "swap_contract_address": "0x6d9ce4BD298DE38bAfEFD15f5C6f5c95313B1d94",
         "fallback_swap_contract": "0x6d9ce4BD298DE38bAfEFD15f5C6f5c95313B1d94",
         "nodes": [
+            {
+                "url": "https://lb.routeme.sh/rpc/evm/1284"
+            },
             {
                 "url": "https://moonbeam.api.onfinality.io/public",
                 "ws_url": "wss://moonbeam.api.onfinality.io/public-ws"
