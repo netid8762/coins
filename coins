@@ -1292,6 +1292,7 @@
     "p2shtype": 5,
     "wiftype": 128,
     "segwit": true,
+    "fork_id": "0x00",
     "bech32_hrp": "bc",
     "txfee": 1000,
     "mm2": 1,
@@ -1303,7 +1304,7 @@
     },
     "derivation_path": "m/44'/0'",
     "links": {
-      "github": "https://github.com/BitcoinII-Dev/BitcoinII",
+      "github": "https://github.com/Bitcoin-II/BitcoinII-Core",
       "homepage": "https://bitcoin-ii.org"
     }
   },
@@ -1317,6 +1318,8 @@
     "p2shtype": 5,
     "wiftype": 128,
     "segwit": true,
+    "fork_id": "0x00",
+    "signature_version": "witness_v0",
     "bech32_hrp": "bc",
     "address_format": {
       "format": "segwit"
@@ -1331,7 +1334,7 @@
     },
     "derivation_path": "m/84'/0'",
     "links": {
-      "github": "https://github.com/BitcoinII-Dev/BitcoinII",
+      "github": "https://github.com/Bitcoin-II/BitcoinII-Core",
       "homepage": "https://bitcoin-ii.org"
     }
   },
