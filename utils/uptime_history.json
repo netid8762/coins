@@ -5935,7 +5935,8 @@
       },
       "https://tron.rpc.sentio.xyz": {
         "1793027677": "offline",
-        "1793615609": "online"
+        "1793615609": "online",
+        "1793650502": "offline"
       },
       "wss://tron.drpc.org": {
         "1793027677": "online",
@@ -5948,7 +5949,8 @@
       },
       "wss://tron.rpc.sentio.xyz": {
         "1793027677": "offline",
-        "1793615609": "online"
+        "1793615609": "online",
+        "1793650502": "offline"
       }
     }
   },
@@ -6159,7 +6161,8 @@
       },
       "https://rpc.plugin.global/xdcmainnet": {
         "1793151116": "online",
-        "1793615609": "offline"
+        "1793615609": "offline",
+        "1793650502": "online"
       },
       "https://rpc.xdc.network": {
         "1793027677": "online"
@@ -6170,7 +6173,8 @@
       },
       "wss://rpc.plugin.global/ws/xdcmainnet": {
         "1793151116": "online",
-        "1793615609": "offline"
+        "1793615609": "offline",
+        "1793650502": "online"
       },
       "wss://rpc.xdcrpc.com/ws": {
         "1793027677": "online",
@@ -6447,6 +6451,12 @@
       },
       "electrum2.wamcoin.org:50004": {
         "1793027677": "online"
+      },
+      "wam.zcd.lol:50002": {
+        "1793650502": "online"
+      },
+      "wam.zcd.lol:50004": {
+        "1793650502": "online"
       }
     }
   },
@@ -6547,7 +6557,8 @@
       },
       "https://rpc.plugin.global/xdcmainnet": {
         "1793151116": "online",
-        "1793615609": "offline"
+        "1793615609": "offline",
+        "1793650502": "online"
       },
       "https://rpc.xdc.network": {
         "1793027677": "online"
@@ -6558,7 +6569,8 @@
       },
       "wss://rpc.plugin.global/ws/xdcmainnet": {
         "1793151116": "online",
-        "1793615609": "offline"
+        "1793615609": "offline",
+        "1793650502": "online"
       },
       "wss://rpc.xdcrpc.com/ws": {
         "1793027677": "online",
