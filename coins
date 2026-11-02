@@ -1275,6 +1275,7 @@
     "wiftype": 128,
     "segwit": true,
     "fork_id": "0x00",
+    "signature_version": "base",
     "bech32_hrp": "bc",
     "txfee": 1000,
     "mm2": 1,
@@ -1301,7 +1302,7 @@
     "wiftype": 128,
     "segwit": true,
     "fork_id": "0x00",
-    "signature_version": "witness_v0",
+    "signature_version": "base",
     "bech32_hrp": "bc",
     "address_format": {
       "format": "segwit"
