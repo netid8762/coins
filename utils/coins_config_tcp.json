@@ -3580,6 +3580,7 @@
         "txfee": 1000,
         "segwit": false,
         "fork_id": "0x40",
+        "signature_version": "fork_id",
         "address_format": {
             "format": "cashaddress",
             "network": "bitcoincash"
@@ -21217,8 +21218,6 @@
         "pubtype": 50,
         "p2shtype": 9,
         "wiftype": 244,
-        "decimals": 8,
-        "signature_version": "base",
         "txfee": 10000,
         "segwit": true,
         "bech32_hrp": "maza",
@@ -31366,10 +31365,6 @@
             {
                 "url": "https://tron.drpc.org",
                 "ws_url": "wss://tron.drpc.org"
-            },
-            {
-                "url": "https://tron.rpc.sentio.xyz",
-                "ws_url": "wss://tron.rpc.sentio.xyz"
             }
         ],
         "explorer_block_url": "#/block/",
@@ -33511,6 +33506,10 @@
             },
             {
                 "url": "https://rpc.ankr.com/xdc"
+            },
+            {
+                "url": "https://rpc.plugin.global/xdcmainnet",
+                "ws_url": "wss://rpc.plugin.global/ws/xdcmainnet"
             },
             {
                 "url": "https://rpc.xdc.network"
@@ -36999,6 +36998,10 @@
                 "url": "https://rpc.ankr.com/xdc"
             },
             {
+                "url": "https://rpc.plugin.global/xdcmainnet",
+                "ws_url": "wss://rpc.plugin.global/ws/xdcmainnet"
+            },
+            {
                 "url": "https://rpc.xdc.network"
             }
         ],
@@ -37030,7 +37033,6 @@
         "dust": 100000,
         "mm2": 1,
         "segwit": true,
-        "signature_version": "witness_v0",
         "bech32_hrp": "ep",
         "address_format": {
             "format": "segwit"
@@ -37593,6 +37595,7 @@
         "txfee": 10,
         "segwit": false,
         "fork_id": "0x40",
+        "signature_version": "fork_id",
         "address_format": {
             "format": "cashaddress",
             "network": "ergon"
@@ -40858,6 +40861,18 @@
                         "email": "wam.coin.official@proton.me"
                     }
                 ]
+            },
+            {
+                "url": "wam.zcd.lol:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "cup"
+                    },
+                    {
+                        "email": "bobbyning@foxmail.com"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -41037,6 +41052,7 @@
         "estimate_fee_blocks": 2,
         "segwit": false,
         "fork_id": "0x40",
+        "signature_version": "fork_id",
         "address_format": {
             "format": "cashaddress",
             "network": "ecash"
