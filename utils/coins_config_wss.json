@@ -2907,8 +2907,9 @@
         "p2shtype": 5,
         "wiftype": 128,
         "segwit": true,
-        "fork_id": "0x40",
-        "signature_version": "fork_id",
+        "fork_id": "0x00",
+        "signature_version": "base",
+        "txversion": 2,
         "bech32_hrp": "bc",
         "txfee": 1000,
         "mm2": 1,
@@ -2968,8 +2969,9 @@
         "p2shtype": 5,
         "wiftype": 128,
         "segwit": true,
-        "fork_id": "0x40",
-        "signature_version": "witness_v0",
+        "fork_id": "0x00",
+        "signature_version": "base",
+        "txversion": 2,
         "bech32_hrp": "bc",
         "address_format": {
             "format": "segwit"
@@ -20575,6 +20577,10 @@
             {
                 "url": "https://moonbeam.api.onfinality.io/public",
                 "ws_url": "wss://moonbeam.api.onfinality.io/public-ws"
+            },
+            {
+                "url": "https://moonbeam.drpc.org",
+                "ws_url": "wss://moonbeam.drpc.org"
             }
         ],
         "explorer_block_url": "block/",

@@ -214,7 +214,8 @@
       },
       "https://avax.api.pocket.network": {
         "1793027677": "online",
-        "1793603701": "offline"
+        "1793603701": "offline",
+        "1793607019": "online"
       },
       "wss://avalanche-c-chain-rpc.publicnode.com": {
         "1793027677": "online"
@@ -656,7 +657,8 @@
         "1793027677": "online"
       },
       "bitnet.outsidethebox.top:50002": {
-        "1793027677": "offline"
+        "1793027677": "offline",
+        "1793607019": "online"
       },
       "bitnet.outsidethebox.top:50004": {
         "1793027677": "offline",
@@ -3031,8 +3033,14 @@
       "https://moonbeam.api.pocket.network": {
         "1793027677": "online"
       },
+      "https://moonbeam.drpc.org": {
+        "1793607019": "online"
+      },
       "wss://moonbeam.api.onfinality.io/public-ws": {
         "1793027677": "online"
+      },
+      "wss://moonbeam.drpc.org": {
+        "1793607019": "online"
       }
     }
   },
@@ -5692,7 +5700,8 @@
         "1793517877": "online",
         "1793570826": "offline",
         "1793592309": "online",
-        "1793598440": "offline"
+        "1793598440": "offline",
+        "1793607019": "online"
       },
       "https://lite.chain.opentensor.ai": {
         "1793027677": "online"
@@ -6131,7 +6140,8 @@
         "1793517877": "online",
         "1793570826": "offline",
         "1793592309": "online",
-        "1793598440": "offline"
+        "1793598440": "offline",
+        "1793607019": "online"
       },
       "https://lite.chain.opentensor.ai": {
         "1793027677": "online"
