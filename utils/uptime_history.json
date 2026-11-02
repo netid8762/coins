@@ -322,7 +322,8 @@
   },
   "BBK": {
     "all": {
-      "1793027677": "offline"
+      "1793027677": "offline",
+      "1793598440": "online"
     },
     "by_server": {
       "_metadata": {
@@ -377,13 +378,16 @@
         }
       },
       "bbk-ex-three.ewmci.online:50001": {
-        "1793027677": "offline"
+        "1793027677": "offline",
+        "1793598440": "online"
       },
       "bbk-ex-three.ewmci.online:50002": {
-        "1793027677": "offline"
+        "1793027677": "offline",
+        "1793598440": "online"
       },
       "bbk-ex-three.ewmci.online:50003": {
-        "1793027677": "offline"
+        "1793027677": "offline",
+        "1793598440": "online"
       },
       "bbk-ex-two.ewmci.online:50001": {
         "1793027677": "offline"
@@ -3015,7 +3019,8 @@
         "1793334836": "offline",
         "1793409703": "online",
         "1793517877": "offline",
-        "1793592309": "online"
+        "1793592309": "online",
+        "1793598440": "offline"
       },
       "https://moonbeam.api.onfinality.io/public": {
         "1793027677": "online"
@@ -5683,7 +5688,8 @@
         "1793409703": "offline",
         "1793517877": "online",
         "1793570826": "offline",
-        "1793592309": "online"
+        "1793592309": "online",
+        "1793598440": "offline"
       },
       "https://lite.chain.opentensor.ai": {
         "1793027677": "online"
@@ -6121,7 +6127,8 @@
         "1793409703": "offline",
         "1793517877": "online",
         "1793570826": "offline",
-        "1793592309": "online"
+        "1793592309": "online",
+        "1793598440": "offline"
       },
       "https://lite.chain.opentensor.ai": {
         "1793027677": "online"

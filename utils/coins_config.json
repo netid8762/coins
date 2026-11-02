@@ -3517,6 +3517,7 @@
         "wiftype": 128,
         "segwit": true,
         "fork_id": "0x00",
+        "signature_version": "base",
         "bech32_hrp": "bc",
         "txfee": 1000,
         "mm2": 1,
@@ -3615,7 +3616,7 @@
         "wiftype": 128,
         "segwit": true,
         "fork_id": "0x00",
-        "signature_version": "witness_v0",
+        "signature_version": "base",
         "bech32_hrp": "bc",
         "address_format": {
             "format": "segwit"
@@ -4023,8 +4024,35 @@
             "github": "https://github.com/BitBlocksProject/BitBlocks",
             "homepage": "https://bitblocksproject.com"
         },
-        "electrum": [],
-        "delisted": true,
+        "electrum": [
+            {
+                "url": "bbk-ex-three.ewmci.online:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "bbk-ex-three.ewmci.online:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            },
+            {
+                "url": "bbk-ex-three.ewmci.online:50003",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "discord": "475820011634819072"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block.dws?"
     },
     "BBK-BEP20": {
@@ -26758,9 +26786,6 @@
         "fallback_swap_contract": "0x6d9ce4BD298DE38bAfEFD15f5C6f5c95313B1d94",
         "nodes": [
             {
-                "url": "https://lb.routeme.sh/rpc/evm/1284"
-            },
-            {
                 "url": "https://moonbeam.api.onfinality.io/public",
                 "ws_url": "wss://moonbeam.api.onfinality.io/public-ws"
             },
@@ -35731,9 +35756,6 @@
         "fallback_swap_contract": "0xDB3d24F21745B9C1953BD643E1a6CA8A34C4F47c",
         "nodes": [
             {
-                "url": "https://lb.routeme.sh/rpc/evm/964"
-            },
-            {
                 "url": "https://lite.chain.opentensor.ai"
             },
             {
@@ -38727,9 +38749,6 @@
         "swap_contract_address": "0xDB3d24F21745B9C1953BD643E1a6CA8A34C4F47c",
         "fallback_swap_contract": "0xDB3d24F21745B9C1953BD643E1a6CA8A34C4F47c",
         "nodes": [
-            {
-                "url": "https://lb.routeme.sh/rpc/evm/964"
-            },
             {
                 "url": "https://lite.chain.opentensor.ai"
             },
