@@ -3,10 +3,10 @@
         "icon_size": 128,
         "grid_cols": 22,
         "grid_rows": 18,
-        "total_icons": 392,
+        "total_icons": 393,
         "spritemap_width": 2816,
         "spritemap_height": 2304,
-        "generated_at": 1793650502
+        "generated_at": 1793745165
     },
     "coordinates": {
         "1inch": {
@@ -2319,44 +2319,50 @@
             "width": 128,
             "height": 128
         },
-        "zama": {
+        "ytn": {
             "x": 1408,
             "y": 2176,
             "width": 128,
             "height": 128
         },
-        "zchf": {
+        "zama": {
             "x": 1536,
             "y": 2176,
             "width": 128,
             "height": 128
         },
-        "zec": {
+        "zchf": {
             "x": 1664,
             "y": 2176,
             "width": 128,
             "height": 128
         },
-        "zer": {
+        "zec": {
             "x": 1792,
             "y": 2176,
             "width": 128,
             "height": 128
         },
-        "zet": {
+        "zer": {
             "x": 1920,
             "y": 2176,
             "width": 128,
             "height": 128
         },
-        "zil": {
+        "zet": {
             "x": 2048,
             "y": 2176,
             "width": 128,
             "height": 128
         },
-        "zrx": {
+        "zil": {
             "x": 2176,
+            "y": 2176,
+            "width": 128,
+            "height": 128
+        },
+        "zrx": {
+            "x": 2304,
             "y": 2176,
             "width": 128,
             "height": 128
