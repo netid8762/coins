@@ -631,7 +631,8 @@
       },
       "bit-e.minethepla.net:50002": {
         "1793027677": "offline",
-        "1793072853": "online"
+        "1793072853": "online",
+        "1793745165": "offline"
       },
       "bit-e.minethepla.net:50004": {
         "1793027677": "offline",
@@ -643,7 +644,8 @@
       },
       "bit-e.outsidethebox.top:50004": {
         "1793027677": "offline",
-        "1793072853": "online"
+        "1793072853": "online",
+        "1793745165": "offline"
       },
       "bitn-electrumx.wattxchange.app:50011": {
         "1793027677": "online"
@@ -2880,7 +2882,8 @@
         "1793027677": "offline"
       },
       "electrumx2.runonflux.io:50001": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1793745165": "offline"
       },
       "electrumx2.runonflux.io:50004": {
         "1793027677": "offline"
@@ -4497,7 +4500,8 @@
     },
     "by_server": {
       "133.167.67.203:50001": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1793745165": "offline"
       },
       "electrumx.tamami-foundation.org:50001": {
         "1793027677": "online"
@@ -4519,7 +4523,8 @@
     },
     "by_server": {
       "133.167.67.203:50001": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1793745165": "offline"
       },
       "electrumx.tamami-foundation.org:50001": {
         "1793027677": "online"
@@ -6964,6 +6969,43 @@
       },
       "https://rpc-mainnet.kcc.network": {
         "1793027677": "online"
+      }
+    }
+  },
+  "YTN": {
+    "all": {
+      "1793745165": "online"
+    },
+    "by_server": {
+      "peer1.rincoin.online:51002": {
+        "1793745165": "online"
+      },
+      "peer1.rincoin.online:51004": {
+        "1793745165": "online"
+      },
+      "peer2.rincoin.online:51002": {
+        "1793745165": "online"
+      },
+      "peer2.rincoin.online:51004": {
+        "1793745165": "online"
+      },
+      "peer4.rincoin.online:51002": {
+        "1793745165": "online"
+      },
+      "peer4.rincoin.online:51004": {
+        "1793745165": "online"
+      },
+      "peer5.rincoin.online:51002": {
+        "1793745165": "online"
+      },
+      "peer5.rincoin.online:51004": {
+        "1793745165": "online"
+      },
+      "peer6.rincoin.online:51002": {
+        "1793745165": "online"
+      },
+      "peer6.rincoin.online:51004": {
+        "1793745165": "online"
       }
     }
   },
