@@ -12,8 +12,8 @@
         ]
     },
     {
-        "name": "seed-kmdefi-2",
-        "host": "seed02.kmdefi.net",
+        "name": "seed-netid-2",
+        "host": "seed02.netid8762.fans",
         "type": "domain",
         "wss": true,
         "netid": 8762,

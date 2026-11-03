@@ -7,3 +7,4 @@ utils/uptime_history.json merge=ours
 utils/icon_checksums.json merge=ours
 api_ids/binance_ids.json merge=ours
 icons/*.png merge=ours
+seed-nodes.json merge=ours
