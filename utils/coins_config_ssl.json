@@ -2024,6 +2024,7 @@
         "derivation_path": "m/44'/60'",
         "max_eth_tx_type": 2,
         "swap_gas_fee_policy": "Medium",
+        "fee_model": "avalanche",
         "swap_contract_address": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "fallback_swap_contract": "0x9130b257D37A52E52F21054c4DA3450c72f595CE",
         "nodes": [
@@ -4183,6 +4184,16 @@
                 "contact": [
                     {
                         "discord": "nucash"
+                    }
+                ]
+            },
+            {
+                "url": "bitnet.outsidethebox.top:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "def#4726"
                     }
                 ]
             }
@@ -9074,7 +9085,8 @@
         "txfee": 10000,
         "mm2": 1,
         "required_confirmations": 3,
-        "avg_blocktime": 36,
+        "mature_confirmations": 30,
+        "avg_blocktime": 300,
         "protocol": {
             "type": "UTXO"
         },
@@ -9097,16 +9109,6 @@
                         "discord": "668310974083629056"
                     }
                 ]
-            },
-            {
-                "url": "electrumx.dgc.ewmcx.org:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true
-            },
-            {
-                "url": "failover.dgc.ewmcx.biz:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -11533,6 +11535,7 @@
         "derivation_path": "m/44'/60'",
         "max_eth_tx_type": 2,
         "swap_gas_fee_policy": "Medium",
+        "fee_model": "op_stack",
         "estimate_gas_mult": 1.3,
         "swap_contract_address": "0x4C54808911817402a0871c3C93D8790c19CAe75b",
         "fallback_swap_contract": "0x4C54808911817402a0871c3C93D8790c19CAe75b",
@@ -17897,7 +17900,7 @@
         },
         "electrum": [
             {
-                "url": "electrum1.kcnxp.com:51002",
+                "url": "electrum1.kcnxp.com:5102",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -17909,7 +17912,7 @@
                 ]
             },
             {
-                "url": "electrum2.kcnxp.com:51002",
+                "url": "electrum2.kcnxp.com:5102",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -17921,7 +17924,7 @@
                 ]
             },
             {
-                "url": "electrum3.kcnxp.com:51002",
+                "url": "electrum3.kcnxp.com:5102",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -17933,7 +17936,7 @@
                 ]
             },
             {
-                "url": "electrum4.kcnxp.com:51002",
+                "url": "electrum4.kcnxp.com:5102",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -17945,7 +17948,7 @@
                 ]
             },
             {
-                "url": "electrum5.kcnxp.com:51002",
+                "url": "electrum5.kcnxp.com:5102",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -18002,7 +18005,7 @@
         },
         "electrum": [
             {
-                "url": "electrum1.kcnxp.com:51002",
+                "url": "electrum1.kcnxp.com:5102",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -18014,7 +18017,7 @@
                 ]
             },
             {
-                "url": "electrum2.kcnxp.com:51002",
+                "url": "electrum2.kcnxp.com:5102",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -18026,7 +18029,7 @@
                 ]
             },
             {
-                "url": "electrum3.kcnxp.com:51002",
+                "url": "electrum3.kcnxp.com:5102",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -18038,7 +18041,7 @@
                 ]
             },
             {
-                "url": "electrum4.kcnxp.com:51002",
+                "url": "electrum4.kcnxp.com:5102",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -18050,7 +18053,7 @@
                 ]
             },
             {
-                "url": "electrum5.kcnxp.com:51002",
+                "url": "electrum5.kcnxp.com:5102",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -19105,7 +19108,7 @@
         },
         "electrum": [
             {
-                "url": "electrum1.lcnxp.com:52002",
+                "url": "electrum1.lcnxp.com:5202",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -19117,7 +19120,7 @@
                 ]
             },
             {
-                "url": "electrum2.lcnxp.com:52002",
+                "url": "electrum2.lcnxp.com:5202",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -19129,7 +19132,7 @@
                 ]
             },
             {
-                "url": "electrum3.lcnxp.com:52002",
+                "url": "electrum3.lcnxp.com:5202",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -19141,7 +19144,7 @@
                 ]
             },
             {
-                "url": "electrum4.lcnxp.com:52002",
+                "url": "electrum4.lcnxp.com:5202",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -19153,7 +19156,7 @@
                 ]
             },
             {
-                "url": "electrum5.lcnxp.com:52002",
+                "url": "electrum5.lcnxp.com:5202",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -19210,7 +19213,7 @@
         },
         "electrum": [
             {
-                "url": "electrum1.lcnxp.com:52002",
+                "url": "electrum1.lcnxp.com:5202",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -19222,7 +19225,7 @@
                 ]
             },
             {
-                "url": "electrum2.lcnxp.com:52002",
+                "url": "electrum2.lcnxp.com:5202",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -19234,7 +19237,7 @@
                 ]
             },
             {
-                "url": "electrum3.lcnxp.com:52002",
+                "url": "electrum3.lcnxp.com:5202",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -19246,7 +19249,7 @@
                 ]
             },
             {
-                "url": "electrum4.lcnxp.com:52002",
+                "url": "electrum4.lcnxp.com:5202",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -19258,7 +19261,7 @@
                 ]
             },
             {
-                "url": "electrum5.lcnxp.com:52002",
+                "url": "electrum5.lcnxp.com:5202",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -22263,6 +22266,7 @@
         "derivation_path": "m/44'/60'",
         "max_eth_tx_type": 2,
         "swap_gas_fee_policy": "Medium",
+        "fee_model": "mantle",
         "links": {
             "homepage": "https://group.mantle.xyz"
         },
@@ -22316,6 +22320,7 @@
         "derivation_path": "m/44'/60'",
         "max_eth_tx_type": 2,
         "swap_gas_fee_policy": "Medium",
+        "fee_model": "monad",
         "estimate_gas_mult": 1.3,
         "links": {
             "homepage": "https://monad.xyz"
@@ -31247,10 +31252,6 @@
             },
             {
                 "url": "https://tron.api.pocket.network"
-            },
-            {
-                "url": "https://tron.drpc.org",
-                "ws_url": "wss://tron.drpc.org"
             }
         ],
         "explorer_block_url": "#/block/",
