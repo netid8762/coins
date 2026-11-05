@@ -808,7 +808,8 @@
     },
     "derivation_path": "m/44'/60'",
     "max_eth_tx_type": 2,
-    "swap_gas_fee_policy": "Medium"
+    "swap_gas_fee_policy": "Medium",
+    "fee_model": "avalanche"
   },
   {
     "coin": "AVAX-BEP20",
@@ -3650,7 +3651,8 @@
     "txfee": 10000,
     "mm2": 1,
     "required_confirmations": 3,
-    "avg_blocktime": 36,
+    "mature_confirmations": 30,
+    "avg_blocktime": 300,
     "protocol": {
       "type": "UTXO"
     },
@@ -4646,6 +4648,7 @@
     "derivation_path": "m/44'/60'",
     "max_eth_tx_type": 2,
     "swap_gas_fee_policy": "Medium",
+    "fee_model": "op_stack",
     "estimate_gas_mult": 1.3
   },
   {
@@ -8894,6 +8897,7 @@
     "derivation_path": "m/44'/60'",
     "max_eth_tx_type": 2,
     "swap_gas_fee_policy": "Medium",
+    "fee_model": "mantle",
     "links": {
       "homepage": "https://group.mantle.xyz"
     }
@@ -8916,6 +8920,7 @@
     "derivation_path": "m/44'/60'",
     "max_eth_tx_type": 2,
     "swap_gas_fee_policy": "Medium",
+    "fee_model": "monad",
     "estimate_gas_mult": 1.3,
     "links": {
       "homepage": "https://monad.xyz"
