@@ -24,7 +24,8 @@
         "VIA",
         "VIA-segwit",
         "VRM",
-        "UFO"
+        "UFO",
+        "SHC"
     ],
     "days_since_connection": {}
 }
