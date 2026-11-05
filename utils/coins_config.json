@@ -4570,16 +4570,6 @@
         },
         "electrum": [
             {
-                "url": "bit-e.minethepla.net:50004",
-                "protocol": "WSS",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "def#4726"
-                    }
-                ]
-            },
-            {
                 "url": "bit-e.outsidethebox.top:50002",
                 "protocol": "SSL",
                 "contact": [
@@ -4612,26 +4602,6 @@
                 "contact": [
                     {
                         "discord": "nucash"
-                    }
-                ]
-            },
-            {
-                "url": "bitnet.outsidethebox.top:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "def#4726"
-                    }
-                ]
-            },
-            {
-                "url": "bitnet.outsidethebox.top:50004",
-                "protocol": "WSS",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "def#4726"
                     }
                 ]
             }
@@ -31631,35 +31601,6 @@
         "derivation_path": "m/44'/143'",
         "electrum": [
             {
-                "url": "ric-ex-two.ewmci.online:50001",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
-                "url": "ric-ex-two.ewmci.online:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
-                "url": "ric-ex-two.ewmci.online:50003",
-                "protocol": "WSS",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
                 "url": "ric.electrum1.cipig.net:20074",
                 "protocol": "SSL",
                 "contact": [
@@ -31747,35 +31688,6 @@
         },
         "derivation_path": "m/84'/143'",
         "electrum": [
-            {
-                "url": "ric-ex-two.ewmci.online:50001",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
-                "url": "ric-ex-two.ewmci.online:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
-                "url": "ric-ex-two.ewmci.online:50003",
-                "protocol": "WSS",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
             {
                 "url": "ric.electrum1.cipig.net:20074",
                 "protocol": "SSL",
@@ -35741,6 +35653,9 @@
         "fallback_swap_contract": "0xDB3d24F21745B9C1953BD643E1a6CA8A34C4F47c",
         "nodes": [
             {
+                "url": "https://lb.routeme.sh/rpc/evm/964"
+            },
+            {
                 "url": "https://lite.chain.opentensor.ai"
             },
             {
@@ -38730,6 +38645,9 @@
         "swap_contract_address": "0xDB3d24F21745B9C1953BD643E1a6CA8A34C4F47c",
         "fallback_swap_contract": "0xDB3d24F21745B9C1953BD643E1a6CA8A34C4F47c",
         "nodes": [
+            {
+                "url": "https://lb.routeme.sh/rpc/evm/964"
+            },
             {
                 "url": "https://lite.chain.opentensor.ai"
             },
@@ -47563,35 +47481,8 @@
             "github": "https://github.com/TVHeroes/Sharecoin",
             "homepage": "https://github.com/TVHeroes/Sharecoin"
         },
-        "electrum": [
-            {
-                "url": "79.72.76.95:60401",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "email": "tvheroes@protonmail.com"
-                    }
-                ]
-            },
-            {
-                "url": "sharecoin.cc:443",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "tvheroes@protonmail.com"
-                    }
-                ]
-            },
-            {
-                "url": "sharecoin.cc:60402",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "tvheroes@protonmail.com"
-                    }
-                ]
-            }
-        ],
+        "electrum": [],
+        "delisted": true,
         "explorer_block_url": "block/"
     },
     "KRGN": {

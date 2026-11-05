@@ -4185,16 +4185,6 @@
                         "discord": "nucash"
                     }
                 ]
-            },
-            {
-                "url": "bitnet.outsidethebox.top:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "def#4726"
-                    }
-                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -26975,16 +26965,6 @@
         "derivation_path": "m/44'/143'",
         "electrum": [
             {
-                "url": "ric-ex-two.ewmci.online:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
-            {
                 "url": "ric.electrum1.cipig.net:20074",
                 "protocol": "SSL",
                 "contact": [
@@ -27048,16 +27028,6 @@
         },
         "derivation_path": "m/84'/143'",
         "electrum": [
-            {
-                "url": "ric-ex-two.ewmci.online:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "475820011634819072"
-                    }
-                ]
-            },
             {
                 "url": "ric.electrum1.cipig.net:20074",
                 "protocol": "SSL",
@@ -30534,6 +30504,9 @@
         "fallback_swap_contract": "0xDB3d24F21745B9C1953BD643E1a6CA8A34C4F47c",
         "nodes": [
             {
+                "url": "https://lb.routeme.sh/rpc/evm/964"
+            },
+            {
                 "url": "https://lite.chain.opentensor.ai"
             },
             {
@@ -33435,6 +33408,9 @@
         "swap_contract_address": "0xDB3d24F21745B9C1953BD643E1a6CA8A34C4F47c",
         "fallback_swap_contract": "0xDB3d24F21745B9C1953BD643E1a6CA8A34C4F47c",
         "nodes": [
+            {
+                "url": "https://lb.routeme.sh/rpc/evm/964"
+            },
             {
                 "url": "https://lite.chain.opentensor.ai"
             },
@@ -41275,68 +41251,6 @@
         ],
         "explorer_block_url": "block/",
         "binance_id": "OSMO"
-    },
-    "SHC": {
-        "coin": "SHC",
-        "type": "UTXO",
-        "name": "Sharecoin",
-        "coinpaprika_id": "",
-        "coingecko_id": "",
-        "livecoinwatch_id": "",
-        "explorer_url": "https://sharecoin.cc/explorer/",
-        "explorer_tx_url": "tx/",
-        "explorer_address_url": "address/",
-        "supported": [],
-        "active": false,
-        "is_testnet": false,
-        "currently_enabled": false,
-        "wallet_only": false,
-        "sign_message_prefix": "Sharecoin Signed Message:\n",
-        "fname": "Sharecoin",
-        "rpcport": 8332,
-        "pubtype": 63,
-        "p2shtype": 18,
-        "wiftype": 214,
-        "txfee": 1000,
-        "dust": 1000,
-        "segwit": true,
-        "bech32_hrp": "shc",
-        "address_format": {
-            "format": "segwit"
-        },
-        "mm2": 1,
-        "required_confirmations": 3,
-        "avg_blocktime": 120,
-        "protocol": {
-            "type": "UTXO",
-            "chain_variant": "RVN"
-        },
-        "derivation_path": "m/84'/0'",
-        "links": {
-            "github": "https://github.com/TVHeroes/Sharecoin",
-            "homepage": "https://github.com/TVHeroes/Sharecoin"
-        },
-        "electrum": [
-            {
-                "url": "sharecoin.cc:60402",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "tvheroes@protonmail.com"
-                    }
-                ]
-            },
-            {
-                "url": "79.72.76.95:60401",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "email": "tvheroes@protonmail.com"
-                    }
-                ]
-            }
-        ],
-        "explorer_block_url": "block/"
     },
     "KRGN": {
         "coin": "KRGN",

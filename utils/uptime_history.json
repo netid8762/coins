@@ -636,7 +636,8 @@
       },
       "bit-e.minethepla.net:50004": {
         "1793027677": "offline",
-        "1793150299": "online"
+        "1793150299": "online",
+        "1793907770": "offline"
       },
       "bit-e.outsidethebox.top:50002": {
         "1793027677": "offline",
@@ -658,11 +659,13 @@
       },
       "bitnet.outsidethebox.top:50002": {
         "1793027677": "offline",
-        "1793615609": "online"
+        "1793615609": "online",
+        "1793907770": "offline"
       },
       "bitnet.outsidethebox.top:50004": {
         "1793027677": "offline",
-        "1793615609": "online"
+        "1793615609": "online",
+        "1793907770": "offline"
       }
     }
   },
@@ -5245,14 +5248,40 @@
       "1793027677": "online"
     },
     "by_server": {
+      "_metadata": {
+        "ric-ex-two.ewmci.online:50001": {
+          "contact": [
+            {
+              "discord": "475820011634819072"
+            }
+          ]
+        },
+        "ric-ex-two.ewmci.online:50002": {
+          "contact": [
+            {
+              "discord": "475820011634819072"
+            }
+          ]
+        },
+        "ric-ex-two.ewmci.online:50003": {
+          "contact": [
+            {
+              "discord": "475820011634819072"
+            }
+          ]
+        }
+      },
       "ric-ex-two.ewmci.online:50001": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1793907770": "offline"
       },
       "ric-ex-two.ewmci.online:50002": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1793907770": "offline"
       },
       "ric-ex-two.ewmci.online:50003": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1793907770": "offline"
       },
       "ric.electrum1.cipig.net:20074": {
         "1793027677": "online"
@@ -5273,14 +5302,40 @@
       "1793027677": "online"
     },
     "by_server": {
+      "_metadata": {
+        "ric-ex-two.ewmci.online:50001": {
+          "contact": [
+            {
+              "discord": "475820011634819072"
+            }
+          ]
+        },
+        "ric-ex-two.ewmci.online:50002": {
+          "contact": [
+            {
+              "discord": "475820011634819072"
+            }
+          ]
+        },
+        "ric-ex-two.ewmci.online:50003": {
+          "contact": [
+            {
+              "discord": "475820011634819072"
+            }
+          ]
+        }
+      },
       "ric-ex-two.ewmci.online:50001": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1793907770": "offline"
       },
       "ric-ex-two.ewmci.online:50002": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1793907770": "offline"
       },
       "ric-ex-two.ewmci.online:50003": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1793907770": "offline"
       },
       "ric.electrum1.cipig.net:20074": {
         "1793027677": "online"
@@ -5581,17 +5636,44 @@
   },
   "SHC": {
     "all": {
-      "1793027677": "online"
+      "1793027677": "online",
+      "1793907770": "offline"
     },
     "by_server": {
       "79.72.76.95:60401": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1793907770": "offline"
+      },
+      "_metadata": {
+        "79.72.76.95:60401": {
+          "contact": [
+            {
+              "email": "tvheroes@protonmail.com"
+            }
+          ]
+        },
+        "sharecoin.cc:443": {
+          "contact": [
+            {
+              "email": "tvheroes@protonmail.com"
+            }
+          ]
+        },
+        "sharecoin.cc:60402": {
+          "contact": [
+            {
+              "email": "tvheroes@protonmail.com"
+            }
+          ]
+        }
       },
       "sharecoin.cc:443": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1793907770": "offline"
       },
       "sharecoin.cc:60402": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1793907770": "offline"
       }
     }
   },
@@ -5704,7 +5786,8 @@
         "1793334836": "online",
         "1793409703": "offline",
         "1793517877": "online",
-        "1793570826": "offline"
+        "1793570826": "offline",
+        "1793907770": "online"
       },
       "https://lite.chain.opentensor.ai": {
         "1793027677": "online"
@@ -6145,7 +6228,8 @@
         "1793334836": "online",
         "1793409703": "offline",
         "1793517877": "online",
-        "1793570826": "offline"
+        "1793570826": "offline",
+        "1793907770": "online"
       },
       "https://lite.chain.opentensor.ai": {
         "1793027677": "online"
