@@ -4571,8 +4571,9 @@
         },
         "electrum": [
             {
-                "url": "bit-e.outsidethebox.top:50002",
+                "url": "bit-e.minethepla.net:50002",
                 "protocol": "SSL",
+                "disable_cert_verification": true,
                 "contact": [
                     {
                         "discord": "def#4726"
@@ -5935,18 +5936,6 @@
             "homepage": "https://globalboo.st"
         },
         "electrum": [
-            {
-                "url": "electrumserver01.globalboost.info:50011",
-                "protocol": "TCP"
-            },
-            {
-                "url": "electrumserver01.globalboost.info:50013",
-                "protocol": "WSS"
-            },
-            {
-                "url": "electrumserver01.globalboost.info:50014",
-                "protocol": "SSL"
-            },
             {
                 "url": "electrumserver02.globalboost.info:50011",
                 "protocol": "TCP"
@@ -16068,33 +16057,6 @@
         },
         "electrum": [
             {
-                "url": "electrum-flc.hashboard.space:50001",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "email": "listing@hashboard.space"
-                    }
-                ]
-            },
-            {
-                "url": "electrum-flc.hashboard.space:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "listing@hashboard.space"
-                    }
-                ]
-            },
-            {
-                "url": "electrum-flc.hashboard.space:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "listing@hashboard.space"
-                    }
-                ]
-            },
-            {
                 "url": "electrum.myfloki.com:50001",
                 "protocol": "TCP",
                 "contact": [
@@ -16167,33 +16129,6 @@
             "homepage": "https://flokicoin.org"
         },
         "electrum": [
-            {
-                "url": "electrum-flc.hashboard.space:50001",
-                "protocol": "TCP",
-                "contact": [
-                    {
-                        "email": "listing@hashboard.space"
-                    }
-                ]
-            },
-            {
-                "url": "electrum-flc.hashboard.space:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "email": "listing@hashboard.space"
-                    }
-                ]
-            },
-            {
-                "url": "electrum-flc.hashboard.space:50004",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "listing@hashboard.space"
-                    }
-                ]
-            },
             {
                 "url": "electrum.myfloki.com:50001",
                 "protocol": "TCP",
@@ -35654,9 +35589,6 @@
         "fallback_swap_contract": "0xDB3d24F21745B9C1953BD643E1a6CA8A34C4F47c",
         "nodes": [
             {
-                "url": "https://lb.routeme.sh/rpc/evm/964"
-            },
-            {
                 "url": "https://lite.chain.opentensor.ai"
             },
             {
@@ -36528,6 +36460,10 @@
             },
             {
                 "url": "https://tron.api.pocket.network"
+            },
+            {
+                "url": "https://tron.drpc.org",
+                "ws_url": "wss://tron.drpc.org"
             }
         ],
         "explorer_block_url": "#/block/",
@@ -38642,9 +38578,6 @@
         "swap_contract_address": "0xDB3d24F21745B9C1953BD643E1a6CA8A34C4F47c",
         "fallback_swap_contract": "0xDB3d24F21745B9C1953BD643E1a6CA8A34C4F47c",
         "nodes": [
-            {
-                "url": "https://lb.routeme.sh/rpc/evm/964"
-            },
             {
                 "url": "https://lite.chain.opentensor.ai"
             },
