@@ -632,7 +632,8 @@
       "bit-e.minethepla.net:50002": {
         "1793027677": "offline",
         "1793072853": "online",
-        "1793745165": "offline"
+        "1793745165": "offline",
+        "1793995765": "online"
       },
       "bit-e.minethepla.net:50004": {
         "1793027677": "offline",
@@ -641,7 +642,8 @@
       },
       "bit-e.outsidethebox.top:50002": {
         "1793027677": "offline",
-        "1793150299": "online"
+        "1793150299": "online",
+        "1793995765": "offline"
       },
       "bit-e.outsidethebox.top:50004": {
         "1793027677": "offline",
@@ -794,13 +796,16 @@
         "1793027677": "offline"
       },
       "electrumserver01.globalboost.info:50011": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1793995765": "offline"
       },
       "electrumserver01.globalboost.info:50013": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1793995765": "offline"
       },
       "electrumserver01.globalboost.info:50014": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1793995765": "offline"
       },
       "electrumserver02.globalboost.info:50011": {
         "1793027677": "online"
@@ -2775,14 +2780,40 @@
       "1793027677": "online"
     },
     "by_server": {
+      "_metadata": {
+        "electrum-flc.hashboard.space:50001": {
+          "contact": [
+            {
+              "email": "listing@hashboard.space"
+            }
+          ]
+        },
+        "electrum-flc.hashboard.space:50002": {
+          "contact": [
+            {
+              "email": "listing@hashboard.space"
+            }
+          ]
+        },
+        "electrum-flc.hashboard.space:50004": {
+          "contact": [
+            {
+              "email": "listing@hashboard.space"
+            }
+          ]
+        }
+      },
       "electrum-flc.hashboard.space:50001": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1793995765": "offline"
       },
       "electrum-flc.hashboard.space:50002": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1793995765": "offline"
       },
       "electrum-flc.hashboard.space:50004": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1793995765": "offline"
       },
       "electrum.myfloki.com:50001": {
         "1793027677": "online"
@@ -2800,14 +2831,40 @@
       "1793027677": "online"
     },
     "by_server": {
+      "_metadata": {
+        "electrum-flc.hashboard.space:50001": {
+          "contact": [
+            {
+              "email": "listing@hashboard.space"
+            }
+          ]
+        },
+        "electrum-flc.hashboard.space:50002": {
+          "contact": [
+            {
+              "email": "listing@hashboard.space"
+            }
+          ]
+        },
+        "electrum-flc.hashboard.space:50004": {
+          "contact": [
+            {
+              "email": "listing@hashboard.space"
+            }
+          ]
+        }
+      },
       "electrum-flc.hashboard.space:50001": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1793995765": "offline"
       },
       "electrum-flc.hashboard.space:50002": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1793995765": "offline"
       },
       "electrum-flc.hashboard.space:50004": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1793995765": "offline"
       },
       "electrum.myfloki.com:50001": {
         "1793027677": "online"
@@ -5909,7 +5966,8 @@
         "1793409703": "offline",
         "1793517877": "online",
         "1793570826": "offline",
-        "1793907770": "online"
+        "1793907770": "online",
+        "1793995765": "offline"
       },
       "https://lite.chain.opentensor.ai": {
         "1793027677": "online"
@@ -6142,7 +6200,8 @@
         "1793334836": "online",
         "1793409703": "offline",
         "1793497849": "online",
-        "1793914125": "offline"
+        "1793914125": "offline",
+        "1793995765": "online"
       },
       "https://tron.rpc.sentio.xyz": {
         "1793027677": "offline",
@@ -6157,7 +6216,8 @@
         "1793334836": "online",
         "1793409703": "offline",
         "1793497849": "online",
-        "1793914125": "offline"
+        "1793914125": "offline",
+        "1793995765": "online"
       },
       "wss://tron.rpc.sentio.xyz": {
         "1793027677": "offline",
@@ -6353,7 +6413,8 @@
         "1793409703": "offline",
         "1793517877": "online",
         "1793570826": "offline",
-        "1793907770": "online"
+        "1793907770": "online",
+        "1793995765": "offline"
       },
       "https://lite.chain.opentensor.ai": {
         "1793027677": "online"
