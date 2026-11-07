@@ -797,15 +797,18 @@
       },
       "electrumserver01.globalboost.info:50011": {
         "1793027677": "online",
-        "1793995765": "offline"
+        "1793995765": "offline",
+        "1794079597": "online"
       },
       "electrumserver01.globalboost.info:50013": {
         "1793027677": "online",
-        "1793995765": "offline"
+        "1793995765": "offline",
+        "1794079597": "online"
       },
       "electrumserver01.globalboost.info:50014": {
         "1793027677": "online",
-        "1793995765": "offline"
+        "1793995765": "offline",
+        "1794079597": "online"
       },
       "electrumserver02.globalboost.info:50011": {
         "1793027677": "online"
@@ -3156,6 +3159,22 @@
       },
       "https://rpc-mainnet.kcc.network": {
         "1793027677": "online"
+      }
+    }
+  },
+  "GSPC": {
+    "all": {
+      "1794079597": "online"
+    },
+    "by_server": {
+      "electrum.gspcoin.us:50001": {
+        "1794079597": "online"
+      },
+      "electrum.gspcoin.us:50002": {
+        "1794079597": "online"
+      },
+      "electrum.gspcoin.us:50003": {
+        "1794079597": "online"
       }
     }
   },
@@ -5968,7 +5987,8 @@
         "1793570826": "offline",
         "1793907770": "online",
         "1793995765": "offline",
-        "1794050514": "online"
+        "1794050514": "online",
+        "1794079597": "offline"
       },
       "https://lite.chain.opentensor.ai": {
         "1793027677": "online"
@@ -6202,7 +6222,8 @@
         "1793409703": "offline",
         "1793497849": "online",
         "1793914125": "offline",
-        "1793995765": "online"
+        "1793995765": "online",
+        "1794079597": "offline"
       },
       "https://tron.rpc.sentio.xyz": {
         "1793027677": "offline",
@@ -6218,7 +6239,8 @@
         "1793409703": "offline",
         "1793497849": "online",
         "1793914125": "offline",
-        "1793995765": "online"
+        "1793995765": "online",
+        "1794079597": "offline"
       },
       "wss://tron.rpc.sentio.xyz": {
         "1793027677": "offline",
@@ -6416,7 +6438,8 @@
         "1793570826": "offline",
         "1793907770": "online",
         "1793995765": "offline",
-        "1794050514": "online"
+        "1794050514": "online",
+        "1794079597": "offline"
       },
       "https://lite.chain.opentensor.ai": {
         "1793027677": "online"
