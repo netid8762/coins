@@ -638,17 +638,20 @@
       "bit-e.minethepla.net:50004": {
         "1793027677": "offline",
         "1793150299": "online",
-        "1793907770": "offline"
+        "1793907770": "offline",
+        "1794108604": "online"
       },
       "bit-e.outsidethebox.top:50002": {
         "1793027677": "offline",
         "1793150299": "online",
-        "1793995765": "offline"
+        "1793995765": "offline",
+        "1794108604": "online"
       },
       "bit-e.outsidethebox.top:50004": {
         "1793027677": "offline",
         "1793072853": "online",
-        "1793745165": "offline"
+        "1793745165": "offline",
+        "1794108604": "online"
       },
       "bitn-electrumx.wattxchange.app:50011": {
         "1793027677": "online"
@@ -5222,15 +5225,18 @@
       },
       "electrum.pepeblocks.com:50001": {
         "1793027677": "offline",
-        "1793243133": "online"
+        "1793243133": "online",
+        "1794108604": "offline"
       },
       "electrum.pepeblocks.com:50002": {
         "1793027677": "offline",
-        "1793243133": "online"
+        "1793243133": "online",
+        "1794108604": "offline"
       },
       "electrum.pepeblocks.com:50004": {
         "1793027677": "offline",
-        "1793243133": "online"
+        "1793243133": "online",
+        "1794108604": "offline"
       }
     }
   },
@@ -6223,7 +6229,8 @@
         "1793497849": "online",
         "1793914125": "offline",
         "1793995765": "online",
-        "1794079597": "offline"
+        "1794079597": "offline",
+        "1794108604": "online"
       },
       "https://tron.rpc.sentio.xyz": {
         "1793027677": "offline",
@@ -6240,7 +6247,8 @@
         "1793497849": "online",
         "1793914125": "offline",
         "1793995765": "online",
-        "1794079597": "offline"
+        "1794079597": "offline",
+        "1794108604": "online"
       },
       "wss://tron.rpc.sentio.xyz": {
         "1793027677": "offline",
