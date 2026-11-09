@@ -3371,6 +3371,9 @@
       },
       "https://rpc.irishub-1.irisnet.org": {
         "1793027677": "offline"
+      },
+      "https://rpc.irishub-2.irisnet.org": {
+        "1794203594": "online"
       }
     }
   },
@@ -6637,6 +6640,12 @@
       },
       "el2.verus.io:17488": {
         "1793027677": "online"
+      },
+      "el3.verus.io:17486": {
+        "1794203594": "online"
+      },
+      "el3.verus.io:17488": {
+        "1794203594": "online"
       }
     }
   },
@@ -6914,6 +6923,13 @@
             }
           ]
         },
+        "electrumx1.electraprotocol.eu:50004": {
+          "contact": [
+            {
+              "discord": "287952234317348865"
+            }
+          ]
+        },
         "electrumx2.electraprotocol.eu:50003": {
           "contact": [
             {
@@ -6921,7 +6937,21 @@
             }
           ]
         },
+        "electrumx2.electraprotocol.eu:50004": {
+          "contact": [
+            {
+              "discord": "287952234317348865"
+            }
+          ]
+        },
         "electrumx3.electraprotocol.eu:50003": {
+          "contact": [
+            {
+              "discord": "287952234317348865"
+            }
+          ]
+        },
+        "electrumx3.electraprotocol.eu:50004": {
           "contact": [
             {
               "discord": "287952234317348865"
@@ -6938,6 +6968,9 @@
       "electrumx1.electraprotocol.eu:50003": {
         "1793027677": "offline"
       },
+      "electrumx1.electraprotocol.eu:50004": {
+        "1794203594": "offline"
+      },
       "electrumx2.electraprotocol.eu:50001": {
         "1793027677": "online"
       },
@@ -6947,6 +6980,9 @@
       "electrumx2.electraprotocol.eu:50003": {
         "1793027677": "offline"
       },
+      "electrumx2.electraprotocol.eu:50004": {
+        "1794203594": "offline"
+      },
       "electrumx3.electraprotocol.eu:50001": {
         "1793027677": "online"
       },
@@ -6955,6 +6991,9 @@
       },
       "electrumx3.electraprotocol.eu:50003": {
         "1793027677": "offline"
+      },
+      "electrumx3.electraprotocol.eu:50004": {
+        "1794203594": "offline"
       }
     }
   },
