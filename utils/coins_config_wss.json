@@ -1558,6 +1558,9 @@
             },
             {
                 "url": "https://rpc-iris.keplr.app"
+            },
+            {
+                "url": "https://rpc.irishub-2.irisnet.org"
             }
         ],
         "explorer_block_url": "block/",
@@ -15776,7 +15779,7 @@
                 "decimals": 6,
                 "denom": "uiris",
                 "account_prefix": "iaa",
-                "chain_id": "irishub-1",
+                "chain_id": "irishub-2",
                 "chain_registry_name": "irishub",
                 "gas_price": 0.5,
                 "ibc_channels": {
@@ -15792,6 +15795,9 @@
             },
             {
                 "url": "https://rpc-iris.keplr.app"
+            },
+            {
+                "url": "https://rpc.irishub-2.irisnet.org"
             }
         ],
         "explorer_block_url": "block/"
@@ -22755,13 +22761,11 @@
         "electrum": [
             {
                 "url": "allingas.peercoinexplorer.net:50004",
-                "protocol": "WSS",
-                "disable_cert_verification": false
+                "protocol": "WSS"
             },
             {
                 "url": "electrum.peercoinexplorer.net:50004",
-                "protocol": "WSS",
-                "disable_cert_verification": false
+                "protocol": "WSS"
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -31710,51 +31714,19 @@
         "electrum": [
             {
                 "url": "el0.verus.io:17488",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "0x03-ctrlc@protonmail.com"
-                    },
-                    {
-                        "discord": "0x03#8822"
-                    },
-                    {
-                        "keybase": "bloodynora"
-                    }
-                ],
-                "disable_cert_verification": false
+                "protocol": "WSS"
             },
             {
                 "url": "el1.verus.io:17488",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "0x03-ctrlc@protonmail.com"
-                    },
-                    {
-                        "discord": "0x03#8822"
-                    },
-                    {
-                        "keybase": "bloodynora"
-                    }
-                ],
-                "disable_cert_verification": false
+                "protocol": "WSS"
             },
             {
                 "url": "el2.verus.io:17488",
-                "protocol": "WSS",
-                "contact": [
-                    {
-                        "email": "0x03-ctrlc@protonmail.com"
-                    },
-                    {
-                        "discord": "0x03#8822"
-                    },
-                    {
-                        "keybase": "bloodynora"
-                    }
-                ],
-                "disable_cert_verification": false
+                "protocol": "WSS"
+            },
+            {
+                "url": "el3.verus.io:17488",
+                "protocol": "WSS"
             }
         ],
         "explorer_block_url": "block/"
