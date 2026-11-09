@@ -5346,7 +5346,8 @@
         "1793027677": "online"
       },
       "wss://poly.api.pocket.network": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1794247792": "offline"
       },
       "wss://polygon-bor-rpc.publicnode.com": {
         "1793027677": "online"
@@ -6031,7 +6032,8 @@
         "1793995765": "offline",
         "1794050514": "online",
         "1794079597": "offline",
-        "1794236917": "online"
+        "1794236917": "online",
+        "1794247792": "offline"
       },
       "https://lite.chain.opentensor.ai": {
         "1793027677": "online"
@@ -6267,7 +6269,8 @@
         "1793914125": "offline",
         "1793995765": "online",
         "1794079597": "offline",
-        "1794108604": "online"
+        "1794108604": "online",
+        "1794247792": "offline"
       },
       "https://tron.rpc.sentio.xyz": {
         "1793027677": "offline",
@@ -6285,7 +6288,8 @@
         "1793914125": "offline",
         "1793995765": "online",
         "1794079597": "offline",
-        "1794108604": "online"
+        "1794108604": "online",
+        "1794247792": "offline"
       },
       "wss://tron.rpc.sentio.xyz": {
         "1793027677": "offline",
@@ -6485,7 +6489,8 @@
         "1793995765": "offline",
         "1794050514": "online",
         "1794079597": "offline",
-        "1794236917": "online"
+        "1794236917": "online",
+        "1794247792": "offline"
       },
       "https://lite.chain.opentensor.ai": {
         "1793027677": "online"
