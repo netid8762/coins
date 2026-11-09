@@ -1197,6 +1197,9 @@
       "chicago.ecoincore.com:34333": {
         "1793027677": "online"
       },
+      "chicago.ecoincore.com:34335": {
+        "1794236917": "online"
+      },
       "holland.ecoincore.com:34333": {
         "1793027677": "online"
       },
@@ -1224,8 +1227,20 @@
       "oakland.ecoincore.com:34333": {
         "1793027677": "online"
       },
+      "oakland.ecoincore.com:34335": {
+        "1794236917": "online"
+      },
       "seattle.ecoincore.com:34333": {
         "1793027677": "online"
+      },
+      "seattle.ecoincore.com:34335": {
+        "1794236917": "online"
+      },
+      "toronto.ecoincore.com:34333": {
+        "1794236917": "online"
+      },
+      "toronto.ecoincore.com:34335": {
+        "1794236917": "online"
       },
       "woolloomooloo.ecoincore.com:34333": {
         "1793027677": "online"
@@ -1243,6 +1258,9 @@
       "chicago.ecoincore.com:34333": {
         "1793027677": "online"
       },
+      "chicago.ecoincore.com:34335": {
+        "1794236917": "online"
+      },
       "holland.ecoincore.com:34333": {
         "1793027677": "online"
       },
@@ -1270,8 +1288,20 @@
       "oakland.ecoincore.com:34333": {
         "1793027677": "online"
       },
+      "oakland.ecoincore.com:34335": {
+        "1794236917": "online"
+      },
       "seattle.ecoincore.com:34333": {
         "1793027677": "online"
+      },
+      "seattle.ecoincore.com:34335": {
+        "1794236917": "online"
+      },
+      "toronto.ecoincore.com:34333": {
+        "1794236917": "online"
+      },
+      "toronto.ecoincore.com:34335": {
+        "1794236917": "online"
       },
       "woolloomooloo.ecoincore.com:34333": {
         "1793027677": "online"
@@ -5229,17 +5259,20 @@
       "electrum.pepeblocks.com:50001": {
         "1793027677": "offline",
         "1793243133": "online",
-        "1794108604": "offline"
+        "1794108604": "offline",
+        "1794236917": "online"
       },
       "electrum.pepeblocks.com:50002": {
         "1793027677": "offline",
         "1793243133": "online",
-        "1794108604": "offline"
+        "1794108604": "offline",
+        "1794236917": "online"
       },
       "electrum.pepeblocks.com:50004": {
         "1793027677": "offline",
         "1793243133": "online",
-        "1794108604": "offline"
+        "1794108604": "offline",
+        "1794236917": "online"
       }
     }
   },
@@ -5997,7 +6030,8 @@
         "1793907770": "online",
         "1793995765": "offline",
         "1794050514": "online",
-        "1794079597": "offline"
+        "1794079597": "offline",
+        "1794236917": "online"
       },
       "https://lite.chain.opentensor.ai": {
         "1793027677": "online"
@@ -6450,7 +6484,8 @@
         "1793907770": "online",
         "1793995765": "offline",
         "1794050514": "online",
-        "1794079597": "offline"
+        "1794079597": "offline",
+        "1794236917": "online"
       },
       "https://lite.chain.opentensor.ai": {
         "1793027677": "online"
@@ -6969,7 +7004,8 @@
         "1793027677": "offline"
       },
       "electrumx1.electraprotocol.eu:50004": {
-        "1794203594": "offline"
+        "1794203594": "offline",
+        "1794236917": "online"
       },
       "electrumx2.electraprotocol.eu:50001": {
         "1793027677": "online"
@@ -6981,7 +7017,8 @@
         "1793027677": "offline"
       },
       "electrumx2.electraprotocol.eu:50004": {
-        "1794203594": "offline"
+        "1794203594": "offline",
+        "1794236917": "online"
       },
       "electrumx3.electraprotocol.eu:50001": {
         "1793027677": "online"
@@ -6993,7 +7030,8 @@
         "1793027677": "offline"
       },
       "electrumx3.electraprotocol.eu:50004": {
-        "1794203594": "offline"
+        "1794203594": "offline",
+        "1794236917": "online"
       }
     }
   },
