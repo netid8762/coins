@@ -26581,10 +26581,6 @@
             {
                 "url": "https://moonriver.api.onfinality.io/public",
                 "ws_url": "wss://moonriver.api.onfinality.io/public-ws"
-            },
-            {
-                "url": "https://moonriver.drpc.org",
-                "ws_url": "wss://moonriver.drpc.org"
             }
         ],
         "explorer_block_url": "block/",
@@ -26626,10 +26622,6 @@
         "swap_contract_address": "0x6d9ce4BD298DE38bAfEFD15f5C6f5c95313B1d94",
         "fallback_swap_contract": "0x6d9ce4BD298DE38bAfEFD15f5C6f5c95313B1d94",
         "nodes": [
-            {
-                "url": "https://moonbeam.api.onfinality.io/public",
-                "ws_url": "wss://moonbeam.api.onfinality.io/public-ws"
-            },
             {
                 "url": "https://moonbeam.api.pocket.network"
             },
@@ -36413,6 +36405,10 @@
             },
             {
                 "url": "https://tron.api.pocket.network"
+            },
+            {
+                "url": "https://tron.drpc.org",
+                "ws_url": "wss://tron.drpc.org"
             }
         ],
         "explorer_block_url": "#/block/",
@@ -38634,7 +38630,11 @@
                 "url": "https://9745.rpc.thirdweb.com"
             },
             {
-                "url": "https://plasma.api.onfinality.io/public"
+                "url": "https://plasma.api.onfinality.io/public",
+                "ws_url": "wss://plasma.api.onfinality.io/public-ws"
+            },
+            {
+                "url": "https://plasma.gateway.tenderly.co"
             },
             {
                 "url": "https://rpc.plasma.to"
@@ -39119,7 +39119,11 @@
                 "url": "https://9745.rpc.thirdweb.com"
             },
             {
-                "url": "https://plasma.api.onfinality.io/public"
+                "url": "https://plasma.api.onfinality.io/public",
+                "ws_url": "wss://plasma.api.onfinality.io/public-ws"
+            },
+            {
+                "url": "https://plasma.gateway.tenderly.co"
             },
             {
                 "url": "https://rpc.plasma.to"
@@ -40048,7 +40052,11 @@
                 "url": "https://9745.rpc.thirdweb.com"
             },
             {
-                "url": "https://plasma.api.onfinality.io/public"
+                "url": "https://plasma.api.onfinality.io/public",
+                "ws_url": "wss://plasma.api.onfinality.io/public-ws"
+            },
+            {
+                "url": "https://plasma.gateway.tenderly.co"
             },
             {
                 "url": "https://rpc.plasma.to"
@@ -42100,7 +42108,11 @@
                 "url": "https://9745.rpc.thirdweb.com"
             },
             {
-                "url": "https://plasma.api.onfinality.io/public"
+                "url": "https://plasma.api.onfinality.io/public",
+                "ws_url": "wss://plasma.api.onfinality.io/public-ws"
+            },
+            {
+                "url": "https://plasma.gateway.tenderly.co"
             },
             {
                 "url": "https://rpc.plasma.to"
@@ -43005,7 +43017,11 @@
                 "url": "https://9745.rpc.thirdweb.com"
             },
             {
-                "url": "https://plasma.api.onfinality.io/public"
+                "url": "https://plasma.api.onfinality.io/public",
+                "ws_url": "wss://plasma.api.onfinality.io/public-ws"
+            },
+            {
+                "url": "https://plasma.gateway.tenderly.co"
             },
             {
                 "url": "https://rpc.plasma.to"
