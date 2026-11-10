@@ -1919,10 +1919,12 @@
         "1793027677": "online"
       },
       "failover.dgc.ewmcx.biz:50002": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1794279519": "offline"
       },
       "failover.dgc.ewmcx.biz:50003": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1794279519": "offline"
       }
     }
   },
@@ -5347,7 +5349,8 @@
       },
       "wss://poly.api.pocket.network": {
         "1793027677": "online",
-        "1794247792": "offline"
+        "1794247792": "offline",
+        "1794279519": "online"
       },
       "wss://polygon-bor-rpc.publicnode.com": {
         "1793027677": "online"
