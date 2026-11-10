@@ -3128,7 +3128,8 @@
         "1793517877": "offline"
       },
       "https://moonbeam.api.onfinality.io/public": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1794290556": "offline"
       },
       "https://moonbeam.api.pocket.network": {
         "1793027677": "online"
@@ -3137,7 +3138,8 @@
         "1793615609": "online"
       },
       "wss://moonbeam.api.onfinality.io/public-ws": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1794290556": "offline"
       },
       "wss://moonbeam.drpc.org": {
         "1793615609": "online"
@@ -4794,13 +4796,15 @@
         "1793027677": "online"
       },
       "https://moonriver.drpc.org": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1794290556": "offline"
       },
       "wss://moonriver.api.onfinality.io/public-ws": {
         "1793027677": "online"
       },
       "wss://moonriver.drpc.org": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1794290556": "offline"
       }
     }
   },
@@ -6296,7 +6300,8 @@
         "1793995765": "online",
         "1794079597": "offline",
         "1794108604": "online",
-        "1794247792": "offline"
+        "1794247792": "offline",
+        "1794290556": "online"
       },
       "https://tron.rpc.sentio.xyz": {
         "1793027677": "offline",
@@ -6315,7 +6320,8 @@
         "1793995765": "online",
         "1794079597": "offline",
         "1794108604": "online",
-        "1794247792": "offline"
+        "1794247792": "offline",
+        "1794290556": "online"
       },
       "wss://tron.rpc.sentio.xyz": {
         "1793027677": "offline",
@@ -7220,11 +7226,17 @@
       "https://plasma.drpc.org": {
         "1793027677": "offline"
       },
+      "https://plasma.gateway.tenderly.co": {
+        "1794290556": "online"
+      },
       "https://rpc.plasma.to": {
         "1793027677": "online"
       },
       "https://rpc.swiftnodes.io/rpc/plasma": {
         "1793027677": "online"
+      },
+      "wss://plasma.api.onfinality.io/public-ws": {
+        "1794290556": "offline"
       },
       "wss://plasma.drpc.org": {
         "1793027677": "offline"
