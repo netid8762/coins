@@ -639,13 +639,15 @@
         "1793027677": "offline",
         "1793150299": "online",
         "1793907770": "offline",
-        "1794108604": "online"
+        "1794108604": "online",
+        "1794288677": "offline"
       },
       "bit-e.outsidethebox.top:50002": {
         "1793027677": "offline",
         "1793150299": "online",
         "1793995765": "offline",
-        "1794108604": "online"
+        "1794108604": "online",
+        "1794288677": "offline"
       },
       "bit-e.outsidethebox.top:50004": {
         "1793027677": "offline",
@@ -3309,8 +3311,14 @@
       "https://hyperevm.rpc.sentio.xyz": {
         "1793027677": "online"
       },
+      "https://hyperliquid-rpc.publicnode.com": {
+        "1794288677": "online"
+      },
       "https://hyperliquid.drpc.org": {
         "1793027677": "online"
+      },
+      "https://hyperliquid.rpc.blxrbdn.com": {
+        "1794288677": "online"
       },
       "https://rpc.hyperliquid.xyz/evm": {
         "1793027677": "online"
@@ -6023,6 +6031,12 @@
   "TAO": {
     "all": {},
     "by_server": {
+      "https://bittensor-finney.api.onfinality.io/public": {
+        "1794288677": "online"
+      },
+      "https://bittensor.web3cdn.rest": {
+        "1794288677": "online"
+      },
       "https://lb.routeme.sh/rpc/evm/964": {
         "1793027677": "offline",
         "1793157561": "online",
@@ -6043,6 +6057,15 @@
       },
       "https://rpc.blockmachine.io": {
         "1793027677": "online"
+      },
+      "wss://bittensor-finney.api.onfinality.io/public-ws": {
+        "1794288677": "online"
+      },
+      "wss://bittensor.web3cdn.rest": {
+        "1794288677": "online"
+      },
+      "wss://rpc.blockmachine.io": {
+        "1794288677": "online"
       }
     }
   },
@@ -6480,6 +6503,12 @@
   "USDC-TAO": {
     "all": {},
     "by_server": {
+      "https://bittensor-finney.api.onfinality.io/public": {
+        "1794288677": "online"
+      },
+      "https://bittensor.web3cdn.rest": {
+        "1794288677": "online"
+      },
       "https://lb.routeme.sh/rpc/evm/964": {
         "1793027677": "offline",
         "1793157561": "online",
@@ -6500,6 +6529,15 @@
       },
       "https://rpc.blockmachine.io": {
         "1793027677": "online"
+      },
+      "wss://bittensor-finney.api.onfinality.io/public-ws": {
+        "1794288677": "online"
+      },
+      "wss://bittensor.web3cdn.rest": {
+        "1794288677": "online"
+      },
+      "wss://rpc.blockmachine.io": {
+        "1794288677": "online"
       }
     }
   },

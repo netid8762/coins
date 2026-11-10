@@ -4580,25 +4580,6 @@
                 ]
             },
             {
-                "url": "bit-e.minethepla.net:50004",
-                "protocol": "WSS",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "def#4726"
-                    }
-                ]
-            },
-            {
-                "url": "bit-e.outsidethebox.top:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "def#4726"
-                    }
-                ]
-            },
-            {
                 "url": "bit-e.outsidethebox.top:50004",
                 "protocol": "WSS",
                 "contact": [
@@ -19629,11 +19610,14 @@
                 "url": "https://hyperevm.rpc.sentio.xyz"
             },
             {
+                "url": "https://hyperliquid-rpc.publicnode.com"
+            },
+            {
                 "url": "https://hyperliquid.drpc.org",
                 "ws_url": "wss://hyperliquid.drpc.org"
             },
             {
-                "url": "https://rpc.hyperliquid.xyz/evm"
+                "url": "https://hyperliquid.rpc.blxrbdn.com"
             },
             {
                 "url": "https://rpc.hypurrscan.io"
@@ -35551,10 +35535,19 @@
         "fallback_swap_contract": "0xDB3d24F21745B9C1953BD643E1a6CA8A34C4F47c",
         "nodes": [
             {
+                "url": "https://bittensor-finney.api.onfinality.io/public",
+                "ws_url": "wss://bittensor-finney.api.onfinality.io/public-ws"
+            },
+            {
+                "url": "https://bittensor.web3cdn.rest",
+                "ws_url": "wss://bittensor.web3cdn.rest"
+            },
+            {
                 "url": "https://lite.chain.opentensor.ai"
             },
             {
-                "url": "https://rpc.blockmachine.io"
+                "url": "https://rpc.blockmachine.io",
+                "ws_url": "wss://rpc.blockmachine.io"
             }
         ],
         "explorer_block_url": "block/",
@@ -38260,11 +38253,14 @@
                 "url": "https://hyperevm.rpc.sentio.xyz"
             },
             {
+                "url": "https://hyperliquid-rpc.publicnode.com"
+            },
+            {
                 "url": "https://hyperliquid.drpc.org",
                 "ws_url": "wss://hyperliquid.drpc.org"
             },
             {
-                "url": "https://rpc.hyperliquid.xyz/evm"
+                "url": "https://hyperliquid.rpc.blxrbdn.com"
             },
             {
                 "url": "https://rpc.hypurrscan.io"
@@ -38531,10 +38527,19 @@
         "fallback_swap_contract": "0xDB3d24F21745B9C1953BD643E1a6CA8A34C4F47c",
         "nodes": [
             {
+                "url": "https://bittensor-finney.api.onfinality.io/public",
+                "ws_url": "wss://bittensor-finney.api.onfinality.io/public-ws"
+            },
+            {
+                "url": "https://bittensor.web3cdn.rest",
+                "ws_url": "wss://bittensor.web3cdn.rest"
+            },
+            {
                 "url": "https://lite.chain.opentensor.ai"
             },
             {
-                "url": "https://rpc.blockmachine.io"
+                "url": "https://rpc.blockmachine.io",
+                "ws_url": "wss://rpc.blockmachine.io"
             }
         ],
         "explorer_block_url": "block/"
@@ -38953,11 +38958,14 @@
                 "url": "https://hyperevm.rpc.sentio.xyz"
             },
             {
+                "url": "https://hyperliquid-rpc.publicnode.com"
+            },
+            {
                 "url": "https://hyperliquid.drpc.org",
                 "ws_url": "wss://hyperliquid.drpc.org"
             },
             {
-                "url": "https://rpc.hyperliquid.xyz/evm"
+                "url": "https://hyperliquid.rpc.blxrbdn.com"
             },
             {
                 "url": "https://rpc.hypurrscan.io"
@@ -39986,11 +39994,14 @@
                 "url": "https://hyperevm.rpc.sentio.xyz"
             },
             {
+                "url": "https://hyperliquid-rpc.publicnode.com"
+            },
+            {
                 "url": "https://hyperliquid.drpc.org",
                 "ws_url": "wss://hyperliquid.drpc.org"
             },
             {
-                "url": "https://rpc.hyperliquid.xyz/evm"
+                "url": "https://hyperliquid.rpc.blxrbdn.com"
             },
             {
                 "url": "https://rpc.hypurrscan.io"
