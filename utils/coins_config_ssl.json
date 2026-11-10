@@ -9076,6 +9076,10 @@
                         "discord": "668310974083629056"
                     }
                 ]
+            },
+            {
+                "url": "electrumx.dgc.ewmcx.org:50002",
+                "protocol": "SSL"
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -32464,8 +32468,7 @@
         "electrum": [
             {
                 "url": "uno-bkp.coinmunity.gold:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true
+                "protocol": "SSL"
             },
             {
                 "url": "uno-ex-one.ewmci.online:50002",
@@ -32474,8 +32477,7 @@
             },
             {
                 "url": "uno-main.coinmunity.gold:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true
+                "protocol": "SSL"
             }
         ],
         "explorer_block_url": "block.dws?"
