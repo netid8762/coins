@@ -31196,10 +31196,6 @@
             },
             {
                 "url": "https://tron.api.pocket.network"
-            },
-            {
-                "url": "https://tron.drpc.org",
-                "ws_url": "wss://tron.drpc.org"
             }
         ],
         "explorer_block_url": "#/block/",

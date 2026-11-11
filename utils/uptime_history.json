@@ -6073,7 +6073,8 @@
       },
       "wss://bittensor.web3cdn.rest": {
         "1794288677": "online",
-        "1794360588": "offline"
+        "1794360588": "offline",
+        "1794374300": "online"
       },
       "wss://rpc.blockmachine.io": {
         "1794288677": "online"
@@ -6308,7 +6309,8 @@
         "1794079597": "offline",
         "1794108604": "online",
         "1794247792": "offline",
-        "1794290556": "online"
+        "1794290556": "online",
+        "1794374300": "offline"
       },
       "https://tron.rpc.sentio.xyz": {
         "1793027677": "offline",
@@ -6328,7 +6330,8 @@
         "1794079597": "offline",
         "1794108604": "online",
         "1794247792": "offline",
-        "1794290556": "online"
+        "1794290556": "online",
+        "1794374300": "offline"
       },
       "wss://tron.rpc.sentio.xyz": {
         "1793027677": "offline",
@@ -6548,7 +6551,8 @@
       },
       "wss://bittensor.web3cdn.rest": {
         "1794288677": "online",
-        "1794360588": "offline"
+        "1794360588": "offline",
+        "1794374300": "online"
       },
       "wss://rpc.blockmachine.io": {
         "1794288677": "online"
