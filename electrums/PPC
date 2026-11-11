@@ -7,6 +7,7 @@
     {
         "url": "allingas.peercoinexplorer.net:50002",
         "protocol": "SSL",
+        "disable_cert_verification": true,
         "ws_url": "allingas.peercoinexplorer.net:50004"
     }
 ]
