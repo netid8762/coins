@@ -1922,11 +1922,13 @@
       },
       "failover.dgc.ewmcx.biz:50002": {
         "1793027677": "online",
-        "1794279519": "offline"
+        "1794279519": "offline",
+        "1794360588": "online"
       },
       "failover.dgc.ewmcx.biz:50003": {
         "1793027677": "online",
-        "1794279519": "offline"
+        "1794279519": "offline",
+        "1794360588": "online"
       }
     }
   },
@@ -3129,7 +3131,8 @@
       },
       "https://moonbeam.api.onfinality.io/public": {
         "1793027677": "online",
-        "1794290556": "offline"
+        "1794290556": "offline",
+        "1794360588": "online"
       },
       "https://moonbeam.api.pocket.network": {
         "1793027677": "online"
@@ -3139,7 +3142,8 @@
       },
       "wss://moonbeam.api.onfinality.io/public-ws": {
         "1793027677": "online",
-        "1794290556": "offline"
+        "1794290556": "offline",
+        "1794360588": "online"
       },
       "wss://moonbeam.drpc.org": {
         "1793615609": "online"
@@ -4797,14 +4801,16 @@
       },
       "https://moonriver.drpc.org": {
         "1793027677": "online",
-        "1794290556": "offline"
+        "1794290556": "offline",
+        "1794360588": "online"
       },
       "wss://moonriver.api.onfinality.io/public-ws": {
         "1793027677": "online"
       },
       "wss://moonriver.drpc.org": {
         "1793027677": "online",
-        "1794290556": "offline"
+        "1794290556": "offline",
+        "1794360588": "online"
       }
     }
   },
@@ -6066,7 +6072,8 @@
         "1794288677": "online"
       },
       "wss://bittensor.web3cdn.rest": {
-        "1794288677": "online"
+        "1794288677": "online",
+        "1794360588": "offline"
       },
       "wss://rpc.blockmachine.io": {
         "1794288677": "online"
@@ -6540,7 +6547,8 @@
         "1794288677": "online"
       },
       "wss://bittensor.web3cdn.rest": {
-        "1794288677": "online"
+        "1794288677": "online",
+        "1794360588": "offline"
       },
       "wss://rpc.blockmachine.io": {
         "1794288677": "online"
