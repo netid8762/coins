@@ -6503,7 +6503,7 @@
         "wiftype": 128,
         "txfee": 40000,
         "mm2": 1,
-        "required_confirmations": 2,
+        "required_confirmations": 3,
         "avg_blocktime": 120,
         "protocol": {
             "type": "UTXO"
@@ -8110,6 +8110,10 @@
             },
             {
                 "url": "electrumx.dgc.ewmcx.org:50003",
+                "protocol": "WSS"
+            },
+            {
+                "url": "failover.dgc.ewmcx.biz:50003",
                 "protocol": "WSS"
             }
         ],
@@ -20509,6 +20513,10 @@
             {
                 "url": "https://moonriver.api.onfinality.io/public",
                 "ws_url": "wss://moonriver.api.onfinality.io/public-ws"
+            },
+            {
+                "url": "https://moonriver.drpc.org",
+                "ws_url": "wss://moonriver.drpc.org"
             }
         ],
         "explorer_block_url": "block/",
@@ -20550,6 +20558,10 @@
         "swap_contract_address": "0x6d9ce4BD298DE38bAfEFD15f5C6f5c95313B1d94",
         "fallback_swap_contract": "0x6d9ce4BD298DE38bAfEFD15f5C6f5c95313B1d94",
         "nodes": [
+            {
+                "url": "https://moonbeam.api.onfinality.io/public",
+                "ws_url": "wss://moonbeam.api.onfinality.io/public-ws"
+            },
             {
                 "url": "https://moonbeam.drpc.org",
                 "ws_url": "wss://moonbeam.drpc.org"
@@ -20726,7 +20738,7 @@
         "wiftype": 176,
         "txfee": 200000,
         "mm2": 1,
-        "required_confirmations": 2,
+        "required_confirmations": 5,
         "avg_blocktime": 60,
         "protocol": {
             "type": "UTXO"
@@ -22724,7 +22736,8 @@
         "electrum": [
             {
                 "url": "allingas.peercoinexplorer.net:50004",
-                "protocol": "WSS"
+                "protocol": "WSS",
+                "disable_cert_verification": true
             },
             {
                 "url": "electrum.peercoinexplorer.net:50004",
