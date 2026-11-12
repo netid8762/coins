@@ -6385,12 +6385,14 @@
         "1794108604": "online",
         "1794247792": "offline",
         "1794290556": "online",
-        "1794374300": "offline"
+        "1794374300": "offline",
+        "1794523808": "online"
       },
       "https://tron.rpc.sentio.xyz": {
         "1793027677": "offline",
         "1793615609": "online",
-        "1793650502": "offline"
+        "1793650502": "offline",
+        "1794523808": "online"
       },
       "wss://tron.drpc.org": {
         "1793027677": "online",
@@ -6406,12 +6408,14 @@
         "1794108604": "online",
         "1794247792": "offline",
         "1794290556": "online",
-        "1794374300": "offline"
+        "1794374300": "offline",
+        "1794523808": "online"
       },
       "wss://tron.rpc.sentio.xyz": {
         "1793027677": "offline",
         "1793615609": "online",
-        "1793650502": "offline"
+        "1793650502": "offline",
+        "1794523808": "online"
       }
     }
   },
