@@ -4580,25 +4580,6 @@
                 ]
             },
             {
-                "url": "bit-e.minethepla.net:50004",
-                "protocol": "WSS",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "def#4726"
-                    }
-                ]
-            },
-            {
-                "url": "bit-e.outsidethebox.top:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "def#4726"
-                    }
-                ]
-            },
-            {
                 "url": "bit-e.outsidethebox.top:50004",
                 "protocol": "WSS",
                 "contact": [
@@ -25267,6 +25248,15 @@
             "homepage": "https://www.mewccrypto.com/"
         },
         "electrum": [
+            {
+                "url": "electrs.mewccrypto.com:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "Meowmancer#2099"
+                    }
+                ]
+            },
             {
                 "url": "electrs.mewccrypto.com:50004",
                 "protocol": "WSS",
