@@ -4182,15 +4182,6 @@
                 ]
             },
             {
-                "url": "bit-e.outsidethebox.top:50002",
-                "protocol": "SSL",
-                "contact": [
-                    {
-                        "discord": "def#4726"
-                    }
-                ]
-            },
-            {
                 "url": "bitn-electrumx.wattxchange.app:50012",
                 "protocol": "SSL",
                 "contact": [
@@ -21352,6 +21343,15 @@
             "homepage": "https://www.mewccrypto.com/"
         },
         "electrum": [
+            {
+                "url": "electrs.mewccrypto.com:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "Meowmancer#2099"
+                    }
+                ]
+            },
             {
                 "url": "electrs2.mewccrypto.com:50002",
                 "protocol": "SSL",
