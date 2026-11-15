@@ -633,7 +633,8 @@
         "1793027677": "offline",
         "1793072853": "online",
         "1793745165": "offline",
-        "1793995765": "online"
+        "1793995765": "online",
+        "1794708534": "offline"
       },
       "bit-e.minethepla.net:50004": {
         "1793027677": "offline",
@@ -657,7 +658,8 @@
         "1793027677": "offline",
         "1793072853": "online",
         "1793745165": "offline",
-        "1794108604": "online"
+        "1794108604": "online",
+        "1794708534": "offline"
       },
       "bitn-electrumx.wattxchange.app:50011": {
         "1793027677": "online"
@@ -678,7 +680,8 @@
         "1793027677": "offline",
         "1793615609": "online",
         "1793907770": "offline",
-        "1793914125": "online"
+        "1793914125": "online",
+        "1794708534": "offline"
       }
     }
   },
@@ -3041,7 +3044,8 @@
       },
       "electrumx2.runonflux.io:50001": {
         "1793027677": "online",
-        "1793745165": "offline"
+        "1793745165": "offline",
+        "1794708534": "online"
       },
       "electrumx2.runonflux.io:50004": {
         "1793027677": "offline"
@@ -5365,11 +5369,13 @@
   },
   "PINK": {
     "all": {
-      "1793027677": "online"
+      "1793027677": "online",
+      "1794708534": "offline"
     },
     "by_server": {
       "pink-one.ewm-cx.net:50001": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1794708534": "offline"
       },
       "pink-two.ewm-cx.net:50001": {
         "1793027677": "offline"

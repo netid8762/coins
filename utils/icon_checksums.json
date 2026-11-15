@@ -1802,5 +1802,9 @@
   "gspc.png": {
     "original": "e837fee8cbea4bb5b7a98652db52d4cebe1faf8b0a8403e39503dc618ef7b0f4",
     "processed": "c63d4eb8e3e7d2636419b2d0b0c25b2262c1e4e1e4ad1043b2b8fe747f361585"
+  },
+  "qvnc.png": {
+    "original": "740a55d5048ace31bd5db541d46243b2239e73ab4af7a6dd51a407796dd803f2",
+    "processed": "5925227a3d31c8e0866283509176a2b5902a83841071f1f48d63efadb5142bc1"
   }
 }
