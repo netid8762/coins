@@ -9482,11 +9482,13 @@
         "electrum": [
             {
                 "url": "electrum1.egulden.org:50004",
-                "protocol": "WSS"
+                "protocol": "WSS",
+                "disable_cert_verification": true
             },
             {
                 "url": "electrum3.egulden.org:50004",
-                "protocol": "WSS"
+                "protocol": "WSS",
+                "disable_cert_verification": true
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -15698,9 +15700,6 @@
         },
         "derivation_path": "m/44'/118'",
         "rpc_urls": [
-            {
-                "url": "https://mainnet-iris-rpc.konsortech.xyz"
-            },
             {
                 "url": "https://rpc-iris.keplr.app"
             },
@@ -28248,10 +28247,6 @@
         "swap_contract_address": "TGXVt3xLM4771cZii7uGMyWkhogSiykTUw",
         "fallback_swap_contract": "TGXVt3xLM4771cZii7uGMyWkhogSiykTUw",
         "nodes": [
-            {
-                "url": "https://tron.drpc.org",
-                "ws_url": "wss://tron.drpc.org"
-            },
             {
                 "url": "https://tron.rpc.sentio.xyz",
                 "ws_url": "wss://tron.rpc.sentio.xyz"
