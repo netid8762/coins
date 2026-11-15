@@ -634,7 +634,8 @@
         "1793072853": "online",
         "1793745165": "offline",
         "1793995765": "online",
-        "1794708534": "offline"
+        "1794708534": "offline",
+        "1794728688": "online"
       },
       "bit-e.minethepla.net:50004": {
         "1793027677": "offline",
@@ -659,7 +660,8 @@
         "1793072853": "online",
         "1793745165": "offline",
         "1794108604": "online",
-        "1794708534": "offline"
+        "1794708534": "offline",
+        "1794728688": "online"
       },
       "bitn-electrumx.wattxchange.app:50011": {
         "1793027677": "online"
@@ -681,7 +683,8 @@
         "1793615609": "online",
         "1793907770": "offline",
         "1793914125": "online",
-        "1794708534": "offline"
+        "1794708534": "offline",
+        "1794728688": "online"
       }
     }
   },
@@ -3196,7 +3199,8 @@
         "1793027677": "online"
       },
       "https://moonbeam.drpc.org": {
-        "1793615609": "online"
+        "1793615609": "online",
+        "1794728688": "offline"
       },
       "wss://moonbeam.api.onfinality.io/public-ws": {
         "1793027677": "online",
@@ -3204,7 +3208,8 @@
         "1794360588": "online"
       },
       "wss://moonbeam.drpc.org": {
-        "1793615609": "online"
+        "1793615609": "online",
+        "1794728688": "offline"
       }
     }
   },
