@@ -5542,6 +5542,31 @@
       }
     }
   },
+  "QVNC": {
+    "all": {
+      "1794730250": "online"
+    },
+    "by_server": {
+      "seed1.quavence.com:50001": {
+        "1794730250": "online"
+      },
+      "seed1.quavence.com:50002": {
+        "1794730250": "online"
+      },
+      "seed1.quavence.com:50004": {
+        "1794730250": "online"
+      },
+      "seed2.quavence.com:50001": {
+        "1794730250": "online"
+      },
+      "seed2.quavence.com:50002": {
+        "1794730250": "online"
+      },
+      "seed2.quavence.com:50004": {
+        "1794730250": "offline"
+      }
+    }
+  },
   "RAPH": {
     "all": {
       "1793027677": "online"
