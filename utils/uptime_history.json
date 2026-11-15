@@ -5563,7 +5563,8 @@
         "1794730250": "online"
       },
       "seed2.quavence.com:50004": {
-        "1794730250": "offline"
+        "1794730250": "offline",
+        "1794736140": "online"
       }
     }
   },
@@ -6187,7 +6188,8 @@
         "1794288677": "online",
         "1794360588": "offline",
         "1794374300": "online",
-        "1794456786": "offline"
+        "1794456786": "offline",
+        "1794736140": "online"
       },
       "wss://rpc.blockmachine.io": {
         "1794288677": "online"
@@ -6670,7 +6672,8 @@
         "1794288677": "online",
         "1794360588": "offline",
         "1794374300": "online",
-        "1794456786": "offline"
+        "1794456786": "offline",
+        "1794736140": "online"
       },
       "wss://rpc.blockmachine.io": {
         "1794288677": "online"
