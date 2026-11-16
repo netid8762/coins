@@ -653,7 +653,8 @@
         "1794108604": "online",
         "1794288677": "offline",
         "1794456786": "online",
-        "1794676842": "offline"
+        "1794676842": "offline",
+        "1794822704": "online"
       },
       "bit-e.outsidethebox.top:50004": {
         "1793027677": "offline",
@@ -6234,7 +6235,8 @@
         "1794456786": "offline",
         "1794736140": "online",
         "1794771611": "offline",
-        "1794816527": "online"
+        "1794816527": "online",
+        "1794822704": "offline"
       },
       "wss://rpc.blockmachine.io": {
         "1794288677": "online"
@@ -6473,7 +6475,8 @@
         "1794374300": "offline",
         "1794523808": "online",
         "1794771611": "offline",
-        "1794806556": "online"
+        "1794806556": "online",
+        "1794822704": "offline"
       },
       "https://tron.rpc.sentio.xyz": {
         "1793027677": "offline",
@@ -6498,7 +6501,8 @@
         "1794374300": "offline",
         "1794523808": "online",
         "1794771611": "offline",
-        "1794806556": "online"
+        "1794806556": "online",
+        "1794822704": "offline"
       },
       "wss://tron.rpc.sentio.xyz": {
         "1793027677": "offline",
@@ -6724,7 +6728,8 @@
         "1794456786": "offline",
         "1794736140": "online",
         "1794771611": "offline",
-        "1794816527": "online"
+        "1794816527": "online",
+        "1794822704": "offline"
       },
       "wss://rpc.blockmachine.io": {
         "1794288677": "online"
@@ -6756,7 +6761,8 @@
         "1793151116": "online",
         "1793615609": "offline",
         "1793650502": "online",
-        "1794816527": "offline"
+        "1794816527": "offline",
+        "1794822704": "online"
       },
       "wss://rpc.xdcrpc.com/ws": {
         "1793027677": "online",
@@ -7159,7 +7165,8 @@
         "1793151116": "online",
         "1793615609": "offline",
         "1793650502": "online",
-        "1794816527": "offline"
+        "1794816527": "offline",
+        "1794822704": "online"
       },
       "wss://rpc.xdcrpc.com/ws": {
         "1793027677": "online",
