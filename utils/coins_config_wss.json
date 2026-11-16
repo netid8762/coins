@@ -3715,6 +3715,16 @@
         },
         "electrum": [
             {
+                "url": "bit-e.minethepla.net:50004",
+                "protocol": "WSS",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "def#4726"
+                    }
+                ]
+            },
+            {
                 "url": "bit-e.outsidethebox.top:50004",
                 "protocol": "WSS",
                 "contact": [
@@ -28318,6 +28328,10 @@
         "fallback_swap_contract": "TGXVt3xLM4771cZii7uGMyWkhogSiykTUw",
         "nodes": [
             {
+                "url": "https://tron.drpc.org",
+                "ws_url": "wss://tron.drpc.org"
+            },
+            {
                 "url": "https://tron.rpc.sentio.xyz",
                 "ws_url": "wss://tron.rpc.sentio.xyz"
             }
@@ -33652,6 +33666,57 @@
             }
         ],
         "explorer_block_url": "block.dws?"
+    },
+    "XNA": {
+        "coin": "XNA",
+        "type": "UTXO",
+        "name": "Neurai",
+        "coinpaprika_id": "xna-neurai",
+        "coingecko_id": "neurai",
+        "livecoinwatch_id": "XNA",
+        "explorer_url": "https://neuraiexplorer.com/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Neurai Signed Message:\n",
+        "fname": "Neurai",
+        "rpcport": 19001,
+        "pubtype": 53,
+        "p2shtype": 117,
+        "wiftype": 128,
+        "segwit": true,
+        "txfee": 1000000,
+        "mm2": 1,
+        "required_confirmations": 5,
+        "avg_blocktime": 60,
+        "protocol": {
+            "type": "UTXO",
+            "chain_variant": "RVN"
+        },
+        "derivation_path": "m/44'/1900'",
+        "links": {
+            "github": "https://github.com/NeuraiProject/Neurai",
+            "homepage": "https://neurai.org"
+        },
+        "electrum": [
+            {
+                "url": "electrumx1.neurai.top:50004",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "alarm@neurai.org"
+                    },
+                    {
+                        "discord": "456566604809895947"
+                    }
+                ]
+            }
+        ],
+        "explorer_block_url": "block/"
     },
     "XPL": {
         "coin": "XPL",
