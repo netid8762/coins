@@ -4855,6 +4855,14 @@
         },
         "electrum": [
             {
+                "url": "0xrpc.io:50004",
+                "protocol": "WSS"
+            },
+            {
+                "url": "blackie.c3-soft.com:57004",
+                "protocol": "WSS"
+            },
+            {
                 "url": "btc.electrum1.cipig.net:30000",
                 "protocol": "WSS",
                 "contact": [
@@ -4925,6 +4933,14 @@
             "homepage": "https://bitcoin.org"
         },
         "electrum": [
+            {
+                "url": "0xrpc.io:50004",
+                "protocol": "WSS"
+            },
+            {
+                "url": "blackie.c3-soft.com:57004",
+                "protocol": "WSS"
+            },
             {
                 "url": "btc.electrum1.cipig.net:30000",
                 "protocol": "WSS",
@@ -18416,6 +18432,10 @@
         },
         "electrum": [
             {
+                "url": "0xrpc.io:60004",
+                "protocol": "WSS"
+            },
+            {
                 "url": "ltc.electrum1.cipig.net:30063",
                 "protocol": "WSS",
                 "contact": [
@@ -18486,6 +18506,10 @@
             "homepage": "https://litecoin.org"
         },
         "electrum": [
+            {
+                "url": "0xrpc.io:60004",
+                "protocol": "WSS"
+            },
             {
                 "url": "ltc.electrum1.cipig.net:30063",
                 "protocol": "WSS",
@@ -28247,6 +28271,10 @@
         "swap_contract_address": "TGXVt3xLM4771cZii7uGMyWkhogSiykTUw",
         "fallback_swap_contract": "TGXVt3xLM4771cZii7uGMyWkhogSiykTUw",
         "nodes": [
+            {
+                "url": "https://tron.drpc.org",
+                "ws_url": "wss://tron.drpc.org"
+            },
             {
                 "url": "https://tron.rpc.sentio.xyz",
                 "ws_url": "wss://tron.rpc.sentio.xyz"
