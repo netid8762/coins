@@ -6233,7 +6233,8 @@
         "1794374300": "online",
         "1794456786": "offline",
         "1794736140": "online",
-        "1794771611": "offline"
+        "1794771611": "offline",
+        "1794816527": "online"
       },
       "wss://rpc.blockmachine.io": {
         "1794288677": "online"
@@ -6722,7 +6723,8 @@
         "1794374300": "online",
         "1794456786": "offline",
         "1794736140": "online",
-        "1794771611": "offline"
+        "1794771611": "offline",
+        "1794816527": "online"
       },
       "wss://rpc.blockmachine.io": {
         "1794288677": "online"
@@ -6753,7 +6755,8 @@
       "wss://rpc.plugin.global/ws/xdcmainnet": {
         "1793151116": "online",
         "1793615609": "offline",
-        "1793650502": "online"
+        "1793650502": "online",
+        "1794816527": "offline"
       },
       "wss://rpc.xdcrpc.com/ws": {
         "1793027677": "online",
@@ -7155,7 +7158,8 @@
       "wss://rpc.plugin.global/ws/xdcmainnet": {
         "1793151116": "online",
         "1793615609": "offline",
-        "1793650502": "online"
+        "1793650502": "online",
+        "1794816527": "offline"
       },
       "wss://rpc.xdcrpc.com/ws": {
         "1793027677": "online",
