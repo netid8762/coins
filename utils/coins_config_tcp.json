@@ -13672,9 +13672,6 @@
                 "url": "https://flare.rpc.thirdweb.com"
             },
             {
-                "url": "https://rpc.au.cc/flare"
-            },
-            {
                 "url": "https://stylish-light-theorem.flare-mainnet.quiknode.pro/ext/bc/C/rpc",
                 "ws_url": "wss://stylish-light-theorem.flare-mainnet.quiknode.pro/ext/bc/C/ws"
             }
@@ -34887,9 +34884,6 @@
                 "url": "https://flare.rpc.thirdweb.com"
             },
             {
-                "url": "https://rpc.au.cc/flare"
-            },
-            {
                 "url": "https://stylish-light-theorem.flare-mainnet.quiknode.pro/ext/bc/C/rpc",
                 "ws_url": "wss://stylish-light-theorem.flare-mainnet.quiknode.pro/ext/bc/C/ws"
             }
@@ -41292,6 +41286,68 @@
         ],
         "explorer_block_url": "block/",
         "binance_id": "OSMO"
+    },
+    "SHC": {
+        "coin": "SHC",
+        "type": "UTXO",
+        "name": "Sharecoin",
+        "coinpaprika_id": "",
+        "coingecko_id": "",
+        "livecoinwatch_id": "",
+        "explorer_url": "https://sharecoin.cc/explorer/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Sharecoin Signed Message:\n",
+        "fname": "Sharecoin",
+        "rpcport": 8332,
+        "pubtype": 63,
+        "p2shtype": 18,
+        "wiftype": 214,
+        "txfee": 1000,
+        "dust": 1000,
+        "segwit": true,
+        "bech32_hrp": "shc",
+        "address_format": {
+            "format": "segwit"
+        },
+        "mm2": 1,
+        "required_confirmations": 3,
+        "avg_blocktime": 120,
+        "protocol": {
+            "type": "UTXO",
+            "chain_variant": "RVN"
+        },
+        "derivation_path": "m/84'/0'",
+        "links": {
+            "github": "https://github.com/TVHeroes/Sharecoin",
+            "homepage": "https://github.com/TVHeroes/Sharecoin"
+        },
+        "electrum": [
+            {
+                "url": "sharecoin.cc:60402",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "tvheroes@protonmail.com"
+                    }
+                ]
+            },
+            {
+                "url": "79.72.76.95:60401",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "email": "tvheroes@protonmail.com"
+                    }
+                ]
+            }
+        ],
+        "explorer_block_url": "block/"
     },
     "KRGN": {
         "coin": "KRGN",

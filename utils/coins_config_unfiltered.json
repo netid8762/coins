@@ -16345,9 +16345,6 @@
                 "url": "https://flare.rpc.thirdweb.com"
             },
             {
-                "url": "https://rpc.au.cc/flare"
-            },
-            {
                 "url": "https://stylish-light-theorem.flare-mainnet.quiknode.pro/ext/bc/C/rpc",
                 "ws_url": "wss://stylish-light-theorem.flare-mainnet.quiknode.pro/ext/bc/C/ws"
             }
@@ -40227,9 +40224,6 @@
                 "url": "https://flare.rpc.thirdweb.com"
             },
             {
-                "url": "https://rpc.au.cc/flare"
-            },
-            {
                 "url": "https://stylish-light-theorem.flare-mainnet.quiknode.pro/ext/bc/C/rpc",
                 "ws_url": "wss://stylish-light-theorem.flare-mainnet.quiknode.pro/ext/bc/C/ws"
             }
@@ -47588,8 +47582,35 @@
             "github": "https://github.com/TVHeroes/Sharecoin",
             "homepage": "https://github.com/TVHeroes/Sharecoin"
         },
-        "electrum": [],
-        "delisted": true,
+        "electrum": [
+            {
+                "url": "79.72.76.95:60401",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "email": "tvheroes@protonmail.com"
+                    }
+                ]
+            },
+            {
+                "url": "sharecoin.cc:443",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "tvheroes@protonmail.com"
+                    }
+                ]
+            },
+            {
+                "url": "sharecoin.cc:60402",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "tvheroes@protonmail.com"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "KRGN": {
