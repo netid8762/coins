@@ -3053,7 +3053,8 @@
         "1793027677": "online"
       },
       "https://rpc.au.cc/flare": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1794896383": "offline"
       },
       "https://stylish-light-theorem.flare-mainnet.quiknode.pro/ext/bc/C/rpc": {
         "1793027677": "online"
@@ -6057,12 +6058,14 @@
   "SHC": {
     "all": {
       "1793027677": "online",
-      "1793907770": "offline"
+      "1793907770": "offline",
+      "1794896383": "online"
     },
     "by_server": {
       "79.72.76.95:60401": {
         "1793027677": "online",
-        "1793907770": "offline"
+        "1793907770": "offline",
+        "1794896383": "online"
       },
       "_metadata": {
         "79.72.76.95:60401": {
@@ -6089,11 +6092,13 @@
       },
       "sharecoin.cc:443": {
         "1793027677": "online",
-        "1793907770": "offline"
+        "1793907770": "offline",
+        "1794896383": "online"
       },
       "sharecoin.cc:60402": {
         "1793027677": "online",
-        "1793907770": "offline"
+        "1793907770": "offline",
+        "1794896383": "online"
       }
     }
   },
@@ -6238,7 +6243,8 @@
         "1794771611": "offline",
         "1794816527": "online",
         "1794822704": "offline",
-        "1794828068": "online"
+        "1794828068": "online",
+        "1794896383": "offline"
       },
       "wss://rpc.blockmachine.io": {
         "1794288677": "online"
@@ -6734,7 +6740,8 @@
         "1794771611": "offline",
         "1794816527": "online",
         "1794822704": "offline",
-        "1794828068": "online"
+        "1794828068": "online",
+        "1794896383": "offline"
       },
       "wss://rpc.blockmachine.io": {
         "1794288677": "online"
@@ -6768,7 +6775,8 @@
         "1793650502": "online",
         "1794816527": "offline",
         "1794822704": "online",
-        "1794828068": "offline"
+        "1794828068": "offline",
+        "1794896383": "online"
       },
       "wss://rpc.xdcrpc.com/ws": {
         "1793027677": "online",
@@ -6786,7 +6794,8 @@
         "1793027677": "online"
       },
       "https://rpc.au.cc/flare": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1794896383": "offline"
       },
       "https://stylish-light-theorem.flare-mainnet.quiknode.pro/ext/bc/C/rpc": {
         "1793027677": "online"
@@ -7173,7 +7182,8 @@
         "1793650502": "online",
         "1794816527": "offline",
         "1794822704": "online",
-        "1794828068": "offline"
+        "1794828068": "offline",
+        "1794896383": "online"
       },
       "wss://rpc.xdcrpc.com/ws": {
         "1793027677": "online",
