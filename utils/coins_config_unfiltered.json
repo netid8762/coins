@@ -4683,16 +4683,6 @@
                 ]
             },
             {
-                "url": "bit-e.minethepla.net:50004",
-                "protocol": "WSS",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "def#4726"
-                    }
-                ]
-            },
-            {
                 "url": "bit-e.outsidethebox.top:50002",
                 "protocol": "SSL",
                 "contact": [
@@ -4740,16 +4730,6 @@
             {
                 "url": "bitnet.outsidethebox.top:50002",
                 "protocol": "SSL",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "def#4726"
-                    }
-                ]
-            },
-            {
-                "url": "bitnet.outsidethebox.top:50004",
-                "protocol": "WSS",
                 "disable_cert_verification": true,
                 "contact": [
                     {
@@ -24053,14 +24033,6 @@
         },
         "electrum": [
             {
-                "url": "0xrpc.io:60002",
-                "protocol": "SSL"
-            },
-            {
-                "url": "0xrpc.io:60004",
-                "protocol": "WSS"
-            },
-            {
                 "url": "ltc.electrum1.cipig.net:10063",
                 "contact": [
                     {
@@ -24179,14 +24151,6 @@
             "homepage": "https://litecoin.org"
         },
         "electrum": [
-            {
-                "url": "0xrpc.io:60002",
-                "protocol": "SSL"
-            },
-            {
-                "url": "0xrpc.io:60004",
-                "protocol": "WSS"
-            },
             {
                 "url": "ltc.electrum1.cipig.net:10063",
                 "contact": [
