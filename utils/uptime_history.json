@@ -3054,7 +3054,8 @@
       },
       "https://rpc.au.cc/flare": {
         "1793027677": "online",
-        "1794896383": "offline"
+        "1794896383": "offline",
+        "1794968238": "online"
       },
       "https://stylish-light-theorem.flare-mainnet.quiknode.pro/ext/bc/C/rpc": {
         "1793027677": "online"
@@ -6485,7 +6486,8 @@
         "1794771611": "offline",
         "1794806556": "online",
         "1794822704": "offline",
-        "1794828068": "online"
+        "1794828068": "online",
+        "1794968238": "offline"
       },
       "https://tron.rpc.sentio.xyz": {
         "1793027677": "offline",
@@ -6512,7 +6514,8 @@
         "1794771611": "offline",
         "1794806556": "online",
         "1794822704": "offline",
-        "1794828068": "online"
+        "1794828068": "online",
+        "1794968238": "offline"
       },
       "wss://tron.rpc.sentio.xyz": {
         "1793027677": "offline",
@@ -6795,7 +6798,8 @@
       },
       "https://rpc.au.cc/flare": {
         "1793027677": "online",
-        "1794896383": "offline"
+        "1794896383": "offline",
+        "1794968238": "online"
       },
       "https://stylish-light-theorem.flare-mainnet.quiknode.pro/ext/bc/C/rpc": {
         "1793027677": "online"
