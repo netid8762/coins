@@ -20423,10 +20423,6 @@
         },
         "electrum": [
             {
-                "url": "0xrpc.io:60002",
-                "protocol": "SSL"
-            },
-            {
                 "url": "ltc.electrum1.cipig.net:20063",
                 "protocol": "SSL",
                 "contact": [
@@ -20497,10 +20493,6 @@
             "homepage": "https://litecoin.org"
         },
         "electrum": [
-            {
-                "url": "0xrpc.io:60002",
-                "protocol": "SSL"
-            },
             {
                 "url": "ltc.electrum1.cipig.net:20063",
                 "protocol": "SSL",
