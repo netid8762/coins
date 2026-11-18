@@ -6245,7 +6245,8 @@
         "1794816527": "online",
         "1794822704": "offline",
         "1794828068": "online",
-        "1794896383": "offline"
+        "1794896383": "offline",
+        "1794989410": "online"
       },
       "wss://rpc.blockmachine.io": {
         "1794288677": "online"
@@ -6487,7 +6488,8 @@
         "1794806556": "online",
         "1794822704": "offline",
         "1794828068": "online",
-        "1794968238": "offline"
+        "1794968238": "offline",
+        "1794989410": "online"
       },
       "https://tron.rpc.sentio.xyz": {
         "1793027677": "offline",
@@ -6515,7 +6517,8 @@
         "1794806556": "online",
         "1794822704": "offline",
         "1794828068": "online",
-        "1794968238": "offline"
+        "1794968238": "offline",
+        "1794989410": "online"
       },
       "wss://tron.rpc.sentio.xyz": {
         "1793027677": "offline",
@@ -6744,7 +6747,8 @@
         "1794816527": "online",
         "1794822704": "offline",
         "1794828068": "online",
-        "1794896383": "offline"
+        "1794896383": "offline",
+        "1794989410": "online"
       },
       "wss://rpc.blockmachine.io": {
         "1794288677": "online"
@@ -7428,6 +7432,18 @@
       },
       "electrumx1.neurai.top:50004": {
         "1794828068": "online"
+      },
+      "electrumx2.neurai.top:40002": {
+        "1794989410": "online"
+      },
+      "electrumx2.neurai.top:40004": {
+        "1794989410": "online"
+      },
+      "electrumx3.neurai.top:30002": {
+        "1794989410": "online"
+      },
+      "electrumx3.neurai.top:30004": {
+        "1794989410": "online"
       },
       "electrumx3.neurai.top:50001": {
         "1793027677": "online"

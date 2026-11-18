@@ -31296,6 +31296,10 @@
                 "url": "https://tron.api.pocket.network"
             },
             {
+                "url": "https://tron.drpc.org",
+                "ws_url": "wss://tron.drpc.org"
+            },
+            {
                 "url": "https://tron.rpc.sentio.xyz",
                 "ws_url": "wss://tron.rpc.sentio.xyz"
             }
@@ -37375,6 +37379,30 @@
         "electrum": [
             {
                 "url": "electrumx1.neurai.top:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "alarm@neurai.org"
+                    },
+                    {
+                        "discord": "456566604809895947"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx2.neurai.top:40002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "alarm@neurai.org"
+                    },
+                    {
+                        "discord": "456566604809895947"
+                    }
+                ]
+            },
+            {
+                "url": "electrumx3.neurai.top:30002",
                 "protocol": "SSL",
                 "contact": [
                     {
