@@ -4716,6 +4716,16 @@
                         "discord": "nucash"
                     }
                 ]
+            },
+            {
+                "url": "bitnet.outsidethebox.top:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "def#4726"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -6083,6 +6093,10 @@
         },
         "electrum": [
             {
+                "url": "0xrpc.io:50002",
+                "protocol": "SSL"
+            },
+            {
                 "url": "0xrpc.io:50004",
                 "protocol": "WSS"
             },
@@ -6217,6 +6231,10 @@
             "homepage": "https://bitcoin.org"
         },
         "electrum": [
+            {
+                "url": "0xrpc.io:50002",
+                "protocol": "SSL"
+            },
             {
                 "url": "0xrpc.io:50004",
                 "protocol": "WSS"
@@ -24005,6 +24023,10 @@
         },
         "electrum": [
             {
+                "url": "0xrpc.io:60002",
+                "protocol": "SSL"
+            },
+            {
                 "url": "ltc.electrum1.cipig.net:10063",
                 "contact": [
                     {
@@ -24123,6 +24145,10 @@
             "homepage": "https://litecoin.org"
         },
         "electrum": [
+            {
+                "url": "0xrpc.io:60002",
+                "protocol": "SSL"
+            },
             {
                 "url": "ltc.electrum1.cipig.net:10063",
                 "contact": [
@@ -36614,6 +36640,10 @@
             },
             {
                 "url": "https://tron.api.pocket.network"
+            },
+            {
+                "url": "https://tron.drpc.org",
+                "ws_url": "wss://tron.drpc.org"
             },
             {
                 "url": "https://tron.rpc.sentio.xyz",
