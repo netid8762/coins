@@ -635,7 +635,8 @@
         "1793745165": "offline",
         "1793995765": "online",
         "1794708534": "offline",
-        "1794728688": "online"
+        "1794728688": "online",
+        "1795144963": "offline"
       },
       "bit-e.minethepla.net:50004": {
         "1793027677": "offline",
@@ -679,7 +680,8 @@
         "1793027677": "offline",
         "1793615609": "online",
         "1793907770": "offline",
-        "1793914125": "online"
+        "1793914125": "online",
+        "1795144963": "offline"
       },
       "bitnet.outsidethebox.top:50004": {
         "1793027677": "offline",
@@ -846,7 +848,8 @@
     },
     "by_server": {
       "0xrpc.io:50002": {
-        "1794806556": "online"
+        "1794806556": "online",
+        "1795144963": "offline"
       },
       "0xrpc.io:50004": {
         "1794806556": "online"
@@ -886,7 +889,8 @@
     },
     "by_server": {
       "0xrpc.io:50002": {
-        "1794806556": "online"
+        "1794806556": "online",
+        "1795144963": "offline"
       },
       "0xrpc.io:50004": {
         "1794806556": "online"
@@ -2593,7 +2597,8 @@
         "1793027677": "online"
       },
       "wss://eth.api.pocket.network": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1795144963": "offline"
       },
       "wss://eth.drpc.org": {
         "1793027677": "online"
@@ -5508,7 +5513,8 @@
       "wss://poly.api.pocket.network": {
         "1793027677": "online",
         "1794247792": "offline",
-        "1794279519": "online"
+        "1794279519": "online",
+        "1795144963": "offline"
       },
       "wss://polygon-bor-rpc.publicnode.com": {
         "1793027677": "online"
@@ -6252,7 +6258,8 @@
         "1794822704": "offline",
         "1794828068": "online",
         "1794896383": "offline",
-        "1794989410": "online"
+        "1794989410": "online",
+        "1795144963": "offline"
       },
       "wss://rpc.blockmachine.io": {
         "1794288677": "online"
@@ -6495,7 +6502,8 @@
         "1794822704": "offline",
         "1794828068": "online",
         "1794968238": "offline",
-        "1794989410": "online"
+        "1794989410": "online",
+        "1795144963": "offline"
       },
       "https://tron.rpc.sentio.xyz": {
         "1793027677": "offline",
@@ -6524,7 +6532,8 @@
         "1794822704": "offline",
         "1794828068": "online",
         "1794968238": "offline",
-        "1794989410": "online"
+        "1794989410": "online",
+        "1795144963": "offline"
       },
       "wss://tron.rpc.sentio.xyz": {
         "1793027677": "offline",
@@ -6754,7 +6763,8 @@
         "1794822704": "offline",
         "1794828068": "online",
         "1794896383": "offline",
-        "1794989410": "online"
+        "1794989410": "online",
+        "1795144963": "offline"
       },
       "wss://rpc.blockmachine.io": {
         "1794288677": "online"
@@ -7162,7 +7172,8 @@
         "1793027677": "online"
       },
       "wss://gnosis.api.pocket.network": {
-        "1793027677": "online"
+        "1793027677": "online",
+        "1795144963": "offline"
       },
       "wss://rpc.gnosischain.com/wss": {
         "1793027677": "online"
