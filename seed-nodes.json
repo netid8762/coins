@@ -24,18 +24,6 @@
         ]
     },
     {
-        "name": "seed-kmdefi-4",
-        "host": "seed04.kmdefi.net",
-        "type": "domain",
-        "wss": true,
-        "netid": 8762,
-        "contact": [
-            {
-                "email": ""
-            }
-        ]
-    },
-    {
         "name": "seed-swapscope-2",
         "host": "seed02.swapscope.net",
         "type": "domain",
