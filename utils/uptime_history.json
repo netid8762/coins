@@ -645,7 +645,8 @@
         "1794288677": "offline",
         "1794456786": "online",
         "1794676842": "offline",
-        "1794828068": "online"
+        "1794828068": "online",
+        "1795014601": "offline"
       },
       "bit-e.outsidethebox.top:50002": {
         "1793027677": "offline",
@@ -686,7 +687,8 @@
         "1793907770": "offline",
         "1793914125": "online",
         "1794708534": "offline",
-        "1794728688": "online"
+        "1794728688": "online",
+        "1795014601": "offline"
       }
     }
   },
@@ -4491,10 +4493,12 @@
     },
     "by_server": {
       "0xrpc.io:60002": {
-        "1794806556": "online"
+        "1794806556": "online",
+        "1795014601": "offline"
       },
       "0xrpc.io:60004": {
-        "1794806556": "online"
+        "1794806556": "online",
+        "1795014601": "offline"
       },
       "ltc.electrum1.cipig.net:10063": {
         "1793027677": "online"
@@ -4522,10 +4526,12 @@
     },
     "by_server": {
       "0xrpc.io:60002": {
-        "1794806556": "online"
+        "1794806556": "online",
+        "1795014601": "offline"
       },
       "0xrpc.io:60004": {
-        "1794806556": "online"
+        "1794806556": "online",
+        "1795014601": "offline"
       },
       "ltc.electrum1.cipig.net:10063": {
         "1793027677": "online"
