@@ -636,7 +636,8 @@
         "1793995765": "online",
         "1794708534": "offline",
         "1794728688": "online",
-        "1795144963": "offline"
+        "1795144963": "offline",
+        "1795290265": "online"
       },
       "bit-e.minethepla.net:50004": {
         "1793027677": "offline",
@@ -657,7 +658,8 @@
         "1794288677": "offline",
         "1794456786": "online",
         "1794676842": "offline",
-        "1794822704": "online"
+        "1794822704": "online",
+        "1795290265": "offline"
       },
       "bit-e.outsidethebox.top:50004": {
         "1793027677": "offline",
@@ -691,7 +693,8 @@
         "1793914125": "online",
         "1794708534": "offline",
         "1794728688": "online",
-        "1795014601": "offline"
+        "1795014601": "offline",
+        "1795290265": "online"
       }
     }
   },
@@ -5293,21 +5296,25 @@
         "1793027677": "online",
         "1793197523": "offline",
         "1793304251": "online",
-        "1794456786": "offline"
+        "1794456786": "offline",
+        "1795290265": "online"
       },
       "https://api.s0.t.hmny.io": {
         "1793027677": "online",
         "1793197523": "offline",
         "1793304251": "online",
-        "1794456786": "offline"
+        "1794456786": "offline",
+        "1795290265": "online"
       },
       "https://harmony-0.drpc.org": {
         "1793027677": "online",
-        "1794456786": "offline"
+        "1794456786": "offline",
+        "1795290265": "online"
       },
       "wss://harmony-0.drpc.org": {
         "1793027677": "online",
-        "1794456786": "offline"
+        "1794456786": "offline",
+        "1795290265": "online"
       }
     }
   },
@@ -5410,19 +5417,22 @@
         "1793027677": "offline",
         "1793243133": "online",
         "1794108604": "offline",
-        "1794236917": "online"
+        "1794236917": "online",
+        "1795290265": "offline"
       },
       "electrum.pepeblocks.com:50002": {
         "1793027677": "offline",
         "1793243133": "online",
         "1794108604": "offline",
-        "1794236917": "online"
+        "1794236917": "online",
+        "1795290265": "offline"
       },
       "electrum.pepeblocks.com:50004": {
         "1793027677": "offline",
         "1793243133": "online",
         "1794108604": "offline",
-        "1794236917": "online"
+        "1794236917": "online",
+        "1795290265": "offline"
       },
       "electrum.pepecoinservice.org:50001": {
         "1794456786": "online"
