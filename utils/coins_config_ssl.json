@@ -31376,6 +31376,10 @@
                 "url": "https://tron.api.pocket.network"
             },
             {
+                "url": "https://tron.drpc.org",
+                "ws_url": "wss://tron.drpc.org"
+            },
+            {
                 "url": "https://tron.rpc.sentio.xyz",
                 "ws_url": "wss://tron.rpc.sentio.xyz"
             }
@@ -41418,10 +41422,10 @@
         "coin": "KRGN",
         "type": "UTXO",
         "name": "Kerrigan",
-        "coinpaprika_id": "",
+        "coinpaprika_id": "krgn-kerrigan",
         "coingecko_id": "",
-        "livecoinwatch_id": "",
-        "explorer_url": "https://explorer.kerrigan.network",
+        "livecoinwatch_id": "KRGN",
+        "explorer_url": "https://explorer.kerrigan.network/",
         "explorer_tx_url": "tx/",
         "explorer_address_url": "address/",
         "supported": [],
