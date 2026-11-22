@@ -4292,16 +4292,6 @@
                         "discord": "nucash"
                     }
                 ]
-            },
-            {
-                "url": "bitnet.outsidethebox.top:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "def#4726"
-                    }
-                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -20466,10 +20456,6 @@
         },
         "electrum": [
             {
-                "url": "0xrpc.io:60002",
-                "protocol": "SSL"
-            },
-            {
                 "url": "ltc.electrum1.cipig.net:20063",
                 "protocol": "SSL",
                 "contact": [
@@ -20540,10 +20526,6 @@
             "homepage": "https://litecoin.org"
         },
         "electrum": [
-            {
-                "url": "0xrpc.io:60002",
-                "protocol": "SSL"
-            },
             {
                 "url": "ltc.electrum1.cipig.net:20063",
                 "protocol": "SSL",
@@ -23457,6 +23439,14 @@
                 "protocol": "SSL"
             },
             {
+                "url": "nmc.electrum1.cipig.net:20052",
+                "protocol": "SSL"
+            },
+            {
+                "url": "nmc.electrum2.cipig.net:20052",
+                "protocol": "SSL"
+            },
+            {
                 "url": "nmc2.bitcoins.sk:57002",
                 "protocol": "SSL",
                 "disable_cert_verification": true
@@ -23507,6 +23497,14 @@
         "electrum": [
             {
                 "url": "namecoin.stackwallet.com:57002",
+                "protocol": "SSL"
+            },
+            {
+                "url": "nmc.electrum1.cipig.net:20052",
+                "protocol": "SSL"
+            },
+            {
+                "url": "nmc.electrum2.cipig.net:20052",
                 "protocol": "SSL"
             },
             {
@@ -32725,10 +32723,6 @@
         },
         "electrum": [
             {
-                "url": "uno-bkp.coinmunity.gold:50002",
-                "protocol": "SSL"
-            },
-            {
                 "url": "uno-ex-one.ewmci.online:50002",
                 "protocol": "SSL",
                 "disable_cert_verification": true
@@ -41598,10 +41592,6 @@
             {
                 "url": "electrum.tarcoin.org:50002",
                 "protocol": "SSL"
-            },
-            {
-                "url": "node1.electrum.tarcoin.org:50002",
-                "protocol": "SSL"
             }
         ],
         "explorer_block_url": "block/"
@@ -41649,10 +41639,6 @@
         "electrum": [
             {
                 "url": "electrum.tarcoin.org:50002",
-                "protocol": "SSL"
-            },
-            {
-                "url": "node1.electrum.tarcoin.org:50002",
                 "protocol": "SSL"
             }
         ],

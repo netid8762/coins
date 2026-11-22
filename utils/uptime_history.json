@@ -684,7 +684,8 @@
         "1793907770": "offline",
         "1793914125": "online",
         "1795144963": "offline",
-        "1795157629": "online"
+        "1795157629": "online",
+        "1795347064": "offline"
       },
       "bitnet.outsidethebox.top:50004": {
         "1793027677": "offline",
@@ -857,7 +858,8 @@
         "1795157629": "online"
       },
       "0xrpc.io:50004": {
-        "1794806556": "online"
+        "1794806556": "online",
+        "1795347064": "offline"
       },
       "blackie.c3-soft.com:57001": {
         "1794806556": "online"
@@ -899,7 +901,8 @@
         "1795157629": "online"
       },
       "0xrpc.io:50004": {
-        "1794806556": "online"
+        "1794806556": "online",
+        "1795347064": "offline"
       },
       "blackie.c3-soft.com:57001": {
         "1794806556": "online"
@@ -4506,7 +4509,8 @@
       "0xrpc.io:60002": {
         "1794806556": "online",
         "1795014601": "offline",
-        "1795157629": "online"
+        "1795157629": "online",
+        "1795347064": "offline"
       },
       "0xrpc.io:60004": {
         "1794806556": "online",
@@ -4540,7 +4544,8 @@
       "0xrpc.io:60002": {
         "1794806556": "online",
         "1795014601": "offline",
-        "1795157629": "online"
+        "1795157629": "online",
+        "1795347064": "offline"
       },
       "0xrpc.io:60004": {
         "1794806556": "online",
@@ -5233,6 +5238,18 @@
       "namecoin.stackwallet.com:57002": {
         "1793027677": "online"
       },
+      "nmc.electrum1.cipig.net:20052": {
+        "1795347064": "online"
+      },
+      "nmc.electrum1.cipig.net:30052": {
+        "1795347064": "online"
+      },
+      "nmc.electrum2.cipig.net:20052": {
+        "1795347064": "online"
+      },
+      "nmc.electrum2.cipig.net:30052": {
+        "1795347064": "online"
+      },
       "nmc2.bitcoins.sk:57001": {
         "1793027677": "online"
       },
@@ -5248,6 +5265,18 @@
     "by_server": {
       "namecoin.stackwallet.com:57002": {
         "1793027677": "online"
+      },
+      "nmc.electrum1.cipig.net:20052": {
+        "1795347064": "online"
+      },
+      "nmc.electrum1.cipig.net:30052": {
+        "1795347064": "online"
+      },
+      "nmc.electrum2.cipig.net:20052": {
+        "1795347064": "online"
+      },
+      "nmc.electrum2.cipig.net:30052": {
+        "1795347064": "online"
       },
       "nmc2.bitcoins.sk:57001": {
         "1793027677": "online"
@@ -6293,7 +6322,8 @@
         "1793243133": "online"
       },
       "node1.electrum.tarcoin.org:50002": {
-        "1793243133": "online"
+        "1793243133": "online",
+        "1795347064": "offline"
       }
     }
   },
@@ -6309,7 +6339,8 @@
         "1793243133": "online"
       },
       "node1.electrum.tarcoin.org:50002": {
-        "1793243133": "online"
+        "1793243133": "online",
+        "1795347064": "offline"
       }
     }
   },
@@ -6701,12 +6732,14 @@
       "uno-bkp.coinmunity.gold:50002": {
         "1793027677": "online",
         "1793497849": "offline",
-        "1793615609": "online"
+        "1793615609": "online",
+        "1795347064": "offline"
       },
       "uno-bkp.coinmunity.gold:50003": {
         "1793027677": "online",
         "1793497849": "offline",
-        "1793615609": "online"
+        "1793615609": "online",
+        "1795347064": "offline"
       },
       "uno-ex-one.ewmci.online:50001": {
         "1793027677": "online"
