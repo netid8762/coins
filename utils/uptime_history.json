@@ -6519,7 +6519,8 @@
         "1794968238": "offline",
         "1794989410": "online",
         "1795144963": "offline",
-        "1795157629": "online"
+        "1795157629": "online",
+        "1795308683": "offline"
       },
       "https://tron.rpc.sentio.xyz": {
         "1793027677": "offline",
@@ -6550,7 +6551,8 @@
         "1794968238": "offline",
         "1794989410": "online",
         "1795144963": "offline",
-        "1795157629": "online"
+        "1795157629": "online",
+        "1795308683": "offline"
       },
       "wss://tron.rpc.sentio.xyz": {
         "1793027677": "offline",
