@@ -4719,16 +4719,6 @@
                 ]
             },
             {
-                "url": "bitnet.outsidethebox.top:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "def#4726"
-                    }
-                ]
-            },
-            {
                 "url": "bitnet.outsidethebox.top:50004",
                 "protocol": "WSS",
                 "disable_cert_verification": true,
@@ -6108,10 +6098,6 @@
                 "protocol": "SSL"
             },
             {
-                "url": "0xrpc.io:50004",
-                "protocol": "WSS"
-            },
-            {
                 "url": "blackie.c3-soft.com:57001",
                 "protocol": "TCP"
             },
@@ -6245,10 +6231,6 @@
             {
                 "url": "0xrpc.io:50002",
                 "protocol": "SSL"
-            },
-            {
-                "url": "0xrpc.io:50004",
-                "protocol": "WSS"
             },
             {
                 "url": "blackie.c3-soft.com:57001",
@@ -24086,10 +24068,6 @@
         },
         "electrum": [
             {
-                "url": "0xrpc.io:60002",
-                "protocol": "SSL"
-            },
-            {
                 "url": "ltc.electrum1.cipig.net:10063",
                 "contact": [
                     {
@@ -24208,10 +24186,6 @@
             "homepage": "https://litecoin.org"
         },
         "electrum": [
-            {
-                "url": "0xrpc.io:60002",
-                "protocol": "SSL"
-            },
             {
                 "url": "ltc.electrum1.cipig.net:10063",
                 "contact": [
@@ -27530,6 +27504,22 @@
                 "protocol": "SSL"
             },
             {
+                "url": "nmc.electrum1.cipig.net:20052",
+                "protocol": "SSL"
+            },
+            {
+                "url": "nmc.electrum1.cipig.net:30052",
+                "protocol": "WSS"
+            },
+            {
+                "url": "nmc.electrum2.cipig.net:20052",
+                "protocol": "SSL"
+            },
+            {
+                "url": "nmc.electrum2.cipig.net:30052",
+                "protocol": "WSS"
+            },
+            {
                 "url": "nmc2.bitcoins.sk:57001",
                 "protocol": "TCP"
             },
@@ -27585,6 +27575,22 @@
             {
                 "url": "namecoin.stackwallet.com:57002",
                 "protocol": "SSL"
+            },
+            {
+                "url": "nmc.electrum1.cipig.net:20052",
+                "protocol": "SSL"
+            },
+            {
+                "url": "nmc.electrum1.cipig.net:30052",
+                "protocol": "WSS"
+            },
+            {
+                "url": "nmc.electrum2.cipig.net:20052",
+                "protocol": "SSL"
+            },
+            {
+                "url": "nmc.electrum2.cipig.net:30052",
+                "protocol": "WSS"
             },
             {
                 "url": "nmc2.bitcoins.sk:57001",
@@ -37981,14 +37987,6 @@
         },
         "electrum": [
             {
-                "url": "uno-bkp.coinmunity.gold:50002",
-                "protocol": "SSL"
-            },
-            {
-                "url": "uno-bkp.coinmunity.gold:50003",
-                "protocol": "WSS"
-            },
-            {
                 "url": "uno-ex-one.ewmci.online:50001",
                 "protocol": "TCP"
             },
@@ -47823,10 +47821,6 @@
             {
                 "url": "electrum.tarcoin.org:50004",
                 "protocol": "WSS"
-            },
-            {
-                "url": "node1.electrum.tarcoin.org:50002",
-                "protocol": "SSL"
             }
         ],
         "explorer_block_url": "block/"
@@ -47879,10 +47873,6 @@
             {
                 "url": "electrum.tarcoin.org:50004",
                 "protocol": "WSS"
-            },
-            {
-                "url": "node1.electrum.tarcoin.org:50002",
-                "protocol": "SSL"
             }
         ],
         "explorer_block_url": "block/"
