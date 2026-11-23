@@ -2878,7 +2878,8 @@
   "FLC": {
     "all": {
       "1793027677": "online",
-      "1794456786": "offline"
+      "1794456786": "offline",
+      "1795418977": "online"
     },
     "by_server": {
       "_metadata": {
@@ -2939,22 +2940,26 @@
       },
       "electrum.myfloki.com:50001": {
         "1793027677": "online",
-        "1794456786": "offline"
+        "1794456786": "offline",
+        "1795418977": "online"
       },
       "electrum.myfloki.com:50002": {
         "1793027677": "online",
-        "1794456786": "offline"
+        "1794456786": "offline",
+        "1795418977": "online"
       },
       "electrum.myfloki.com:50004": {
         "1793027677": "online",
-        "1794456786": "offline"
+        "1794456786": "offline",
+        "1795418977": "online"
       }
     }
   },
   "FLC-segwit": {
     "all": {
       "1793027677": "online",
-      "1794456786": "offline"
+      "1794456786": "offline",
+      "1795418977": "online"
     },
     "by_server": {
       "_metadata": {
@@ -3015,15 +3020,18 @@
       },
       "electrum.myfloki.com:50001": {
         "1793027677": "online",
-        "1794456786": "offline"
+        "1794456786": "offline",
+        "1795418977": "online"
       },
       "electrum.myfloki.com:50002": {
         "1793027677": "online",
-        "1794456786": "offline"
+        "1794456786": "offline",
+        "1795418977": "online"
       },
       "electrum.myfloki.com:50004": {
         "1793027677": "online",
-        "1794456786": "offline"
+        "1794456786": "offline",
+        "1795418977": "online"
       }
     }
   },
@@ -4514,7 +4522,8 @@
       },
       "0xrpc.io:60004": {
         "1794806556": "online",
-        "1795014601": "offline"
+        "1795014601": "offline",
+        "1795418977": "online"
       },
       "ltc.electrum1.cipig.net:10063": {
         "1793027677": "online"
@@ -4549,7 +4558,8 @@
       },
       "0xrpc.io:60004": {
         "1794806556": "online",
-        "1795014601": "offline"
+        "1795014601": "offline",
+        "1795418977": "online"
       },
       "ltc.electrum1.cipig.net:10063": {
         "1793027677": "online"
@@ -6323,7 +6333,8 @@
       },
       "node1.electrum.tarcoin.org:50002": {
         "1793243133": "online",
-        "1795347064": "offline"
+        "1795347064": "offline",
+        "1795418977": "online"
       }
     }
   },
@@ -6340,7 +6351,8 @@
       },
       "node1.electrum.tarcoin.org:50002": {
         "1793243133": "online",
-        "1795347064": "offline"
+        "1795347064": "offline",
+        "1795418977": "online"
       }
     }
   },
@@ -6733,13 +6745,15 @@
         "1793027677": "online",
         "1793497849": "offline",
         "1793615609": "online",
-        "1795347064": "offline"
+        "1795347064": "offline",
+        "1795418977": "online"
       },
       "uno-bkp.coinmunity.gold:50003": {
         "1793027677": "online",
         "1793497849": "offline",
         "1793615609": "online",
-        "1795347064": "offline"
+        "1795347064": "offline",
+        "1795418977": "online"
       },
       "uno-ex-one.ewmci.online:50001": {
         "1793027677": "online"
@@ -6853,7 +6867,8 @@
         "1794816527": "offline",
         "1794822704": "online",
         "1794828068": "offline",
-        "1794896383": "online"
+        "1794896383": "online",
+        "1795418977": "offline"
       },
       "wss://rpc.xdcrpc.com/ws": {
         "1793027677": "online",
@@ -7262,7 +7277,8 @@
         "1794816527": "offline",
         "1794822704": "online",
         "1794828068": "offline",
-        "1794896383": "online"
+        "1794896383": "online",
+        "1795418977": "offline"
       },
       "wss://rpc.xdcrpc.com/ws": {
         "1793027677": "online",
