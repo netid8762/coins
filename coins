@@ -7199,7 +7199,6 @@
     "txfee": 1000,
     "decimals": 12,
     "mm2": 1,
-    "wallet_only": true,
     "sign_message_prefix": "Kylacoin Signed Message:\n",
     "required_confirmations": 10,
     "avg_blocktime": 60,
@@ -7231,7 +7230,6 @@
     "txfee": 1000,
     "decimals": 12,
     "mm2": 1,
-    "wallet_only": true,
     "required_confirmations": 10,
     "avg_blocktime": 60,
     "protocol": {
@@ -7739,7 +7737,6 @@
     "txfee": 1000,
     "decimals": 8,
     "mm2": 1,
-    "wallet_only": true,
     "sign_message_prefix": "Lyncoin Signed Message:\n",
     "required_confirmations": 10,
     "avg_blocktime": 60,
@@ -7771,7 +7768,6 @@
     "txfee": 1000,
     "decimals": 8,
     "mm2": 1,
-    "wallet_only": true,
     "required_confirmations": 10,
     "avg_blocktime": 60,
     "protocol": {
