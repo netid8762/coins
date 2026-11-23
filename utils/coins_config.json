@@ -4683,6 +4683,25 @@
                 ]
             },
             {
+                "url": "bit-e.minethepla.net:50004",
+                "protocol": "WSS",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "def#4726"
+                    }
+                ]
+            },
+            {
+                "url": "bit-e.outsidethebox.top:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "def#4726"
+                    }
+                ]
+            },
+            {
                 "url": "bit-e.outsidethebox.top:50004",
                 "protocol": "WSS",
                 "contact": [
@@ -16107,8 +16126,37 @@
             "github": "https://github.com/flokiorg/go-flokicoin",
             "homepage": "https://flokicoin.org"
         },
-        "electrum": [],
-        "delisted": true,
+        "electrum": [
+            {
+                "url": "electrum.myfloki.com:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "email": "electrum@myfloki.com"
+                    }
+                ]
+            },
+            {
+                "url": "electrum.myfloki.com:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "email": "electrum@myfloki.com"
+                    }
+                ]
+            },
+            {
+                "url": "electrum.myfloki.com:50004",
+                "protocol": "WSS",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "email": "electrum@myfloki.com"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "FLC-segwit": {
@@ -16151,8 +16199,37 @@
             "github": "https://github.com/flokiorg/go-flokicoin",
             "homepage": "https://flokicoin.org"
         },
-        "electrum": [],
-        "delisted": true,
+        "electrum": [
+            {
+                "url": "electrum.myfloki.com:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "email": "electrum@myfloki.com"
+                    }
+                ]
+            },
+            {
+                "url": "electrum.myfloki.com:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "email": "electrum@myfloki.com"
+                    }
+                ]
+            },
+            {
+                "url": "electrum.myfloki.com:50004",
+                "protocol": "WSS",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "email": "electrum@myfloki.com"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "FLOKI-BEP20": {
@@ -20943,7 +21020,7 @@
         "active": false,
         "is_testnet": false,
         "currently_enabled": false,
-        "wallet_only": true,
+        "wallet_only": false,
         "sign_message_prefix": "Kylacoin Signed Message:\n",
         "fname": "Kylacoin",
         "rpcport": 5110,
@@ -21104,7 +21181,7 @@
         "active": false,
         "is_testnet": false,
         "currently_enabled": false,
-        "wallet_only": true,
+        "wallet_only": false,
         "sign_message_prefix": "Kylacoin Signed Message:\n",
         "fname": "Kylacoin",
         "rpcport": 5110,
@@ -22550,7 +22627,7 @@
         "active": false,
         "is_testnet": false,
         "currently_enabled": false,
-        "wallet_only": true,
+        "wallet_only": false,
         "sign_message_prefix": "Lyncoin Signed Message:\n",
         "fname": "Lyncoin",
         "rpcport": 5053,
@@ -22711,7 +22788,7 @@
         "active": false,
         "is_testnet": false,
         "currently_enabled": false,
-        "wallet_only": true,
+        "wallet_only": false,
         "sign_message_prefix": "Lyncoin Signed Message:\n",
         "fname": "Lyncoin",
         "rpcport": 5053,
@@ -37987,6 +38064,14 @@
         },
         "electrum": [
             {
+                "url": "uno-bkp.coinmunity.gold:50002",
+                "protocol": "SSL"
+            },
+            {
+                "url": "uno-bkp.coinmunity.gold:50003",
+                "protocol": "WSS"
+            },
+            {
                 "url": "uno-ex-one.ewmci.online:50001",
                 "protocol": "TCP"
             },
@@ -47821,6 +47906,10 @@
             {
                 "url": "electrum.tarcoin.org:50004",
                 "protocol": "WSS"
+            },
+            {
+                "url": "node1.electrum.tarcoin.org:50002",
+                "protocol": "SSL"
             }
         ],
         "explorer_block_url": "block/"
@@ -47873,6 +47962,10 @@
             {
                 "url": "electrum.tarcoin.org:50004",
                 "protocol": "WSS"
+            },
+            {
+                "url": "node1.electrum.tarcoin.org:50002",
+                "protocol": "SSL"
             }
         ],
         "explorer_block_url": "block/"

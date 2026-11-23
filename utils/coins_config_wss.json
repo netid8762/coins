@@ -3715,6 +3715,16 @@
         },
         "electrum": [
             {
+                "url": "bit-e.minethepla.net:50004",
+                "protocol": "WSS",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "def#4726"
+                    }
+                ]
+            },
+            {
                 "url": "bit-e.outsidethebox.top:50004",
                 "protocol": "WSS",
                 "contact": [
@@ -12180,6 +12190,110 @@
         "token_address_url": "tokentxns?a=",
         "explorer_block_url": "block/"
     },
+    "FLC": {
+        "coin": "FLC",
+        "type": "UTXO",
+        "name": "Flokicoin",
+        "coinpaprika_id": "flc-flokicoin",
+        "coingecko_id": "",
+        "livecoinwatch_id": "_____FLC",
+        "explorer_url": "https://flokichain.info/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Flokicoin Signed Message:\n",
+        "fname": "Flokicoin",
+        "rpcport": 15213,
+        "pubtype": 35,
+        "p2shtype": 5,
+        "wiftype": 128,
+        "segwit": true,
+        "bech32_hrp": "fc",
+        "txfee": 0,
+        "mm2": 1,
+        "required_confirmations": 5,
+        "avg_blocktime": 60,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "dust": 1000,
+        "derivation_path": "m/44'/0'",
+        "links": {
+            "github": "https://github.com/flokiorg/go-flokicoin",
+            "homepage": "https://flokicoin.org"
+        },
+        "electrum": [
+            {
+                "url": "electrum.myfloki.com:50004",
+                "protocol": "WSS",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "email": "electrum@myfloki.com"
+                    }
+                ]
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
+    "FLC-segwit": {
+        "coin": "FLC-segwit",
+        "type": "UTXO",
+        "name": "Flokicoin",
+        "coinpaprika_id": "flc-flokicoin",
+        "coingecko_id": "",
+        "livecoinwatch_id": "_____FLC",
+        "explorer_url": "https://flokichain.info/",
+        "explorer_tx_url": "tx/",
+        "explorer_address_url": "address/",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Flokicoin Signed Message:\n",
+        "fname": "Flokicoin",
+        "rpcport": 15213,
+        "pubtype": 35,
+        "p2shtype": 5,
+        "wiftype": 128,
+        "segwit": true,
+        "bech32_hrp": "fc",
+        "address_format": {
+            "format": "segwit"
+        },
+        "orderbook_ticker": "FLC",
+        "txfee": 0,
+        "mm2": 1,
+        "required_confirmations": 5,
+        "avg_blocktime": 60,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "dust": 1000,
+        "derivation_path": "m/84'/0'",
+        "links": {
+            "github": "https://github.com/flokiorg/go-flokicoin",
+            "homepage": "https://flokicoin.org"
+        },
+        "electrum": [
+            {
+                "url": "electrum.myfloki.com:50004",
+                "protocol": "WSS",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "email": "electrum@myfloki.com"
+                    }
+                ]
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
     "FLOKI-BEP20": {
         "coin": "FLOKI-BEP20",
         "type": "BEP-20",
@@ -16129,7 +16243,7 @@
         "active": false,
         "is_testnet": false,
         "currently_enabled": false,
-        "wallet_only": true,
+        "wallet_only": false,
         "sign_message_prefix": "Kylacoin Signed Message:\n",
         "fname": "Kylacoin",
         "rpcport": 5110,
@@ -16230,7 +16344,7 @@
         "active": false,
         "is_testnet": false,
         "currently_enabled": false,
-        "wallet_only": true,
+        "wallet_only": false,
         "sign_message_prefix": "Kylacoin Signed Message:\n",
         "fname": "Kylacoin",
         "rpcport": 5110,
@@ -17212,7 +17326,7 @@
         "active": false,
         "is_testnet": false,
         "currently_enabled": false,
-        "wallet_only": true,
+        "wallet_only": false,
         "sign_message_prefix": "Lyncoin Signed Message:\n",
         "fname": "Lyncoin",
         "rpcport": 5053,
@@ -17313,7 +17427,7 @@
         "active": false,
         "is_testnet": false,
         "currently_enabled": false,
-        "wallet_only": true,
+        "wallet_only": false,
         "sign_message_prefix": "Lyncoin Signed Message:\n",
         "fname": "Lyncoin",
         "rpcport": 5053,
@@ -29588,6 +29702,10 @@
             "homepage": "https://unobtanium.uno"
         },
         "electrum": [
+            {
+                "url": "uno-bkp.coinmunity.gold:50003",
+                "protocol": "WSS"
+            },
             {
                 "url": "uno-main.coinmunity.gold:50003",
                 "protocol": "WSS"
