@@ -16107,8 +16107,37 @@
             "github": "https://github.com/flokiorg/go-flokicoin",
             "homepage": "https://flokicoin.org"
         },
-        "electrum": [],
-        "delisted": true,
+        "electrum": [
+            {
+                "url": "electrum.myfloki.com:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "email": "electrum@myfloki.com"
+                    }
+                ]
+            },
+            {
+                "url": "electrum.myfloki.com:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "email": "electrum@myfloki.com"
+                    }
+                ]
+            },
+            {
+                "url": "electrum.myfloki.com:50004",
+                "protocol": "WSS",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "email": "electrum@myfloki.com"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "FLC-segwit": {
@@ -16151,8 +16180,37 @@
             "github": "https://github.com/flokiorg/go-flokicoin",
             "homepage": "https://flokicoin.org"
         },
-        "electrum": [],
-        "delisted": true,
+        "electrum": [
+            {
+                "url": "electrum.myfloki.com:50001",
+                "protocol": "TCP",
+                "contact": [
+                    {
+                        "email": "electrum@myfloki.com"
+                    }
+                ]
+            },
+            {
+                "url": "electrum.myfloki.com:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "email": "electrum@myfloki.com"
+                    }
+                ]
+            },
+            {
+                "url": "electrum.myfloki.com:50004",
+                "protocol": "WSS",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "email": "electrum@myfloki.com"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "FLOKI-BEP20": {
@@ -24068,6 +24126,10 @@
         },
         "electrum": [
             {
+                "url": "0xrpc.io:60004",
+                "protocol": "WSS"
+            },
+            {
                 "url": "ltc.electrum1.cipig.net:10063",
                 "contact": [
                     {
@@ -24186,6 +24248,10 @@
             "homepage": "https://litecoin.org"
         },
         "electrum": [
+            {
+                "url": "0xrpc.io:60004",
+                "protocol": "WSS"
+            },
             {
                 "url": "ltc.electrum1.cipig.net:10063",
                 "contact": [
@@ -37987,6 +38053,14 @@
         },
         "electrum": [
             {
+                "url": "uno-bkp.coinmunity.gold:50002",
+                "protocol": "SSL"
+            },
+            {
+                "url": "uno-bkp.coinmunity.gold:50003",
+                "protocol": "WSS"
+            },
+            {
                 "url": "uno-ex-one.ewmci.online:50001",
                 "protocol": "TCP"
             },
@@ -47821,6 +47895,10 @@
             {
                 "url": "electrum.tarcoin.org:50004",
                 "protocol": "WSS"
+            },
+            {
+                "url": "node1.electrum.tarcoin.org:50002",
+                "protocol": "SSL"
             }
         ],
         "explorer_block_url": "block/"
@@ -47873,6 +47951,10 @@
             {
                 "url": "electrum.tarcoin.org:50004",
                 "protocol": "WSS"
+            },
+            {
+                "url": "node1.electrum.tarcoin.org:50002",
+                "protocol": "SSL"
             }
         ],
         "explorer_block_url": "block/"
