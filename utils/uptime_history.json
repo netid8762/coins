@@ -459,7 +459,8 @@
     },
     "by_server": {
       "bca-main-2.swaps.org:54002": {
-        "1793409703": "online"
+        "1793409703": "online",
+        "1795510787": "offline"
       },
       "bca-main.swaps.org:54002": {
         "1793409703": "online"
@@ -475,7 +476,8 @@
     },
     "by_server": {
       "bca-main-2.swaps.org:54002": {
-        "1793409703": "online"
+        "1793409703": "online",
+        "1795510787": "offline"
       },
       "bca-main.swaps.org:54002": {
         "1793409703": "online"
@@ -637,7 +639,8 @@
         "1794708534": "offline",
         "1794728688": "online",
         "1795144963": "offline",
-        "1795290265": "online"
+        "1795290265": "online",
+        "1795510787": "offline"
       },
       "bit-e.minethepla.net:50004": {
         "1793027677": "offline",
@@ -685,7 +688,8 @@
         "1793914125": "online",
         "1795144963": "offline",
         "1795157629": "online",
-        "1795347064": "offline"
+        "1795347064": "offline",
+        "1795510787": "online"
       },
       "bitnet.outsidethebox.top:50004": {
         "1793027677": "offline",
@@ -695,7 +699,8 @@
         "1794708534": "offline",
         "1794728688": "online",
         "1795014601": "offline",
-        "1795290265": "online"
+        "1795290265": "online",
+        "1795510787": "offline"
       }
     }
   },
@@ -6313,7 +6318,8 @@
         "1794828068": "online",
         "1794896383": "offline",
         "1794989410": "online",
-        "1795144963": "offline"
+        "1795144963": "offline",
+        "1795510787": "online"
       },
       "wss://rpc.blockmachine.io": {
         "1794288677": "online"
@@ -6832,7 +6838,8 @@
         "1794828068": "online",
         "1794896383": "offline",
         "1794989410": "online",
-        "1795144963": "offline"
+        "1795144963": "offline",
+        "1795510787": "online"
       },
       "wss://rpc.blockmachine.io": {
         "1794288677": "online"
@@ -6868,7 +6875,8 @@
         "1794822704": "online",
         "1794828068": "offline",
         "1794896383": "online",
-        "1795418977": "offline"
+        "1795418977": "offline",
+        "1795510787": "online"
       },
       "wss://rpc.xdcrpc.com/ws": {
         "1793027677": "online",
@@ -7278,7 +7286,8 @@
         "1794822704": "online",
         "1794828068": "offline",
         "1794896383": "online",
-        "1795418977": "offline"
+        "1795418977": "offline",
+        "1795510787": "online"
       },
       "wss://rpc.xdcrpc.com/ws": {
         "1793027677": "online",
