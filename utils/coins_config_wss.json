@@ -21171,6 +21171,18 @@
                         "discord": "biigbang0001"
                     }
                 ]
+            },
+            {
+                "url": "electrum1.nitopool.online:50005",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "biigbang0001@zemzar.net"
+                    },
+                    {
+                        "discord": "biigbang0001"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -21219,6 +21231,18 @@
         "electrum": [
             {
                 "url": "electrum1.nito.network:50005",
+                "protocol": "WSS",
+                "contact": [
+                    {
+                        "email": "biigbang0001@zemzar.net"
+                    },
+                    {
+                        "discord": "biigbang0001"
+                    }
+                ]
+            },
+            {
+                "url": "electrum1.nitopool.online:50005",
                 "protocol": "WSS",
                 "contact": [
                     {
@@ -28581,10 +28605,6 @@
         "fallback_swap_contract": "TGXVt3xLM4771cZii7uGMyWkhogSiykTUw",
         "nodes": [
             {
-                "url": "https://tron.drpc.org",
-                "ws_url": "wss://tron.drpc.org"
-            },
-            {
                 "url": "https://tron.rpc.sentio.xyz",
                 "ws_url": "wss://tron.rpc.sentio.xyz"
             }
@@ -29692,10 +29712,6 @@
         "electrum": [
             {
                 "url": "uno-bkp.coinmunity.gold:50003",
-                "protocol": "WSS"
-            },
-            {
-                "url": "uno-main.coinmunity.gold:50003",
                 "protocol": "WSS"
             }
         ],

@@ -5064,7 +5064,8 @@
     "by_server": {
       "159.69.73.223:5061": {
         "1793027677": "online",
-        "1793615609": "offline"
+        "1793615609": "offline",
+        "1795548285": "online"
       },
       "electrum2.nav.community:40002": {
         "1793027677": "online"
@@ -5185,6 +5186,15 @@
       },
       "electrum1.nitopool.fr:50005": {
         "1793027677": "offline"
+      },
+      "electrum1.nitopool.online:50003": {
+        "1795548285": "online"
+      },
+      "electrum1.nitopool.online:50005": {
+        "1795548285": "online"
+      },
+      "electrum1.nitopool.online:50006": {
+        "1795548285": "online"
       }
     }
   },
@@ -5242,6 +5252,15 @@
       },
       "electrum1.nitopool.fr:50005": {
         "1793027677": "offline"
+      },
+      "electrum1.nitopool.online:50003": {
+        "1795548285": "online"
+      },
+      "electrum1.nitopool.online:50005": {
+        "1795548285": "online"
+      },
+      "electrum1.nitopool.online:50006": {
+        "1795548285": "online"
       }
     }
   },
@@ -6319,7 +6338,8 @@
         "1794896383": "offline",
         "1794989410": "online",
         "1795144963": "offline",
-        "1795510787": "online"
+        "1795510787": "online",
+        "1795548285": "offline"
       },
       "wss://rpc.blockmachine.io": {
         "1794288677": "online"
@@ -6570,7 +6590,8 @@
         "1795144963": "offline",
         "1795157629": "online",
         "1795308683": "offline",
-        "1795313242": "online"
+        "1795313242": "online",
+        "1795548285": "offline"
       },
       "https://tron.rpc.sentio.xyz": {
         "1793027677": "offline",
@@ -6603,7 +6624,8 @@
         "1795144963": "offline",
         "1795157629": "online",
         "1795308683": "offline",
-        "1795313242": "online"
+        "1795313242": "online",
+        "1795548285": "offline"
       },
       "wss://tron.rpc.sentio.xyz": {
         "1793027677": "offline",
@@ -6773,12 +6795,14 @@
       "uno-main.coinmunity.gold:50002": {
         "1793027677": "online",
         "1793497849": "offline",
-        "1793615609": "online"
+        "1793615609": "online",
+        "1795548285": "offline"
       },
       "uno-main.coinmunity.gold:50003": {
         "1793027677": "online",
         "1793497849": "offline",
-        "1793615609": "online"
+        "1793615609": "online",
+        "1795548285": "offline"
       }
     }
   },
@@ -6839,7 +6863,8 @@
         "1794896383": "offline",
         "1794989410": "online",
         "1795144963": "offline",
-        "1795510787": "online"
+        "1795510787": "online",
+        "1795548285": "offline"
       },
       "wss://rpc.blockmachine.io": {
         "1794288677": "online"
