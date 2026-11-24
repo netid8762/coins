@@ -3831,10 +3831,6 @@
         },
         "electrum": [
             {
-                "url": "bca-main-2.swaps.org:54002",
-                "protocol": "SSL"
-            },
-            {
                 "url": "bca-main.swaps.org:54002",
                 "protocol": "SSL"
             },
@@ -3888,10 +3884,6 @@
             "homepage": "https://bitcoinatom.io"
         },
         "electrum": [
-            {
-                "url": "bca-main-2.swaps.org:54002",
-                "protocol": "SSL"
-            },
             {
                 "url": "bca-main.swaps.org:54002",
                 "protocol": "SSL"
@@ -4673,16 +4665,6 @@
         },
         "electrum": [
             {
-                "url": "bit-e.minethepla.net:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "def#4726"
-                    }
-                ]
-            },
-            {
                 "url": "bit-e.outsidethebox.top:50004",
                 "protocol": "WSS",
                 "contact": [
@@ -4719,8 +4701,8 @@
                 ]
             },
             {
-                "url": "bitnet.outsidethebox.top:50004",
-                "protocol": "WSS",
+                "url": "bitnet.outsidethebox.top:50002",
+                "protocol": "SSL",
                 "disable_cert_verification": true,
                 "contact": [
                     {

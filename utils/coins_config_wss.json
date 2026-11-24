@@ -3731,16 +3731,6 @@
                         "discord": "nucash"
                     }
                 ]
-            },
-            {
-                "url": "bitnet.outsidethebox.top:50004",
-                "protocol": "WSS",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "def#4726"
-                    }
-                ]
             }
         ],
         "explorer_block_url": "block/"
