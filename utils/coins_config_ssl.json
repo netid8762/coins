@@ -23380,6 +23380,18 @@
                         "discord": "biigbang0001"
                     }
                 ]
+            },
+            {
+                "url": "electrum1.nitopool.online:50003",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "biigbang0001@zemzar.net"
+                    },
+                    {
+                        "discord": "biigbang0001"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block/"
@@ -23428,6 +23440,18 @@
         "electrum": [
             {
                 "url": "electrum1.nito.network:50003",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "email": "biigbang0001@zemzar.net"
+                    },
+                    {
+                        "discord": "biigbang0001"
+                    }
+                ]
+            },
+            {
+                "url": "electrum1.nitopool.online:50003",
                 "protocol": "SSL",
                 "contact": [
                     {
@@ -31470,10 +31494,6 @@
                 "url": "https://tron.api.pocket.network"
             },
             {
-                "url": "https://tron.drpc.org",
-                "ws_url": "wss://tron.drpc.org"
-            },
-            {
                 "url": "https://tron.rpc.sentio.xyz",
                 "ws_url": "wss://tron.rpc.sentio.xyz"
             }
@@ -32762,10 +32782,6 @@
                 "url": "uno-ex-one.ewmci.online:50002",
                 "protocol": "SSL",
                 "disable_cert_verification": true
-            },
-            {
-                "url": "uno-main.coinmunity.gold:50002",
-                "protocol": "SSL"
             }
         ],
         "explorer_block_url": "block.dws?"
