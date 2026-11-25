@@ -4665,6 +4665,35 @@
         },
         "electrum": [
             {
+                "url": "bit-e.minethepla.net:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "def#4726"
+                    }
+                ]
+            },
+            {
+                "url": "bit-e.minethepla.net:50004",
+                "protocol": "WSS",
+                "disable_cert_verification": true,
+                "contact": [
+                    {
+                        "discord": "def#4726"
+                    }
+                ]
+            },
+            {
+                "url": "bit-e.outsidethebox.top:50002",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "def#4726"
+                    }
+                ]
+            },
+            {
                 "url": "bit-e.outsidethebox.top:50004",
                 "protocol": "WSS",
                 "contact": [
@@ -16290,8 +16319,21 @@
             "github": "https://github.com/Flopcoin/Flopcoin",
             "homepage": "https://flopcoin.net"
         },
-        "electrum": [],
-        "delisted": true,
+        "electrum": [
+            {
+                "url": "electrumx1.flopcoin.net:10001",
+                "protocol": "TCP"
+            },
+            {
+                "url": "electrumx1.flopcoin.net:10004",
+                "protocol": "SSL",
+                "contact": [
+                    {
+                        "discord": "technovision"
+                    }
+                ]
+            }
+        ],
         "explorer_block_url": "block/"
     },
     "FLOW-BEP20": {
@@ -24108,10 +24150,6 @@
         },
         "electrum": [
             {
-                "url": "0xrpc.io:60004",
-                "protocol": "WSS"
-            },
-            {
                 "url": "ltc.electrum1.cipig.net:10063",
                 "contact": [
                     {
@@ -24230,10 +24268,6 @@
             "homepage": "https://litecoin.org"
         },
         "electrum": [
-            {
-                "url": "0xrpc.io:60004",
-                "protocol": "WSS"
-            },
             {
                 "url": "ltc.electrum1.cipig.net:10063",
                 "contact": [
@@ -36816,6 +36850,10 @@
             },
             {
                 "url": "https://tron.api.pocket.network"
+            },
+            {
+                "url": "https://tron.drpc.org",
+                "ws_url": "wss://tron.drpc.org"
             },
             {
                 "url": "https://tron.rpc.sentio.xyz",
