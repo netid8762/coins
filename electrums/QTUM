@@ -46,5 +46,20 @@
       }
     ],
     "ws_url": "qtum.electrum1.cipig.net:30050"
+  },
+  {
+    "url": "s1.electrum.qtum.site:50001"
+  },
+  {
+    "url": "s3.electrum.qtum.site:50001"
+  },
+  {
+    "url": "s4.electrum.qtum.site:50001"
+  },
+  {
+    "url": "s8.electrum.qtum.site:50001"
+  },
+  {
+    "url": "s1.qtum.info:50001"
   }
 ]
