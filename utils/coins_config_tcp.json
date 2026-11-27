@@ -3547,6 +3547,10 @@
         },
         "electrum": [
             {
+                "url": "bca-main-2.swaps.org:54002",
+                "protocol": "SSL"
+            },
+            {
                 "url": "bca-main.swaps.org:54002",
                 "protocol": "SSL"
             },
@@ -3600,6 +3604,10 @@
             "homepage": "https://bitcoinatom.io"
         },
         "electrum": [
+            {
+                "url": "bca-main-2.swaps.org:54002",
+                "protocol": "SSL"
+            },
             {
                 "url": "bca-main.swaps.org:54002",
                 "protocol": "SSL"
@@ -4291,16 +4299,6 @@
                 "contact": [
                     {
                         "discord": "nucash"
-                    }
-                ]
-            },
-            {
-                "url": "bitnet.outsidethebox.top:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": true,
-                "contact": [
-                    {
-                        "discord": "def#4726"
                     }
                 ]
             }
@@ -5469,10 +5467,6 @@
         },
         "electrum": [
             {
-                "url": "0xrpc.io:50002",
-                "protocol": "SSL"
-            },
-            {
                 "url": "blackie.c3-soft.com:57002",
                 "protocol": "SSL"
             },
@@ -5547,10 +5541,6 @@
             "homepage": "https://bitcoin.org"
         },
         "electrum": [
-            {
-                "url": "0xrpc.io:50002",
-                "protocol": "SSL"
-            },
             {
                 "url": "blackie.c3-soft.com:57002",
                 "protocol": "SSL"
@@ -31628,10 +31618,6 @@
                 "url": "https://tron.api.pocket.network"
             },
             {
-                "url": "https://tron.drpc.org",
-                "ws_url": "wss://tron.drpc.org"
-            },
-            {
                 "url": "https://tron.rpc.sentio.xyz",
                 "ws_url": "wss://tron.rpc.sentio.xyz"
             }
@@ -32920,6 +32906,10 @@
                 "url": "uno-ex-one.ewmci.online:50002",
                 "protocol": "SSL",
                 "disable_cert_verification": true
+            },
+            {
+                "url": "uno-main.coinmunity.gold:50002",
+                "protocol": "SSL"
             }
         ],
         "explorer_block_url": "block.dws?"
@@ -41746,7 +41736,7 @@
         "coin": "TAR",
         "type": "UTXO",
         "name": "Tarcoin",
-        "coinpaprika_id": "",
+        "coinpaprika_id": "tar-tarcoin-2",
         "coingecko_id": "",
         "livecoinwatch_id": "_TAR",
         "explorer_url": "https://explorer.tarcoin.org/",
@@ -41794,7 +41784,7 @@
         "coin": "TAR-segwit",
         "type": "UTXO",
         "name": "Tarcoin",
-        "coinpaprika_id": "",
+        "coinpaprika_id": "tar-tarcoin-2",
         "coingecko_id": "",
         "livecoinwatch_id": "_TAR",
         "explorer_url": "https://explorer.tarcoin.org/",
@@ -41891,5 +41881,81 @@
             }
         ],
         "explorer_block_url": "block/"
+    },
+    "SOL": {
+        "coin": "SOL",
+        "type": "SOLANA",
+        "name": "Solana",
+        "coinpaprika_id": "sol-solana",
+        "coingecko_id": "solana",
+        "livecoinwatch_id": "SOL",
+        "explorer_url": "https://explorer.solana.com/",
+        "explorer_tx_url": "tx/{TX}",
+        "explorer_address_url": "address/{ADDRESS}",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": true,
+        "fname": "Solana",
+        "mm2": 1,
+        "decimals": 9,
+        "avg_blocktime": 0.4,
+        "required_confirmations": 1,
+        "protocol": {
+            "type": "SOLANA",
+            "protocol_data": {}
+        },
+        "derivation_path": "m/44'/501'",
+        "nodes": [
+            {
+                "url": "https://api.mainnet-beta.solana.com"
+            },
+            {
+                "url": "https://solana-rpc.publicnode.com"
+            }
+        ],
+        "explorer_block_url": "block/{BLOCK}"
+    },
+    "USDC-SOL": {
+        "coin": "USDC-SOL",
+        "type": "SOLANATOKEN",
+        "name": "USD Coin (Solana)",
+        "coinpaprika_id": "usdc-usd-coin",
+        "coingecko_id": "usd-coin",
+        "livecoinwatch_id": "USDC",
+        "explorer_url": "https://explorer.solana.com/",
+        "explorer_tx_url": "tx/{TX}",
+        "explorer_address_url": "address/{ADDRESS}",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": true,
+        "fname": "USD Coin (Solana)",
+        "mm2": 1,
+        "avg_blocktime": 0.4,
+        "required_confirmations": 1,
+        "protocol": {
+            "type": "SOLANATOKEN",
+            "protocol_data": {
+                "platform": "SOL",
+                "decimals": 6,
+                "mint_address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+                "program_id": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+            }
+        },
+        "derivation_path": "m/44'/501'",
+        "parent_coin": "SOL",
+        "decimals": 6,
+        "nodes": [
+            {
+                "url": "https://api.mainnet-beta.solana.com"
+            },
+            {
+                "url": "https://solana-rpc.publicnode.com"
+            }
+        ],
+        "explorer_block_url": "block/{BLOCK}"
     }
 }

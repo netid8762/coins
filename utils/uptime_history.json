@@ -460,7 +460,8 @@
     "by_server": {
       "bca-main-2.swaps.org:54002": {
         "1793409703": "online",
-        "1795510787": "offline"
+        "1795510787": "offline",
+        "1795772748": "online"
       },
       "bca-main.swaps.org:54002": {
         "1793409703": "online"
@@ -477,7 +478,8 @@
     "by_server": {
       "bca-main-2.swaps.org:54002": {
         "1793409703": "online",
-        "1795510787": "offline"
+        "1795510787": "offline",
+        "1795772748": "online"
       },
       "bca-main.swaps.org:54002": {
         "1793409703": "online"
@@ -692,7 +694,8 @@
         "1795144963": "offline",
         "1795157629": "online",
         "1795347064": "offline",
-        "1795510787": "online"
+        "1795510787": "online",
+        "1795772748": "offline"
       },
       "bitnet.outsidethebox.top:50004": {
         "1793027677": "offline",
@@ -863,7 +866,8 @@
       "0xrpc.io:50002": {
         "1794806556": "online",
         "1795144963": "offline",
-        "1795157629": "online"
+        "1795157629": "online",
+        "1795772748": "offline"
       },
       "0xrpc.io:50004": {
         "1794806556": "online",
@@ -906,7 +910,8 @@
       "0xrpc.io:50002": {
         "1794806556": "online",
         "1795144963": "offline",
-        "1795157629": "online"
+        "1795157629": "online",
+        "1795772748": "offline"
       },
       "0xrpc.io:50004": {
         "1794806556": "online",
@@ -3074,7 +3079,8 @@
         "1795609230": "online"
       },
       "flop-electrum.wattxchange.app:443": {
-        "1793027677": "offline"
+        "1793027677": "offline",
+        "1795772748": "online"
       }
     }
   },
@@ -6600,7 +6606,8 @@
         "1795308683": "offline",
         "1795313242": "online",
         "1795548285": "offline",
-        "1795609230": "online"
+        "1795609230": "online",
+        "1795772748": "offline"
       },
       "https://tron.rpc.sentio.xyz": {
         "1793027677": "offline",
@@ -6635,7 +6642,8 @@
         "1795308683": "offline",
         "1795313242": "online",
         "1795548285": "offline",
-        "1795609230": "online"
+        "1795609230": "online",
+        "1795772748": "offline"
       },
       "wss://tron.rpc.sentio.xyz": {
         "1793027677": "offline",
@@ -6806,13 +6814,15 @@
         "1793027677": "online",
         "1793497849": "offline",
         "1793615609": "online",
-        "1795548285": "offline"
+        "1795548285": "offline",
+        "1795772748": "online"
       },
       "uno-main.coinmunity.gold:50003": {
         "1793027677": "online",
         "1793497849": "offline",
         "1793615609": "online",
-        "1795548285": "offline"
+        "1795548285": "offline",
+        "1795772748": "online"
       }
     }
   },
