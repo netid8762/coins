@@ -376,5 +376,7 @@
     "SKL-ERC20": "SKL",
     "CVC-ERC20": "CVC",
     "XEC": "XEC",
-    "OSMO": "OSMO"
+    "OSMO": "OSMO",
+    "SOL": "SOL",
+    "USDC-SOL": "USDC"
 }
